@@ -1,0 +1,2938 @@
+<node name="Root">
+	<queries>
+		<query category="Health" text="aids health hiv medical"/>
+		<query category="Health" text="diet health"/>
+		<query category="Health" text="aids health hiv"/>
+		<query category="Health" text="cancer treatment"/>
+		<query category="Health" text="andrew health"/>
+		<query category="Health" text="dentist patient patients"/>
+		<query category="Health" text="day disease medical"/>
+		<query category="Health" text="dental dentist health"/>
+		<query category="Health" text="medical patients recommendations"/>
+		<query category="Health" text="diabetes find health"/>
+		<query category="Health" text="att health"/>
+		<query category="Health" text="diet fat weight"/>
+		<query category="Health" text="diet doctor"/>
+		<query category="Health" text="alternative health medicine"/>
+		<query category="Health" text="cancer patient patients"/>
+		<query category="Health" text="hiv patients"/>
+		<query category="Health" text="cancer prostate"/>
+		<query category="Health" text="medical patients"/>
+		<query category="Health" text="cancer health"/>
+		<query category="Health" text="blood doctor"/>
+		<query category="Health" text="exercise fitness weight"/>
+		<query category="Health" text="aids hiv"/>
+		<query category="Health" text="diet exercise"/>
+		<query category="Health" text="amalgam health"/>
+		<query category="Health" text="aids health"/>
+		<query category="Health" text="patient tooth"/>
+		<query category="Health" text="diabetes type"/>
+		<query category="Health" text="calories fat"/>
+		<query category="Health" text="health nurses"/>
+		<query category="Health" text="doctor heart"/>
+		<query category="Health" text="cancer chemo"/>
+		<query category="Health" text="care health message products"/>
+		<query category="Health" text="medical message news"/>
+		<query category="Health" text="uk walking"/>
+		<query category="Health" text="fat weight"/>
+		<query category="Health" text="nursing patients"/>
+		<query category="Health" text="alternative health ve"/>
+		<query category="Health" text="health"/>
+		<query category="Health" text="cancer"/>
+		<query category="Health" text="nurse nursing"/>
+		<query category="Health" text="diet"/>
+		<query category="Health" text="clothing exercise"/>
+		<query category="Health" text="dentist tooth"/>
+		<query category="Health" text="care patient"/>
+		<query category="Health" text="fitness heart rate"/>
+		<query category="Health" text="exercise walking"/>
+		<query category="Health" text="blood test"/>
+		<query category="Health" text="patients"/>
+		<query category="Health" text="day mg"/>
+		<query category="Health" text="doctor"/>
+		<query category="Health" text="nursing"/>
+		<query category="Health" text="heart message rate"/>
+		<query category="Health" text="diabetes"/>
+		<query category="Health" text="workout"/>
+		<query category="Health" text="dental joel"/>
+		<query category="Health" text="aerobic fitness"/>
+		<query category="Health" text="blood message pressure"/>
+		<query category="Health" text="shoes walking wear"/>
+		<query category="Health" text="surgery treatment"/>
+		<query category="Health" text="message muscle working"/>
+		<query category="Health" text="dentist treatment"/>
+		<query category="Health" text="medicine treatment"/>
+		<query category="Health" text="walkers walking"/>
+		<query category="Health" text="lose weight"/>
+		<query category="Health" text="andrew kingoff"/>
+		<query category="Health" text="heart min rate"/>
+		<query category="Health" text="disease heart"/>
+		<query category="Health" text="blood sugar"/>
+		<query category="Health" text="eating meat"/>
+		<query category="Health" text="message muscle"/>
+		<query category="Health" text="day message walking"/>
+		<query category="Health" text="hiv question"/>
+		<query category="Health" text="chest pain"/>
+		<query category="Health" text="eichen joel"/>
+		<query category="Health" text="fat protein"/>
+		<query category="Health" text="appreciated walking"/>
+		<query category="Health" text="aids stein"/>
+		<query category="Health" text="dr medical test"/>
+		<query category="Health" text="dental"/>
+		<query category="Health" text="exercise gym"/>
+		<query category="Health" text="alternative medicine scientific"/>
+		<query category="Sports" text="players team"/>
+		<query category="Sports" text="cc season team"/>
+		<query category="Sports" text="team teams"/>
+		<query category="Sports" text="jun league team"/>
+		<query category="Sports" text="cc game season"/>
+		<query category="Sports" text="league team"/>
+		<query category="Sports" text="article player team"/>
+		<query category="Sports" text="ball game team"/>
+		<query category="Sports" text="cc jun team"/>
+		<query category="Sports" text="boat boats ve"/>
+		<query category="Sports" text="game players season"/>
+		<query category="Sports" text="season team"/>
+		<query category="Sports" text="climbing rope"/>
+		<query category="Sports" text="boat sailing"/>
+		<query category="Sports" text="game league"/>
+		<query category="Sports" text="basketball nba"/>
+		<query category="Sports" text="boat paddle"/>
+		<query category="Sports" text="climbing rock"/>
+		<query category="Sports" text="player team"/>
+		<query category="Sports" text="bike frame"/>
+		<query category="Sports" text="fans team"/>
+		<query category="Sports" text="climbing deja"/>
+		<query category="Sports" text="basketball game women"/>
+		<query category="Sports" text="boat canoe"/>
+		<query category="Sports" text="league players"/>
+		<query category="Sports" text="art martial"/>
+		<query category="Sports" text="game lakers"/>
+		<query category="Sports" text="deja volleyball"/>
+		<query category="Sports" text="climbing tr"/>
+		<query category="Sports" text="boat"/>
+		<query category="Sports" text="basketball coach"/>
+		<query category="Sports" text="game team"/>
+		<query category="Sports" text="bike road"/>
+		<query category="Sports" text="newsmaster season"/>
+		<query category="Sports" text="climber climbing"/>
+		<query category="Sports" text="teams"/>
+		<query category="Sports" text="climbing pretty"/>
+		<query category="Sports" text="fastest funding team"/>
+		<query category="Sports" text="climbing"/>
+		<query category="Sports" text="def team"/>
+		<query category="Sports" text="coach players"/>
+		<query category="Sports" text="arts martial"/>
+		<query category="Sports" text="assists game score"/>
+		<query category="Sports" text="nba"/>
+		<query category="Sports" text="volleyball"/>
+		<query category="Sports" text="bike johnson"/>
+		<query category="Sports" text="basketball"/>
+		<query category="Sports" text="bike shop"/>
+		<query category="Sports" text="paddling"/>
+		<query category="Sports" text="bike rear"/>
+		<query category="Sports" text="game uconn"/>
+		<query category="Sports" text="play team year"/>
+		<query category="Sports" text="clarinews"/>
+		<query category="Sports" text="play team"/>
+		<query category="Sports" text="hike hiking"/>
+		<query category="Sports" text="players soccer"/>
+		<query category="Sports" text="miles river trip"/>
+		<query category="Sports" text="club league"/>
+		<query category="Sports" text="bike bikes message"/>
+		<query category="Sports" text="fans leeds"/>
+		<query category="Sports" text="knight"/>
+		<query category="Sports" text="bike speed"/>
+		<query category="Sports" text="buy gear"/>
+		<query category="Sports" text="capt neal"/>
+		<query category="Sports" text="game kim season"/>
+		<query category="Sports" text="river trip ve"/>
+		<query category="Sports" text="sailing"/>
+		<query category="Sports" text="pacers team"/>
+		<query category="Sports" text="hit sport"/>
+		<query category="Sports" text="game season"/>
+		<query category="Sports" text="cos sports"/>
+		<query category="Sports" text="cota fans"/>
+		<query category="Sports" text="bike touring"/>
+		<query category="Sports" text="ocoee river"/>
+		<query category="Sports" text="men ncaa"/>
+		<query category="Sports" text="canoe canoes"/>
+		<query category="Sports" text="champions league"/>
+		<query category="Sports" text="bike stop"/>
+		<query category="Sports" text="shimano"/>
+		<query category="Sports" text="balls geocities remarq"/>
+		<query category="Sports" text="soccer"/>
+		<query category="Sports" text="popular sport sports"/>
+		<query category="Sports" text="paddle"/>
+		<query category="Sports" text="soccer"/>
+		<query category="Sports" text="karate"/>
+		<query category="Sports" text="game points scored"/>
+		<query category="Sports" text="climb don route"/>
+		<query category="Sports" text="hiking"/>
+		<query category="Sports" text="hiking"/>
+		<query category="Sports" text="fans football"/>
+		<query category="Sports" text="article climb ll"/>
+		<query category="Sports" text="rope wire"/>
+		<query category="Sports" text="players wnba"/>
+		<query category="Sports" text="match team"/>
+		<query category="Sports" text="la sport"/>
+		<query category="Sports" text="tournament"/>
+		<query category="Sports" text="kayak"/>
+		<query category="Sports" text="coach year"/>
+		<query category="Sports" text="finals"/>
+		<query category="Sports" text="bike chain"/>
+		<query category="Sports" text="ride road"/>
+		<query category="Sports" text="karate styles"/>
+		<query category="Sports" text="climb mt"/>
+		<query category="Sports" text="ball player"/>
+		<query category="Science" text="butterflies species"/>
+		<query category="Science" text="dinosaurs species"/>
+		<query category="Science" text="model theory"/>
+		<query category="Science" text="species"/>
+		<query category="Science" text="psychotherapy science"/>
+		<query category="Science" text="data statistics test"/>
+		<query category="Science" text="consistency existence theory"/>
+		<query category="Science" text="evolution science selection"/>
+		<query category="Science" text="made science universe"/>
+		<query category="Science" text="data professor rutgers"/>
+		<query category="Science" text="fact logic things wetzel"/>
+		<query category="Science" text="definition god logical"/>
+		<query category="Science" text="legal religion state"/>
+		<query category="Science" text="biology department science"/>
+		<query category="Science" text="fact logic things"/>
+		<query category="Science" text="evolution theory"/>
+		<query category="Science" text="geology science"/>
+		<query category="Science" text="linguist university"/>
+		<query category="Science" text="definition frege"/>
+		<query category="Science" text="data distribution sample"/>
+		<query category="Science" text="analysis data regression variables"/>
+		<query category="Science" text="psychology psychotherapy"/>
+		<query category="Science" text="analysis data problem"/>
+		<query category="Science" text="plants soil"/>
+		<query category="Science" text="earth form provide science"/>
+		<query category="Science" text="fact noronen"/>
+		<query category="Science" text="data distribution kind"/>
+		<query category="Science" text="cal dinosaurs"/>
+		<query category="Science" text="plants science"/>
+		<query category="Science" text="probability question"/>
+		<query category="Science" text="data model"/>
+		<query category="Science" text="government jews nazi"/>
+		<query category="Science" text="engineering science"/>
+		<query category="Science" text="exist god logical"/>
+		<query category="Science" text="economics interest"/>
+		<query category="Science" text="article earth reason"/>
+		<query category="Science" text="church history state"/>
+		<query category="Science" text="efficient plants"/>
+		<query category="Science" text="economics edward"/>
+		<query category="Science" text="concerned message point question word"/>
+		<query category="Science" text="growing plant"/>
+		<query category="Science" text="big present question science"/>
+		<query category="Science" text="geology"/>
+		<query category="Science" text="economics university"/>
+		<query category="Science" text="existence logic tom"/>
+		<query category="Science" text="hendricks theory"/>
+		<query category="Science" text="dinosaurs"/>
+		<query category="Science" text="data seismic"/>
+		<query category="Science" text="distribution random variables"/>
+		<query category="Science" text="calculate data sample"/>
+		<query category="Science" text="definition sets true"/>
+		<query category="Science" text="analysis correlation data point"/>
+		<query category="Science" text="calendar holocaust"/>
+		<query category="Science" text="democratic economic government message"/>
+		<query category="Science" text="definition multiset"/>
+		<query category="Science" text="government war"/>
+		<query category="Science" text="butterflies"/>
+		<query category="Science" text="earth question"/>
+		<query category="Science" text="correlations methods science"/>
+		<query category="Science" text="information surface water"/>
+		<query category="Science" text="data statistical"/>
+		<query category="Science" text="noronen"/>
+		<query category="Science" text="plant"/>
+		<query category="Science" text="data information statistics"/>
+		<query category="Science" text="logic propositional"/>
+		<query category="Science" text="gas oil"/>
+		<query category="Science" text="context logic order"/>
+		<query category="Science" text="analysis values"/>
+		<query category="Science" text="definition news statement true"/>
+		<query category="Science" text="rcjohnsen subject"/>
+		<query category="Science" text="evolution organisms"/>
+		<query category="Science" text="earth found science"/>
+		<query category="Science" text="distribution distributions normal"/>
+		<query category="Science" text="general investment theory"/>
+		<query category="Science" text="economic government inflation"/>
+		<query category="Science" text="cagle"/>
+		<query category="Science" text="economic gdp"/>
+		<query category="Science" text="created government money"/>
+		<query category="Science" text="dlj"/>
+		<query category="Science" text="genetic history research"/>
+		<query category="Science" text="information king"/>
+		<query category="Science" text="mccarthy science"/>
+		<query category="Science" text="biology department information"/>
+		<query category="Science" text="linguistics university"/>
+		<query category="Science" text="logic proof rules"/>
+		<query category="Science" text="logic property"/>
+		<query category="Science" text="anon brad"/>
+		<query category="Science" text="distribution function"/>
+		<query category="Science" text="article dictionary subject"/>
+		<query category="Science" text="greek history"/>
+		<query category="Science" text="center research software"/>
+		<query category="Science" text="paradox probability"/>
+		<query category="Science" text="field question research"/>
+		<query category="Science" text="economics technology"/>
+		<query category="Science" text="fossil"/>
+		<query category="Science" text="moderator research"/>
+		<query category="Science" text="analysis variable variables"/>
+		<query category="Science" text="biology evolutionary"/>
+		<query category="Science" text="economic programs research"/>
+		<query category="Science" text="australian government"/>
+		<query category="Science" text="genes subject"/>
+		<query category="Science" text="jews nazi war"/>
+		<query category="Science" text="happen holocaust"/>
+		<query category="Science" text="tree trees"/>
+		<query category="Science" text="social theory"/>
+		<query category="Science" text="data linear log"/>
+		<query category="Science" text="dna evolution"/>
+		<query category="Science" text="logic object"/>
+		<query category="Science" text="data snip uk"/>
+		<query category="Computers" text="file pub windows"/>
+		<query category="Computers" text="code error file"/>
+		<query category="Computers" text="file perl"/>
+		<query category="Computers" text="code string"/>
+		<query category="Computers" text="pub windows"/>
+		<query category="Computers" text="bytes file"/>
+		<query category="Computers" text="code java"/>
+		<query category="Computers" text="cnet file"/>
+		<query category="Computers" text="code vb"/>
+		<query category="Computers" text="class java"/>
+		<query category="Computers" text="code perl"/>
+		<query category="Computers" text="file windows work"/>
+		<query category="Computers" text="drivers windows"/>
+		<query category="Computers" text="file java"/>
+		<query category="Computers" text="cnet windows"/>
+		<query category="Computers" text="bytes program"/>
+		<query category="Computers" text="code int"/>
+		<query category="Computers" text="cnet software"/>
+		<query category="Computers" text="file windows"/>
+		<query category="Computers" text="perl"/>
+		<query category="Computers" text="java server"/>
+		<query category="Computers" text="file vb"/>
+		<query category="Computers" text="game message news pc"/>
+		<query category="Computers" text="code file library"/>
+		<query category="Computers" text="pc windows"/>
+		<query category="Computers" text="file program"/>
+		<query category="Computers" text="java version"/>
+		<query category="Computers" text="java"/>
+		<query category="Computers" text="code compiler"/>
+		<query category="Computers" text="pub software"/>
+		<query category="Computers" text="computer games"/>
+		<query category="Computers" text="cnet posted"/>
+		<query category="Computers" text="file module"/>
+		<query category="Computers" text="code object"/>
+		<query category="Computers" text="char file"/>
+		<query category="Computers" text="screen windows"/>
+		<query category="Computers" text="file files player"/>
+		<query category="Computers" text="cpu message"/>
+		<query category="Computers" text="code file path"/>
+		<query category="Computers" text="download version windows"/>
+		<query category="Computers" text="code error"/>
+		<query category="Computers" text="file line string"/>
+		<query category="Computers" text="bytes pub"/>
+		<query category="Computers" text="vb windows"/>
+		<query category="Computers" text="file input open"/>
+		<query category="Computers" text="exe file message"/>
+		<query category="Computers" text="card pc video"/>
+		<query category="Computers" text="database file"/>
+		<query category="Arts" text="classical music"/>
+		<query category="Arts" text="cd heard music"/>
+		<query category="Arts" text="music piece"/>
+		<query category="Arts" text="instrumental music"/>
+		<query category="Arts" text="hip music"/>
+		<query category="Arts" text="music"/>
+		<query category="Arts" text="film kodak"/>
+		<query category="Arts" text="film movie"/>
+		<query category="Arts" text="film print"/>
+		<query category="Arts" text="film films"/>
+		<query category="Arts" text="album"/>
+		<query category="Arts" text="color film"/>
+		<query category="Arts" text="love poems"/>
+		<query category="Arts" text="film format"/>
+		<query category="Arts" text="film"/>
+		<query category="Arts" text="line man movie"/>
+		<query category="Arts" text="network show shows tv"/>
+		<query category="Arts" text="films movie"/>
+		<query category="Arts" text="plays shakespeare"/>
+		<query category="Arts" text="box movie"/>
+		<query category="Arts" text="actors movie"/>
+		<query category="Arts" text="poem poetry"/>
+		<query category="Arts" text="episode show"/>
+		<query category="Arts" text="love song"/>
+		<query category="Arts" text="dan tropea tv"/>
+		<query category="Arts" text="love movie movies"/>
+		<query category="Arts" text="movie spoilers"/>
+		<query category="Arts" text="movie watched"/>
+		<query category="Arts" text="hip song"/>
+		<query category="Arts" text="love poem"/>
+		<query category="Arts" text="movie travolta"/>
+		<query category="Arts" text="heard song songs"/>
+		<query category="Arts" text="century movie"/>
+		<query category="Arts" text="don girl hurt love"/>
+		<query category="Arts" text="angel love"/>
+		<query category="Arts" text="song"/>
+		<query category="Arts" text="movie movies"/>
+		<query category="Arts" text="arts tv"/>
+		<query category="Arts" text="bob shakespeare"/>
+		<query category="Arts" text="poems poetry"/>
+		<query category="Arts" text="love peace spirit"/>
+		<query category="Arts" text="hip hop peace"/>
+		<query category="Arts" text="camera lenses"/>
+		<query category="Arts" text="productions show"/>
+		<query category="Arts" text="art photography"/>
+	</queries>
+	<nodes>
+		<node name="Health">
+			<queries>
+				<query category="FitnessNutrition" text="fat muscle"/>
+				<query category="FitnessNutrition" text="aerobic fitness"/>
+				<query category="FitnessNutrition" text="training weight"/>
+				<query category="FitnessNutrition" text="mile walking"/>
+				<query category="FitnessNutrition" text="calories fat"/>
+				<query category="FitnessNutrition" text="uk walking"/>
+				<query category="FitnessNutrition" text="fitness weight"/>
+				<query category="FitnessNutrition" text="walking"/>
+				<query category="FitnessNutrition" text="body day fat message"/>
+				<query category="FitnessNutrition" text="fat"/>
+				<query category="FitnessNutrition" text="fitness"/>
+				<query category="FitnessNutrition" text="workout"/>
+				<query category="FitnessNutrition" text="eric midkiff"/>
+				<query category="FitnessNutrition" text="chris writes"/>
+				<query category="FitnessNutrition" text="muscle weight"/>
+				<query category="FitnessNutrition" text="diet gohde"/>
+				<query category="FitnessNutrition" text="article easy weight"/>
+				<query category="FitnessNutrition" text="quentin"/>
+				<query category="FitnessNutrition" text="calories don weight"/>
+				<query category="FitnessNutrition" text="scotland"/>
+				<query category="FitnessNutrition" text="lyle"/>
+				<query category="FitnessNutrition" text="clothing exercise"/>
+				<query category="FitnessNutrition" text="weight weights"/>
+				<query category="FitnessNutrition" text="mfw"/>
+				<query category="FitnessNutrition" text="milk truth"/>
+				<query category="FitnessNutrition" text="munro uk"/>
+				<query category="FitnessNutrition" text="eating meat point"/>
+				<query category="FitnessNutrition" text="apr diet"/>
+				<query category="FitnessNutrition" text="day lbs weight"/>
+				<query category="FitnessNutrition" text="muscle"/>
+				<query category="FitnessNutrition" text="mile walk"/>
+				<query category="FitnessNutrition" text="cut milk"/>
+				<query category="FitnessNutrition" text="ben north"/>
+				<query category="FitnessNutrition" text="gohde"/>
+				<query category="FitnessNutrition" text="george trainhard uk"/>
+				<query category="Diseases" text="aids hiv"/>
+				<query category="Diseases" text="cancer small treatment"/>
+				<query category="Diseases" text="cancer patients roda"/>
+				<query category="Diseases" text="cancer orac"/>
+				<query category="Diseases" text="article cancer cure"/>
+				<query category="Diseases" text="dentist"/>
+				<query category="Diseases" text="cancer psa"/>
+				<query category="Diseases" text="diabetes support"/>
+				<query category="Diseases" text="cancer treatment"/>
+				<query category="Diseases" text="blood diabetes doctor"/>
+				<query category="Diseases" text="blood doctor high pressure"/>
+				<query category="Diseases" text="diabetes life"/>
+				<query category="Diseases" text="eichen joel"/>
+				<query category="Diseases" text="cancer fact medical"/>
+				<query category="Diseases" text="cholesterol doctor information person"/>
+				<query category="Diseases" text="cancer"/>
+				<query category="Diseases" text="diabetes prayer site"/>
+				<query category="Diseases" text="doctor"/>
+				<query category="Diseases" text="hiv"/>
+				<query category="Diseases" text="bg blood"/>
+				<query category="Diseases" text="aids article"/>
+				<query category="Diseases" text="dental treatment"/>
+				<query category="Diseases" text="heart symptoms"/>
+				<query category="Diseases" text="diabetes find"/>
+				<query category="Diseases" text="effect problems treatment"/>
+				<query category="Diseases" text="discuss patients"/>
+				<query category="Diseases" text="dental"/>
+				<query category="Diseases" text="disease heart years"/>
+				<query category="Diseases" text="treatment"/>
+				<query category="Diseases" text="loretta"/>
+				<query category="Diseases" text="aids gary"/>
+				<query category="Diseases" text="blood heart surgery"/>
+				<query category="Diseases" text="cardiology"/>
+				<query category="Diseases" text="diabetes type years"/>
+				<query category="Diseases" text="patient tooth"/>
+				<query category="Diseases" text="diabetes diabetics"/>
+				<query category="Diseases" text="back colin dr"/>
+				<query category="Diseases" text="dr patient"/>
+				<query category="Diseases" text="diabetic taking"/>
+				<query category="Diseases" text="blood hypertension pressure"/>
+				<query category="Diseases" text="diabetic"/>
+				<query category="Diseases" text="artery disease heart"/>
+				<query category="Diseases" text="tooth"/>
+				<query category="Diseases" text="drug industry"/>
+				<query category="Diseases" text="aids"/>
+				<query category="Diseases" text="hans"/>
+				<query category="Diseases" text="gary stein"/>
+				<query category="Diseases" text="blood control day"/>
+				<query category="Diseases" text="cholesterol effect information"/>
+				<query category="Diseases" text="heart side"/>
+				<query category="Diseases" text="diabetic question"/>
+				<query category="Diseases" text="krin"/>
+				<query category="Diseases" text="insulin time"/>
+				<query category="Diseases" text="charles evans"/>
+				<query category="Diseases" text="diabetes hard"/>
+				<query category="Diseases" text="cardiologist"/>
+				<query category="Diseases" text="dentistry"/>
+				<query category="Diseases" text="remembered tomorrow"/>
+				<query category="Diseases" text="krin ll"/>
+				<query category="Diseases" text="charset news"/>
+				<query category="Diseases" text="insurance medical"/>
+				<query category="Diseases" text="wombn"/>
+				<query category="Diseases" text="bev email"/>
+				<query category="Diseases" text="rosenberg ted"/>
+				<query category="Diseases" text="insulin lilly"/>
+				<query category="Diseases" text="amalgam"/>
+				<query category="Diseases" text="heart side"/>
+				<query category="Diseases" text="diagnosed test"/>
+				<query category="Diseases" text="doctors liver"/>
+				<query category="Diseases" text="radiation"/>
+				<query category="Diseases" text="dr usa"/>
+				<query category="Diseases" text="deja pontic"/>
+				<query category="Diseases" text="cardiac"/>
+				<query category="Diseases" text="atrial"/>
+				<query category="Diseases" text="spam visit"/>
+				<query category="Diseases" text="advance ecg information"/>
+				<query category="Diseases" text="insurance medical news"/>
+				<query category="Diseases" text="orac"/>
+				<query category="Diseases" text="html syndrome"/>
+				<query category="Diseases" text="lipitor"/>
+				<query category="Diseases" text="jude"/>
+				<query category="Diseases" text="rp surgery"/>
+				<query category="Diseases" text="diabetes read"/>
+				<query category="Diseases" text="control testing"/>
+				<query category="Diseases" text="blood meter"/>
+				<query category="Alternative" text="andrew kingoff"/>
+				<query category="Alternative" text="eastern jan"/>
+				<query category="Alternative" text="hulda jan"/>
+				<query category="Alternative" text="acupuncture"/>
+				<query category="Alternative" text="alternative hundreds topic"/>
+				<query category="Alternative" text="wright"/>
+				<query category="Alternative" text="naet"/>
+				<query category="Alternative" text="connie"/>
+				<query category="Alternative" text="bain"/>
+				<query category="Alternative" text="dismissed hulda"/>
+				<query category="Alternative" text="yarrow"/>
+				<query category="Alternative" text="erf"/>
+				<query category="Alternative" text="hulda"/>
+				<query category="Alternative" text="alternative enemy health"/>
+				<query category="Alternative" text="kali"/>
+				<query category="Alternative" text="action ritalin"/>
+				<query category="Alternative" text="mpinet"/>
+				<query category="Alternative" text="karuna"/>
+				<query category="Alternative" text="light love steven"/>
+				<query category="Alternative" text="eastern id standard"/>
+				<query category="Alternative" text="aaron fox"/>
+				<query category="Alternative" text="af apr"/>
+				<query category="Alternative" text="habib"/>
+				<query category="Nursing" text="nurses nursing"/>
+				<query category="Nursing" text="nursing rn"/>
+				<query category="Nursing" text="nursing shortage"/>
+				<query category="Nursing" text="diagnoses nursing"/>
+				<query category="Nursing" text="nursing"/>
+				<query category="Nursing" text="nurses unit"/>
+				<query category="Nursing" text="nurse pt"/>
+				<query category="Nursing" text="nurses rn"/>
+				<query category="Nursing" text="job nurse"/>
+				<query category="Nursing" text="nurses strike"/>
+				<query category="Nursing" text="nurses"/>
+				<query category="Nursing" text="nurse"/>
+				<query category="Nursing" text="kurt"/>
+				<query category="Nursing" text="thevindicator"/>
+				<query category="Nursing" text="dottie"/>
+				<query category="Nursing" text="daeh"/>
+				<query category="Nursing" text="bsn rn"/>
+				<query category="Nursing" text="crush"/>
+				<query category="Nursing" text="cathy"/>
+				<query category="Nursing" text="ramblinon"/>
+				<query category="Nursing" text="hospital rn"/>
+				<query category="Nursing" text="elian free"/>
+				<query category="Nursing" text="oldsalt"/>
+				<query category="Nursing" text="celeb"/>
+			</queries>
+			<nodes>
+				<node name="FitnessNutrition">
+					<queries>
+						<query category="Aerobic" text="fitness"/>
+						<query category="Aerobic" text="aerobic body fitness"/>
+						<query category="Aerobic" text="clothing exercise"/>
+						<query category="Aerobic" text="clothing exercise"/>
+						<query category="Aerobic" text="workout"/>
+						<query category="Aerobic" text="fitness"/>
+						<query category="Aerobic" text="sling"/>
+						<query category="Aerobic" text="aerobic"/>
+						<query category="Aerobic" text="heart rate"/>
+						<query category="Aerobic" text="muscle weight"/>
+						<query category="Aerobic" text="treadmill"/>
+						<query category="Aerobic" text="aerobics"/>
+						<query category="Nutrition" text="gohde health"/>
+						<query category="Nutrition" text="diet saturated"/>
+						<query category="Nutrition" text="diet quentin"/>
+						<query category="Nutrition" text="food health"/>
+						<query category="Nutrition" text="diet low"/>
+						<query category="Nutrition" text="quentin"/>
+						<query category="Nutrition" text="eating meat"/>
+						<query category="Nutrition" text="nutrition"/>
+						<query category="Nutrition" text="milk"/>
+						<query category="Walking" text="uk walking"/>
+						<query category="Walking" text="miles walk walking"/>
+						<query category="Walking" text="walking"/>
+						<query category="Walking" text="uk writes"/>
+						<query category="Walking" text="north west"/>
+						<query category="Walking" text="scotland"/>
+						<query category="Walking" text="walk"/>
+						<query category="Weights" text="eric midkiff"/>
+						<query category="Weights" text="lyle"/>
+						<query category="Weights" text="mfw"/>
+						<query category="Weights" text="schuh"/>
+						<query category="Weights" text="krista"/>
+						<query category="Weights" text="lifting"/>
+						<query category="Weights" text="anonymous"/>
+						<query category="Weights" text="kevin"/>
+						<query category="Weights" text="bench"/>
+						<query category="Weights" text="george"/>
+					</queries>
+					<nodes>
+						<node name="Aerobic"/>
+						<node name="Nutrition"/>
+						<node name="Walking"/>
+						<node name="Weights"/>
+					</nodes>
+				</node>
+				<node name="Diseases">
+					<queries>
+						<query category="Aids" text="hiv infection"/>
+						<query category="Aids" text="aids gary hiv"/>
+						<query category="Aids" text="aids hiv"/>
+						<query category="Aids" text="aids stein"/>
+						<query category="Aids" text="hiv"/>
+						<query category="Aids" text="aids"/>
+						<query category="Aids" text="stein"/>
+						<query category="Aids" text="bennett"/>
+						<query category="Cancer" text="cancer chemo"/>
+						<query category="Cancer" text="cancer david orac"/>
+						<query category="Cancer" text="cancer prostate"/>
+						<query category="Cancer" text="cancer roda"/>
+						<query category="Cancer" text="cancer"/>
+						<query category="Cancer" text="physicians roda"/>
+						<query category="Cancer" text="orac"/>
+						<query category="Cancer" text="radiation"/>
+						<query category="Cancer" text="death pharma"/>
+						<query category="Cancer" text="soy"/>
+						<query category="Cancer" text="gonzalez"/>
+						<query category="Cancer" text="psa"/>
+						<query category="Cancer" text="rp"/>
+						<query category="Dentistry" text="dentist tooth"/>
+						<query category="Dentistry" text="joel"/>
+						<query category="Dentistry" text="dental"/>
+						<query category="Dentistry" text="dentist teeth"/>
+						<query category="Dentistry" text="crown tooth"/>
+						<query category="Dentistry" text="teeth"/>
+						<query category="Dentistry" text="dentists"/>
+						<query category="Dentistry" text="hans"/>
+						<query category="Dentistry" text="dentist"/>
+						<query category="Dentistry" text="dentistry"/>
+						<query category="Dentistry" text="mercury"/>
+						<query category="Dentistry" text="tooth"/>
+						<query category="Diabetes" text="diabetes mar"/>
+						<query category="Diabetes" text="diabetes diabetic"/>
+						<query category="Diabetes" text="diabetes"/>
+						<query category="Diabetes" text="insulin"/>
+						<query category="Diabetes" text="loretta"/>
+						<query category="Diabetes" text="diabetic"/>
+						<query category="Diabetes" text="carol"/>
+						<query category="Diabetes" text="jude"/>
+						<query category="Diabetes" text="bg"/>
+						<query category="Diabetes" text="krin"/>
+						<query category="Diabetes" text="wendy"/>
+						<query category="Heart" text="cardiologist heart"/>
+						<query category="Heart" text="blood heart surgery"/>
+						<query category="Heart" text="cardiology heart"/>
+						<query category="Heart" text="heart pressure"/>
+						<query category="Heart" text="aspirin heart"/>
+						<query category="Heart" text="cholesterol heart"/>
+						<query category="Heart" text="chest heart"/>
+						<query category="Heart" text="cardiology chung"/>
+					</queries>
+					<nodes>
+						<node name="Aids"/>
+						<node name="Cancer"/>
+						<node name="Dentistry"/>
+						<node name="Diabetes"/>
+						<node name="Heart"/>
+					</nodes>
+				</node>
+				<node name="Alternative"/>
+				<node name="Nursing"/>
+			</nodes>
+		</node>
+		<node name="Sports">
+			<queries>
+				<query category="Baseball" text="cello innings"/>
+				<query category="Baseball" text="clarinews rhp"/>
+				<query category="Baseball" text="cello league"/>
+				<query category="Baseball" text="cello disabled"/>
+				<query category="Baseball" text="games rbi"/>
+				<query category="Baseball" text="clarinews manager"/>
+				<query category="Baseball" text="cello change"/>
+				<query category="Baseball" text="jun june won"/>
+				<query category="Baseball" text="yankees"/>
+				<query category="Baseball" text="cd music"/>
+				<query category="Baseball" text="goat stones"/>
+				<query category="Baseball" text="cd trade"/>
+				<query category="Baseball" text="cd guitar"/>
+				<query category="Baseball" text="stones"/>
+				<query category="Baseball" text="clarinews draft"/>
+				<query category="Baseball" text="album"/>
+				<query category="Baseball" text="clarinet hit"/>
+				<query category="Baseball" text="progressive rock"/>
+				<query category="Baseball" text="angels brewers"/>
+				<query category="Baseball" text="baltimore jun"/>
+				<query category="Baseball" text="cd david"/>
+				<query category="Baseball" text="ap cubs"/>
+				<query category="Baseball" text="prog"/>
+				<query category="Baseball" text="ap april made"/>
+				<query category="Baseball" text="destine"/>
+				<query category="Baseball" text="braves"/>
+				<query category="Baseball" text="cd released"/>
+				<query category="Baseball" text="shortstop"/>
+				<query category="Baseball" text="allegedly rev"/>
+				<query category="Baseball" text="bad morrison"/>
+				<query category="Baseball" text="clarinews lhp"/>
+				<query category="Baseball" text="angels head"/>
+				<query category="Baseball" text="chosen kennedys"/>
+				<query category="Baseball" text="armageddon cd"/>
+				<query category="Baseball" text="anymore lj"/>
+				<query category="Baseball" text="bonus vinyl"/>
+				<query category="Baseball" text="metal music"/>
+				<query category="Baseball" text="bands people"/>
+				<query category="Baseball" text="brussels find"/>
+				<query category="Baseball" text="aching voodoo"/>
+				<query category="Baseball" text="hey maiden"/>
+				<query category="Baseball" text="morse steve"/>
+				<query category="Baseball" text="gang vinyl"/>
+				<query category="Baseball" text="cd offer"/>
+				<query category="Baseball" text="american games triple"/>
+				<query category="Baseball" text="stonegirl"/>
+				<query category="Baseball" text="ap saturday viola"/>
+				<query category="Basket" text="basketball la nba"/>
+				<query category="Basket" text="lakers nba"/>
+				<query category="Basket" text="basketball knight"/>
+				<query category="Basket" text="basketball"/>
+				<query category="Basket" text="nba player"/>
+				<query category="Basket" text="game lakers"/>
+				<query category="Basket" text="knight"/>
+				<query category="Basket" text="game uconn"/>
+				<query category="Basket" text="nba"/>
+				<query category="Basket" text="team wnba"/>
+				<query category="Basket" text="pacers team"/>
+				<query category="Basket" text="game scorer"/>
+				<query category="Basket" text="rebounds team"/>
+				<query category="Basket" text="shaq team"/>
+				<query category="Basket" text="wnba"/>
+				<query category="Basket" text="domenex team"/>
+				<query category="Basket" text="geno"/>
+				<query category="Basket" text="duke team"/>
+				<query category="Basket" text="lakers"/>
+				<query category="Basket" text="lakers"/>
+				<query category="Basket" text="cota"/>
+				<query category="Basket" text="guard team"/>
+				<query category="Basket" text="game played remarq"/>
+				<query category="Basket" text="game hoop"/>
+				<query category="Basket" text="suproleague teams"/>
+				<query category="Basket" text="dimitris team"/>
+				<query category="Basket" text="game laettner message"/>
+				<query category="Basket" text="didn game message time"/>
+				<query category="Basket" text="benetton teams"/>
+				<query category="Basket" text="team uconn"/>
+				<query category="Basket" text="blazers"/>
+				<query category="Basket" text="domenex"/>
+				<query category="Basket" text="bulls"/>
+				<query category="Basket" text="coach replace"/>
+				<query category="Basket" text="duke"/>
+				<query category="Basket" text="efes team"/>
+				<query category="Basket" text="coach replace"/>
+				<query category="Basket" text="domenex"/>
+				<query category="Basket" text="chicks"/>
+				<query category="Basket" text="argue east teams west"/>
+				<query category="Basket" text="bird deja team"/>
+				<query category="Basket" text="comets team"/>
+				<query category="Basket" text="fastest game"/>
+				<query category="Basket" text="shaq"/>
+				<query category="Basket" text="bye game"/>
+				<query category="Basket" text="blazers"/>
+				<query category="Basket" text="cos"/>
+				<query category="Basket" text="sec team"/>
+				<query category="Basket" text="irv"/>
+				<query category="Basket" text="team zwikker"/>
+				<query category="Basket" text="uconn"/>
+				<query category="Basket" text="irv"/>
+				<query category="Basket" text="efes team"/>
+				<query category="Basket" text="nit teams"/>
+				<query category="Basket" text="pacers"/>
+				<query category="Basket" text="licko player"/>
+				<query category="Basket" text="kingbt"/>
+				<query category="Basket" text="article coach fair"/>
+				<query category="Basket" text="laettner"/>
+				<query category="Basket" text="gerard weatherby"/>
+				<query category="Basket" text="final squeaks wisconsin"/>
+				<query category="Basket" text="article coach program"/>
+				<query category="Basket" text="kingbt"/>
+				<query category="Basket" text="indiana portland"/>
+				<query category="Basket" text="kobe"/>
+				<query category="Basket" text="celtics team"/>
+				<query category="Basket" text="acc"/>
+				<query category="Basket" text="weatherby"/>
+				<query category="Basket" text="comets team"/>
+				<query category="Basket" text="alicia shoot"/>
+				<query category="Basket" text="maccabi"/>
+				<query category="Basket" text="maccabi"/>
+				<query category="Basket" text="sooz"/>
+				<query category="Basket" text="kobe"/>
+				<query category="Basket" text="mcgrady"/>
+				<query category="Basket" text="duke"/>
+				<query category="Basket" text="game portland"/>
+				<query category="Basket" text="unc"/>
+				<query category="Basket" text="sooz"/>
+				<query category="Basket" text="freshman stays year"/>
+				<query category="Basket" text="blazer fan"/>
+				<query category="Basket" text="karra"/>
+				<query category="Basket" text="euroleague"/>
+				<query category="Basket" text="laker"/>
+				<query category="Basket" text="tamika"/>
+				<query category="Basket" text="uconn"/>
+				<query category="Basket" text="celtics"/>
+				<query category="Basket" text="lisa tennessee"/>
+				<query category="Basket" text="ncaa seedings tonight"/>
+				<query category="Basket" text="catchings"/>
+				<query category="Basket" text="celtics"/>
+				<query category="Basket" text="farrar"/>
+				<query category="Basket" text="deja draft"/>
+				<query category="Basket" text="sabonis"/>
+				<query category="Basket" text="farrar"/>
+				<query category="Basket" text="coach fan hire"/>
+				<query category="Basket" text="vandy"/>
+				<query category="Basket" text="coach iu"/>
+				<query category="Basket" text="viker"/>
+				<query category="Basket" text="lol trade"/>
+				<query category="Basket" text="indiana portland"/>
+				<query category="Basket" text="att avg"/>
+				<query category="Basket" text="sabonis"/>
+				<query category="Basket" text="dimitris final"/>
+				<query category="Basket" text="board pick trade"/>
+				<query category="Basket" text="horn van"/>
+				<query category="Basket" text="bbeanster"/>
+				<query category="Basket" text="deja draft"/>
+				<query category="Basket" text="team torch"/>
+				<query category="Basket" text="commercial worst"/>
+				<query category="Basket" text="basket club"/>
+				<query category="Basket" text="earle"/>
+				<query category="Basket" text="euroleague"/>
+				<query category="Basket" text="bozak"/>
+				<query category="Basket" text="ncaa truth"/>
+				<query category="Basket" text="games portland"/>
+				<query category="Basket" text="weatherspoon"/>
+				<query category="Basket" text="pippen"/>
+				<query category="Basket" text="neal player"/>
+				<query category="Basket" text="acc"/>
+				<query category="Basket" text="article game weatherspoon"/>
+				<query category="Basket" text="draft fizer"/>
+				<query category="Basket" text="based potential team"/>
+				<query category="Basket" text="confederate flag"/>
+				<query category="Basket" text="efes"/>
+				<query category="Basket" text="alright fuck"/>
+				<query category="Basket" text="bbeanster"/>
+				<query category="Basket" text="olimpija"/>
+				<query category="Basket" text="game jordan portland"/>
+				<query category="Basket" text="eastern illinois"/>
+				<query category="Basket" text="estudiantes team"/>
+				<query category="Basket" text="dunks michelle"/>
+				<query category="Basket" text="satterfield"/>
+				<query category="Basket" text="aek"/>
+				<query category="Basket" text="summitt"/>
+				<query category="Basket" text="arthur fastest"/>
+				<query category="Basket" text="pippen"/>
+				<query category="Basket" text="pdt usenet"/>
+				<query category="Basket" text="kinder virtus"/>
+				<query category="Basket" text="sec team"/>
+				<query category="Basket" text="csp"/>
+				<query category="Basket" text="mystics"/>
+				<query category="Basket" text="fans ncaa page"/>
+				<query category="Basket" text="zwikker"/>
+				<query category="Basket" text="abl"/>
+				<query category="Basket" text="jaros"/>
+				<query category="Basket" text="jamie michigan"/>
+				<query category="Basket" text="agree kidding lol"/>
+				<query category="Basket" text="bicker teams"/>
+				<query category="Basket" text="suproleague teams"/>
+				<query category="Basket" text="rebounds"/>
+				<query category="Basket" text="advantage coach fan"/>
+				<query category="Basket" text="announced lol matter"/>
+				<query category="Basket" text="ann meyers"/>
+				<query category="Basket" text="callahan"/>
+				<query category="Basket" text="cancellation"/>
+				<query category="Basket" text="efes"/>
+				<query category="Basket" text="greed time"/>
+				<query category="Basket" text="azzi"/>
+				<query category="Basket" text="szczerbiak"/>
+				<query category="Basket" text="rigged usenet"/>
+				<query category="Basket" text="faster usenet"/>
+				<query category="Basket" text="girl record"/>
+				<query category="Basket" text="rik swear"/>
+				<query category="Basket" text="ccso computing"/>
+				<query category="Basket" text="ahead reveal"/>
+				<query category="Basket" text="pc problem"/>
+				<query category="Basket" text="lue usenet"/>
+				<query category="Basket" text="guts prediction"/>
+				<query category="Basket" text="correction mail"/>
+				<query category="Basket" text="bitch year"/>
+				<query category="Basket" text="hawks"/>
+				<query category="Basket" text="admit back lol"/>
+				<query category="Basket" text="angeles sports tickets"/>
+				<query category="Basket" text="knicks"/>
+				<query category="Basket" text="sternvogel"/>
+				<query category="Basket" text="merc"/>
+				<query category="Outdoors" text="boat boats"/>
+				<query category="Outdoors" text="climbing"/>
+				<query category="Outdoors" text="boat"/>
+				<query category="Outdoors" text="bike"/>
+				<query category="Outdoors" text="stove water"/>
+				<query category="Outdoors" text="water"/>
+				<query category="Outdoors" text="river"/>
+				<query category="Outdoors" text="sailing"/>
+				<query category="Outdoors" text="gear message"/>
+				<query category="Outdoors" text="buy find price"/>
+				<query category="Outdoors" text="climb"/>
+				<query category="Outdoors" text="hiking"/>
+				<query category="Outdoors" text="paddle"/>
+				<query category="Outdoors" text="shimano"/>
+				<query category="Outdoors" text="capt"/>
+				<query category="Outdoors" text="wheels"/>
+				<query category="Outdoors" text="kayak"/>
+				<query category="Outdoors" text="gear"/>
+				<query category="Outdoors" text="gps"/>
+				<query category="Outdoors" text="canoe"/>
+				<query category="Outdoors" text="sail"/>
+				<query category="Outdoors" text="tires"/>
+				<query category="Outdoors" text="rope"/>
+				<query category="Outdoors" text="paddling"/>
+				<query category="Outdoors" text="bikes"/>
+				<query category="Outdoors" text="alert"/>
+				<query category="Outdoors" text="katysails"/>
+				<query category="Outdoors" text="frame manufacturer"/>
+				<query category="Outdoors" text="rim wheel"/>
+				<query category="Outdoors" text="bicicletteria boulder"/>
+				<query category="Outdoors" text="routes"/>
+				<query category="Outdoors" text="sulam tr"/>
+				<query category="Outdoors" text="dagger fs"/>
+				<query category="Outdoors" text="backcountry"/>
+				<query category="Outdoors" text="tube"/>
+				<query category="Outdoors" text="bought great"/>
+				<query category="Outdoors" text="canadian price"/>
+				<query category="Outdoors" text="dissipators lightning"/>
+				<query category="Outdoors" text="boats"/>
+				<query category="Outdoors" text="dry"/>
+				<query category="Outdoors" text="buy mine side"/>
+				<query category="Outdoors" text="climber"/>
+				<query category="Outdoors" text="trails"/>
+				<query category="Outdoors" text="fs sell"/>
+				<query category="Outdoors" text="wtb"/>
+				<query category="Outdoors" text="mistake restaurant"/>
+				<query category="Outdoors" text="cycling"/>
+				<query category="Outdoors" text="chain chains"/>
+				<query category="Outdoors" text="design makes"/>
+				<query category="Outdoors" text="tr"/>
+				<query category="Outdoors" text="equipment sales"/>
+				<query category="Outdoors" text="cassette rear"/>
+				<query category="Outdoors" text="buy email find internet"/>
+				<query category="Outdoors" text="bought mine"/>
+				<query category="Outdoors" text="beta"/>
+				<query category="Outdoors" text="article helmet"/>
+				<query category="Outdoors" text="fork"/>
+				<query category="Outdoors" text="found gt rock"/>
+				<query category="Outdoors" text="compass"/>
+				<query category="Outdoors" text="sailboat"/>
+				<query category="Outdoors" text="read slime"/>
+				<query category="Outdoors" text="check interested site"/>
+				<query category="Outdoors" text="campy"/>
+				<query category="Outdoors" text="steve suggestions"/>
+				<query category="Outdoors" text="low pack"/>
+				<query category="Outdoors" text="mountain section"/>
+				<query category="Outdoors" text="message news sale"/>
+				<query category="Outdoors" text="crank"/>
+				<query category="Outdoors" text="message store"/>
+				<query category="MartialArts" text="arts martial"/>
+				<query category="MartialArts" text="art martial"/>
+				<query category="MartialArts" text="karate"/>
+				<query category="MartialArts" text="art training"/>
+				<query category="MartialArts" text="chas fighting"/>
+				<query category="MartialArts" text="fight gi"/>
+				<query category="MartialArts" text="aikido techniques"/>
+				<query category="MartialArts" text="dojo"/>
+				<query category="MartialArts" text="sparring"/>
+				<query category="MartialArts" text="kicking kicks"/>
+				<query category="MartialArts" text="carried weapons"/>
+				<query category="MartialArts" text="sparring train"/>
+				<query category="MartialArts" text="thai"/>
+				<query category="MartialArts" text="dojo"/>
+				<query category="MartialArts" text="fighting holds"/>
+				<query category="MartialArts" text="fu kung"/>
+				<query category="MartialArts" text="ground guy ma"/>
+				<query category="MartialArts" text="bjj"/>
+				<query category="MartialArts" text="find webtv"/>
+				<query category="MartialArts" text="fighting styles"/>
+				<query category="MartialArts" text="judo"/>
+				<query category="MartialArts" text="dim mak"/>
+				<query category="MartialArts" text="find seminar"/>
+				<query category="MartialArts" text="art question"/>
+				<query category="MartialArts" text="jitsu"/>
+				<query category="MartialArts" text="kicks techniques"/>
+				<query category="MartialArts" text="tai"/>
+				<query category="MartialArts" text="instructor question"/>
+				<query category="MartialArts" text="bad teacher"/>
+				<query category="MartialArts" text="chas"/>
+				<query category="MartialArts" text="jerry ma"/>
+				<query category="MartialArts" text="gichoke"/>
+				<query category="MartialArts" text="tai"/>
+				<query category="MartialArts" text="martial"/>
+				<query category="MartialArts" text="heron"/>
+				<query category="MartialArts" text="gue yin"/>
+				<query category="MartialArts" text="ninjutsu"/>
+				<query category="MartialArts" text="chun teacher"/>
+				<query category="MartialArts" text="capoeira"/>
+				<query category="MartialArts" text="shaolin"/>
+				<query category="MartialArts" text="tkd"/>
+				<query category="MartialArts" text="shaolin"/>
+				<query category="MartialArts" text="iqbvawubom"/>
+				<query category="MartialArts" text="fight untill"/>
+				<query category="MartialArts" text="gi message"/>
+				<query category="MartialArts" text="muscles school"/>
+				<query category="MartialArts" text="aikido"/>
+				<query category="MartialArts" text="angelo book"/>
+				<query category="MartialArts" text="blood fight"/>
+				<query category="MartialArts" text="fuck system train"/>
+				<query category="MartialArts" text="master taught"/>
+				<query category="MartialArts" text="ma religion"/>
+				<query category="MartialArts" text="sigman"/>
+				<query category="MartialArts" text="good kata"/>
+				<query category="MartialArts" text="buy punching"/>
+				<query category="MartialArts" text="kick leg"/>
+				<query category="MartialArts" text="chuck norris"/>
+				<query category="MartialArts" text="grubb"/>
+				<query category="MartialArts" text="fighting grappling"/>
+				<query category="MartialArts" text="chucks"/>
+				<query category="MartialArts" text="nhb"/>
+				<query category="MartialArts" text="area instructor"/>
+				<query category="MartialArts" text="seminar"/>
+				<query category="MartialArts" text="ronin"/>
+				<query category="MartialArts" text="makiwara"/>
+				<query category="MartialArts" text="ryu"/>
+				<query category="MartialArts" text="don mantis"/>
+				<query category="MartialArts" text="fu li"/>
+				<query category="MartialArts" text="cutlery"/>
+				<query category="MartialArts" text="boxing feel"/>
+				<query category="MartialArts" text="master version"/>
+				<query category="MartialArts" text="ufc video"/>
+				<query category="Soccer" text="europe soccer"/>
+				<query category="Soccer" text="english football"/>
+				<query category="Soccer" text="champions soccer"/>
+				<query category="Soccer" text="cup madrid real"/>
+				<query category="Soccer" text="football"/>
+				<query category="Soccer" text="article english fans"/>
+				<query category="Soccer" text="soccer"/>
+				<query category="Soccer" text="benny champions league"/>
+				<query category="Soccer" text="cup pyramid"/>
+				<query category="Soccer" text="bayern"/>
+				<query category="Soccer" text="chelsea"/>
+				<query category="Soccer" text="cup germany world"/>
+				<query category="Soccer" text="euro free"/>
+				<query category="Soccer" text="england league"/>
+				<query category="Soccer" text="england english news"/>
+				<query category="Soccer" text="croatia cup world"/>
+				<query category="Soccer" text="leeds"/>
+				<query category="Soccer" text="english robert"/>
+				<query category="Soccer" text="leeds"/>
+				<query category="Soccer" text="germany holland"/>
+				<query category="Soccer" text="goals score scoring"/>
+				<query category="Soccer" text="bravo valencia"/>
+				<query category="Soccer" text="bundesliga"/>
+				<query category="Soccer" text="bundesliga"/>
+				<query category="Soccer" text="euro tickets"/>
+				<query category="Soccer" text="club league premier"/>
+				<query category="Soccer" text="england owen"/>
+				<query category="Soccer" text="dudek keeper world"/>
+				<query category="Soccer" text="article doug karpa"/>
+				<query category="Soccer" text="madrid season"/>
+				<query category="Soccer" text="elo"/>
+				<query category="Soccer" text="don madrid real"/>
+				<query category="Soccer" text="erbert"/>
+				<query category="Soccer" text="rpp"/>
+				<query category="Soccer" text="benny subject"/>
+				<query category="Soccer" text="cup uefa"/>
+				<query category="Soccer" text="euro group"/>
+				<query category="Soccer" text="attar"/>
+				<query category="Soccer" text="croatia message"/>
+				<query category="Soccer" text="england supporters"/>
+				<query category="Soccer" text="germany guess"/>
+				<query category="Soccer" text="indurain keeper"/>
+				<query category="Soccer" text="match offside"/>
+				<query category="Soccer" text="attention england god"/>
+				<query category="Soccer" text="honduras"/>
+				<query category="Soccer" text="benet"/>
+				<query category="Soccer" text="contract madrid"/>
+				<query category="Soccer" text="juventus"/>
+				<query category="Soccer" text="champions league spanish"/>
+				<query category="Soccer" text="didn hill jamie"/>
+				<query category="Soccer" text="completely madrid"/>
+				<query category="Soccer" text="hooliganism"/>
+				<query category="Soccer" text="english promotion"/>
+				<query category="Soccer" text="percy"/>
+				<query category="Soccer" text="cat tickets"/>
+				<query category="Soccer" text="lech"/>
+				<query category="Soccer" text="ivan petrovic"/>
+				<query category="Soccer" text="goal relegation"/>
+				<query category="Soccer" text="germany hanging"/>
+				<query category="Soccer" text="didn france"/>
+				<query category="Soccer" text="champion cup"/>
+				<query category="Soccer" text="adjust betting"/>
+				<query category="Soccer" text="homosexual"/>
+				<query category="Soccer" text="league scottish"/>
+				<query category="Soccer" text="france henry"/>
+				<query category="Soccer" text="bbc itv"/>
+				<query category="Soccer" text="european madrid"/>
+				<query category="Soccer" text="americans war"/>
+				<query category="Soccer" text="dutch man snip"/>
+				<query category="Soccer" text="albion doesn england"/>
+				<query category="Soccer" text="footy popular"/>
+				<query category="Soccer" text="benny cup message world"/>
+				<query category="Soccer" text="champions league penalty"/>
+				<query category="Soccer" text="hamill"/>
+				<query category="Soccer" text="bravo valencia"/>
+				<query category="Soccer" text="kluivert"/>
+				<query category="Soccer" text="hatred meaning"/>
+				<query category="Soccer" text="utd"/>
+				<query category="Soccer" text="fiorentina"/>
+				<query category="Soccer" text="kyiv"/>
+				<query category="Soccer" text="algonet"/>
+				<query category="Soccer" text="scouser"/>
+				<query category="Soccer" text="aik"/>
+				<query category="Soccer" text="ciao croatia"/>
+				<query category="Soccer" text="huw"/>
+				<query category="Soccer" text="brazilian perspective"/>
+				<query category="Soccer" text="tunisia"/>
+				<query category="Soccer" text="irineu"/>
+				<query category="Soccer" text="mls"/>
+				<query category="Soccer" text="inter serie"/>
+				<query category="Soccer" text="euro pay"/>
+				<query category="Soccer" text="play striker"/>
+				<query category="Soccer" text="kidderminster"/>
+				<query category="Soccer" text="america bush"/>
+				<query category="Soccer" text="albanian croatian"/>
+				<query category="Volleyball" text="volleyball"/>
+				<query category="Volleyball" text="ball block rules"/>
+				<query category="Volleyball" text="mpsf pepperdine ucla"/>
+				<query category="Volleyball" text="men ncaa usa"/>
+				<query category="Volleyball" text="ball setter"/>
+				<query category="Volleyball" text="france vb"/>
+				<query category="Volleyball" text="men ncaa toppel"/>
+				<query category="Volleyball" text="ravi"/>
+				<query category="Volleyball" text="article borga"/>
+				<query category="Volleyball" text="ball contact rules"/>
+				<query category="Volleyball" text="match rally"/>
+				<query category="Volleyball" text="beach karch playing"/>
+				<query category="Volleyball" text="additional mail men"/>
+				<query category="Volleyball" text="ball serve"/>
+				<query category="Volleyball" text="nationals"/>
+				<query category="Volleyball" text="volley"/>
+				<query category="Volleyball" text="adult vb"/>
+				<query category="Volleyball" text="osu pepperdine"/>
+				<query category="Volleyball" text="fivb"/>
+				<query category="Volleyball" text="gender men"/>
+				<query category="Volleyball" text="americans men ncaa"/>
+				<query category="Volleyball" text="burkhart guys"/>
+				<query category="Volleyball" text="setter"/>
+				<query category="Volleyball" text="rsv"/>
+				<query category="Volleyball" text="vicvball"/>
+				<query category="Volleyball" text="beach deja st"/>
+				<query category="Volleyball" text="article ball judge"/>
+				<query category="Volleyball" text="setter"/>
+				<query category="Volleyball" text="hypbus"/>
+				<query category="Volleyball" text="ball osu"/>
+				<query category="Volleyball" text="deja pepperdine"/>
+				<query category="Volleyball" text="beach deja finals"/>
+				<query category="Volleyball" text="libero"/>
+				<query category="Volleyball" text="pat powers"/>
+				<query category="Volleyball" text="avp"/>
+				<query category="Volleyball" text="mens schools team"/>
+				<query category="Volleyball" text="letter usc"/>
+				<query category="Volleyball" text="pep usc"/>
+				<query category="Volleyball" text="site sport sports training"/>
+				<query category="Volleyball" text="beach bva"/>
+				<query category="Volleyball" text="formula sport sports"/>
+				<query category="Volleyball" text="usav"/>
+				<query category="Volleyball" text="coach vb"/>
+				<query category="Volleyball" text="mpsf"/>
+				<query category="Volleyball" text="apr ball drills"/>
+				<query category="Volleyball" text="drinking popular sports"/>
+				<query category="Volleyball" text="asics"/>
+				<query category="Volleyball" text="february mail men"/>
+				<query category="Volleyball" text="colleges women"/>
+				<query category="Volleyball" text="beach hawaii"/>
+				<query category="Volleyball" text="imperative officiating"/>
+				<query category="Volleyball" text="nccaa"/>
+				<query category="Volleyball" text="champions site"/>
+			</queries>
+			<nodes>
+				<node name="Baseball"/>
+				<node name="Basket">
+					<queries>
+						<query category="College" text="iu knight"/>
+						<query category="College" text="basketball knight"/>
+						<query category="College" text="duke ve"/>
+						<query category="College" text="knight"/>
+						<query category="College" text="guilty"/>
+						<query category="College" text="duke"/>
+						<query category="College" text="jason"/>
+						<query category="College" text="school years"/>
+						<query category="Europe" text="barcelona en"/>
+						<query category="Europe" text="kinder"/>
+						<query category="Europe" text="domenex"/>
+						<query category="Europe" text="spanish"/>
+						<query category="Europe" text="european"/>
+						<query category="Women" text="wnba"/>
+						<query category="Women" text="uconn"/>
+						<query category="Women" text="geno"/>
+						<query category="Women" text="women"/>
+						<query category="Women" text="balls geocities"/>
+						<query category="Women" text="kingbt"/>
+						<query category="Women" text="cos"/>
+						<query category="Women" text="tennessee"/>
+						<query category="Nba" text="game games lakers"/>
+						<query category="Nba" text="lakers message"/>
+						<query category="Nba" text="jun lakers"/>
+						<query category="Nba" text="laker nba"/>
+						<query category="Nba" text="jun"/>
+						<query category="Nba" text="lakers shaq"/>
+						<query category="Nba" text="lakers"/>
+						<query category="Nba" text="shaq"/>
+						<query category="Nba" text="kobe"/>
+						<query category="Nba" text="bulls"/>
+						<query category="Nba" text="pacers"/>
+						<query category="Nba" text="walker"/>
+					</queries>
+					<nodes>
+						<node name="College"/>
+						<node name="Europe"/>
+						<node name="Women"/>
+						<node name="Nba"/>
+					</nodes>
+				</node>
+				<node name="Outdoors">
+					<queries>
+						<query category="Climbing" text="climbing rock"/>
+						<query category="Climbing" text="climbing tr"/>
+						<query category="Climbing" text="climbing partner"/>
+						<query category="Climbing" text="climbing climbs"/>
+						<query category="Climbing" text="climbers climbing"/>
+						<query category="Climbing" text="climbing route"/>
+						<query category="Climbing" text="climbing sport"/>
+						<query category="Climbing" text="alpine climbing"/>
+						<query category="Climbing" text="climbing discussion free"/>
+						<query category="Climbing" text="climbing karl"/>
+						<query category="Climbing" text="climbing"/>
+						<query category="Climbing" text="climb route"/>
+						<query category="Climbing" text="climb wall"/>
+						<query category="Climbing" text="climb rainier"/>
+						<query category="Climbing" text="climb rope"/>
+						<query category="Climbing" text="tr"/>
+						<query category="Climbing" text="climber fall"/>
+						<query category="Climbing" text="climb climbers"/>
+						<query category="Climbing" text="face routes"/>
+						<query category="Climbing" text="climber"/>
+						<query category="Climbing" text="slime"/>
+						<query category="Climbing" text="beta route"/>
+						<query category="Climbing" text="slime"/>
+						<query category="Climbing" text="climb"/>
+						<query category="Climbing" text="crampons snow"/>
+						<query category="Climbing" text="belay"/>
+						<query category="Climbing" text="inez"/>
+						<query category="Climbing" text="pieper"/>
+						<query category="Climbing" text="clip rope"/>
+						<query category="Climbing" text="mountaineering"/>
+						<query category="Climbing" text="beta lake"/>
+						<query category="Climbing" text="routes wall"/>
+						<query category="Climbing" text="discussion rope"/>
+						<query category="Climbing" text="rockrat"/>
+						<query category="Climbing" text="mt trip"/>
+						<query category="Climbing" text="racing rope"/>
+						<query category="Climbing" text="bouldering"/>
+						<query category="Climbing" text="deja yosemite"/>
+						<query category="Climbing" text="ban snowmobile"/>
+						<query category="Climbing" text="petzl water"/>
+						<query category="Climbing" text="buttress face north"/>
+						<query category="Climbing" text="route wall"/>
+						<query category="Climbing" text="climbs message"/>
+						<query category="Climbing" text="ternes"/>
+						<query category="Climbing" text="carabiner"/>
+						<query category="Climbing" text="shilajit"/>
+						<query category="Climbing" text="byrnes"/>
+						<query category="Climbing" text="gunks"/>
+						<query category="Climbing" text="pitch rocks"/>
+						<query category="Climbing" text="cruising deja rock"/>
+						<query category="Climbing" text="rock rockfall"/>
+						<query category="Climbing" text="ken knots"/>
+						<query category="Climbing" text="climbs deja"/>
+						<query category="Climbing" text="harness sling"/>
+						<query category="Climbing" text="kenney"/>
+						<query category="Climbing" text="face north shit"/>
+						<query category="Climbing" text="deja rainier"/>
+						<query category="Climbing" text="deja harrington"/>
+						<query category="Climbing" text="mt sea"/>
+						<query category="Climbing" text="boulder wall"/>
+						<query category="Climbing" text="biners"/>
+						<query category="Climbing" text="face fs north"/>
+						<query category="Climbing" text="backcountry ice snow"/>
+						<query category="Climbing" text="atc wall"/>
+						<query category="Climbing" text="grigri rope"/>
+						<query category="Climbing" text="ledge wall"/>
+						<query category="Climbing" text="climbed colorado"/>
+						<query category="Climbing" text="deja mountain rock"/>
+						<query category="Climbing" text="chimney crack face"/>
+						<query category="Climbing" text="beta route"/>
+						<query category="Climbing" text="climbers"/>
+						<query category="Climbing" text="karl"/>
+						<query category="Climbing" text="rock routes"/>
+						<query category="Climbing" text="finger leader"/>
+						<query category="Climbing" text="ice rope"/>
+						<query category="Climbing" text="boulder deja rock"/>
+						<query category="Climbing" text="petzl"/>
+						<query category="Climbing" text="harness uk"/>
+						<query category="Climbing" text="riches"/>
+						<query category="Climbing" text="galen trips"/>
+						<query category="Cycling" text="bike frame"/>
+						<query category="Cycling" text="bike"/>
+						<query category="Cycling" text="wheel wheels"/>
+						<query category="Cycling" text="shimano"/>
+						<query category="Cycling" text="rear wheel"/>
+						<query category="Cycling" text="ride road"/>
+						<query category="Cycling" text="frame"/>
+						<query category="Cycling" text="riding"/>
+						<query category="Cycling" text="bikes"/>
+						<query category="Cycling" text="pearl"/>
+						<query category="Cycling" text="news rear"/>
+						<query category="Cycling" text="boutique wheels"/>
+						<query category="Cycling" text="tire"/>
+						<query category="Cycling" text="cycling"/>
+						<query category="Cycling" text="crank cranks"/>
+						<query category="Cycling" text="chain"/>
+						<query category="Cycling" text="rear"/>
+						<query category="Cycling" text="carbon fork"/>
+						<query category="Cycling" text="heat helmet"/>
+						<query category="Cycling" text="bicycle front"/>
+						<query category="Cycling" text="rim spoke"/>
+						<query category="Cycling" text="cadence"/>
+						<query category="Cycling" text="handlebar stem"/>
+						<query category="Cycling" text="mtb road"/>
+						<query category="Cycling" text="hub"/>
+						<query category="Cycling" text="campy"/>
+						<query category="Hiking" text="hike hiking national"/>
+						<query category="Hiking" text="hiking"/>
+						<query category="Hiking" text="alcohol stove"/>
+						<query category="Hiking" text="hike trail"/>
+						<query category="Hiking" text="trails"/>
+						<query category="Hiking" text="restaurant"/>
+						<query category="Hiking" text="airsicknessbags bag"/>
+						<query category="Hiking" text="currency price"/>
+						<query category="Hiking" text="batteries trail"/>
+						<query category="Hiking" text="garmin gps map"/>
+						<query category="Hiking" text="backpacking"/>
+						<query category="Hiking" text="trail water"/>
+						<query category="Hiking" text="monocular"/>
+						<query category="Hiking" text="message trail water"/>
+						<query category="Hiking" text="backpacking"/>
+						<query category="Hiking" text="monocular"/>
+						<query category="Hiking" text="hermit trail"/>
+						<query category="Hiking" text="livetoplay"/>
+						<query category="Hiking" text="national trail"/>
+						<query category="Hiking" text="breakfasts"/>
+						<query category="Hiking" text="message tent"/>
+						<query category="Hiking" text="hikes"/>
+						<query category="Hiking" text="dehydrator"/>
+						<query category="Hiking" text="hermit"/>
+						<query category="Hiking" text="backcountry permit"/>
+						<query category="Hiking" text="bryce"/>
+						<query category="Hiking" text="giddings"/>
+						<query category="Hiking" text="gps search"/>
+						<query category="Hiking" text="pack ranch"/>
+						<query category="Paddling" text="paddle"/>
+						<query category="Paddling" text="paddling"/>
+						<query category="Paddling" text="canoe"/>
+						<query category="Paddling" text="kayak river"/>
+						<query category="Paddling" text="rapid river"/>
+						<query category="Paddling" text="ocoee river"/>
+						<query category="Paddling" text="kayak"/>
+						<query category="Paddling" text="rapids river"/>
+						<query category="Paddling" text="creek river"/>
+						<query category="Paddling" text="paddled river"/>
+						<query category="Paddling" text="paddlers river"/>
+						<query category="Paddling" text="boater river"/>
+						<query category="Sailing" text="message sailing"/>
+						<query category="Sailing" text="boat sailing"/>
+						<query category="Sailing" text="capt"/>
+						<query category="Sailing" text="sail"/>
+						<query category="Sailing" text="boat catalina"/>
+						<query category="Sailing" text="boat engine"/>
+						<query category="Sailing" text="boat jun"/>
+						<query category="Sailing" text="sailing"/>
+						<query category="Sailing" text="boat discussion"/>
+						<query category="Sailing" text="katysails"/>
+						<query category="Sailing" text="engine jun"/>
+						<query category="Sailing" text="boat sailboat"/>
+						<query category="Sailing" text="boat installed message"/>
+						<query category="Sailing" text="boat tony"/>
+						<query category="Sailing" text="marine"/>
+						<query category="Sailing" text="mast"/>
+						<query category="Sailing" text="marine time"/>
+						<query category="Sailing" text="eilidh message uk"/>
+						<query category="Sailing" text="ghost"/>
+						<query category="Sailing" text="gilligan"/>
+						<query category="Sailing" text="sailboat"/>
+						<query category="Sailing" text="sailboat"/>
+						<query category="Sailing" text="jun news"/>
+						<query category="Sailing" text="craft uk"/>
+						<query category="Sailing" text="yacht"/>
+						<query category="Sailing" text="boat grease marine"/>
+						<query category="Sailing" text="dissipators"/>
+						<query category="Sailing" text="islands"/>
+						<query category="Sailing" text="ibm"/>
+						<query category="Sailing" text="harry"/>
+						<query category="Sailing" text="ports"/>
+						<query category="Sailing" text="yacht"/>
+						<query category="Sailing" text="sailor"/>
+						<query category="Sailing" text="autohelm"/>
+						<query category="Sailing" text="prop"/>
+						<query category="Sailing" text="ad boat uk"/>
+						<query category="Sailing" text="jun saludos"/>
+						<query category="Sailing" text="gulf"/>
+						<query category="Sailing" text="chandlers marine"/>
+						<query category="Sailing" text="crack jun"/>
+						<query category="Sailing" text="mast"/>
+						<query category="Sailing" text="boat coronado"/>
+						<query category="Sailing" text="craft uk"/>
+						<query category="Sailing" text="nmea uk"/>
+						<query category="Sailing" text="ghost"/>
+						<query category="Sailing" text="prop"/>
+						<query category="Sailing" text="island race"/>
+						<query category="Sailing" text="ship vhf"/>
+						<query category="Sailing" text="sails"/>
+						<query category="Sailing" text="charter uk"/>
+						<query category="Sailing" text="newport"/>
+						<query category="Sailing" text="compasses marine"/>
+						<query category="Sailing" text="hull upright"/>
+						<query category="Sailing" text="catalina"/>
+						<query category="Sailing" text="yachts"/>
+						<query category="Sailing" text="charts dn"/>
+						<query category="Sailing" text="boat mooring"/>
+						<query category="Sailing" text="blake uk"/>
+						<query category="Sailing" text="morris"/>
+						<query category="Sailing" text="internet tadpole"/>
+						<query category="Sailing" text="boat message uk"/>
+						<query category="Sailing" text="opsail"/>
+						<query category="Sailing" text="yanmar"/>
+						<query category="Sailing" text="captain uk"/>
+						<query category="Sailing" text="dot jun"/>
+						<query category="Sailing" text="grease tube"/>
+						<query category="Sailing" text="internet island"/>
+						<query category="Sailing" text="boat neal"/>
+						<query category="Sailing" text="boat diesel"/>
+						<query category="Sailing" text="outboard"/>
+						<query category="Sailing" text="internet plates"/>
+						<query category="Sailing" text="hike uk"/>
+						<query category="Sailing" text="crew deja participate"/>
+						<query category="Sailing" text="copper flying"/>
+						<query category="Sailing" text="chandlers"/>
+						<query category="Sailing" text="free time uk"/>
+						<query category="Sailing" text="laser"/>
+						<query category="Sailing" text="participate vessel"/>
+						<query category="Sailing" text="coast port"/>
+						<query category="Sailing" text="andy mac"/>
+						<query category="Sailing" text="nmea"/>
+						<query category="Sailing" text="winch"/>
+						<query category="Sailing" text="grease news roger"/>
+						<query category="Sailing" text="cycling north sea"/>
+					</queries>
+					<nodes>
+						<node name="Climbing"/>
+						<node name="Cycling"/>
+						<node name="Hiking"/>
+						<node name="Paddling"/>
+						<node name="Sailing"/>
+					</nodes>
+				</node>
+				<node name="MartialArts"/>
+				<node name="Soccer"/>
+				<node name="Volleyball"/>
+			</nodes>
+		</node>
+		<node name="Science">
+			<queries>
+				<query category="Biology" text="butterflies species"/>
+				<query category="Biology" text="life organisms species"/>
+				<query category="Biology" text="species"/>
+				<query category="Biology" text="evolution selection"/>
+				<query category="Biology" text="dinosaurs found"/>
+				<query category="Biology" text="plant plants"/>
+				<query category="Biology" text="dinosaurs"/>
+				<query category="Biology" text="agriculture tree"/>
+				<query category="Biology" text="butterflies"/>
+				<query category="Biology" text="biology"/>
+				<query category="Biology" text="gene genes"/>
+				<query category="Biology" text="evolution evolved"/>
+				<query category="Biology" text="ethanol plant"/>
+				<query category="Biology" text="roger whitehead"/>
+				<query category="Biology" text="bacteria question"/>
+				<query category="Biology" text="tree trees"/>
+				<query category="Biology" text="dyson plants"/>
+				<query category="Biology" text="evolutionary"/>
+				<query category="Biology" text="evolution"/>
+				<query category="Biology" text="agriculture energy food"/>
+				<query category="Biology" text="doesn plant"/>
+				<query category="Biology" text="garden plants"/>
+				<query category="Biology" text="bacteria plate"/>
+				<query category="Biology" text="butterfly"/>
+				<query category="Biology" text="plant"/>
+				<query category="Biology" text="bird dinosaur"/>
+				<query category="Biology" text="fossil"/>
+				<query category="Biology" text="insect"/>
+				<query category="Biology" text="bacteria"/>
+				<query category="Biology" text="organisms"/>
+				<query category="Biology" text="plants"/>
+				<query category="Biology" text="moths"/>
+				<query category="Biology" text="rcjohnsen"/>
+				<query category="Biology" text="microbiology"/>
+				<query category="Biology" text="edser"/>
+				<query category="Biology" text="dinosaur"/>
+				<query category="Biology" text="iris tree"/>
+				<query category="Biology" text="reed tree"/>
+				<query category="Biology" text="bob mozark"/>
+				<query category="Biology" text="insects"/>
+				<query category="Biology" text="birds theropods"/>
+				<query category="Biology" text="loes"/>
+				<query category="Biology" text="paleontology"/>
+				<query category="Biology" text="digestible food"/>
+				<query category="Biology" text="dna genetic"/>
+				<query category="Biology" text="feed tree"/>
+				<query category="Biology" text="wood"/>
+				<query category="Biology" text="animal animals"/>
+				<query category="Biology" text="england tree"/>
+				<query category="Biology" text="botany"/>
+				<query category="Biology" text="beetles"/>
+				<query category="Biology" text="dna enzymes"/>
+				<query category="Biology" text="fruit iris"/>
+				<query category="Biology" text="genetics terms"/>
+				<query category="Biology" text="moth"/>
+				<query category="Biology" text="kinman"/>
+				<query category="Biology" text="hendricks"/>
+				<query category="Biology" text="bp bt"/>
+				<query category="Biology" text="genes human"/>
+				<query category="Biology" text="extinction kt"/>
+				<query category="Earth" text="cagle"/>
+				<query category="Earth" text="company oil"/>
+				<query category="Earth" text="geology"/>
+				<query category="Earth" text="water wells"/>
+				<query category="Earth" text="sea surface water"/>
+				<query category="Earth" text="groundwater water"/>
+				<query category="Earth" text="company oil"/>
+				<query category="Earth" text="oil software"/>
+				<query category="Earth" text="bbl oil"/>
+				<query category="Earth" text="drilling oil"/>
+				<query category="Earth" text="ocean water"/>
+				<query category="Earth" text="petroleum"/>
+				<query category="Earth" text="groundwater water"/>
+				<query category="Earth" text="auch geological"/>
+				<query category="Earth" text="seismic"/>
+				<query category="Earth" text="internet temperatures water"/>
+				<query category="Earth" text="ocean"/>
+				<query category="Earth" text="message rock size"/>
+				<query category="Earth" text="cooled water"/>
+				<query category="Earth" text="auch geological"/>
+				<query category="Earth" text="petroleum"/>
+				<query category="Earth" text="ocean"/>
+				<query category="Earth" text="hydrology water"/>
+				<query category="Earth" text="cooled water"/>
+				<query category="Earth" text="gallons water"/>
+				<query category="Earth" text="brownouts water"/>
+				<query category="Earth" text="companies oil"/>
+				<query category="Earth" text="mars"/>
+				<query category="Earth" text="geologist water"/>
+				<query category="Earth" text="depth water"/>
+				<query category="Earth" text="geologist oil"/>
+				<query category="Earth" text="read rock rocks"/>
+				<query category="Earth" text="barbara josie"/>
+				<query category="Earth" text="bicycle water"/>
+				<query category="Earth" text="bbl oil"/>
+				<query category="Earth" text="gas geologist"/>
+				<query category="Earth" text="field oil"/>
+				<query category="Earth" text="barbara hughes"/>
+				<query category="Earth" text="basins oil"/>
+				<query category="Earth" text="barbara care"/>
+				<query category="Earth" text="depth rock"/>
+				<query category="Earth" text="earth io"/>
+				<query category="Earth" text="current exploration"/>
+				<query category="Earth" text="gis"/>
+				<query category="Earth" text="articles experience oil"/>
+				<query category="Earth" text="sherok"/>
+				<query category="Earth" text="araluen rock size"/>
+				<query category="Earth" text="engineering gas oil"/>
+				<query category="Earth" text="rock temperature"/>
+				<query category="Earth" text="oil speech supply"/>
+				<query category="Earth" text="bill hydrology"/>
+				<query category="Earth" text="dominic"/>
+				<query category="Earth" text="news north sea"/>
+				<query category="Earth" text="measurements sea state"/>
+				<query category="Earth" text="geologist"/>
+				<query category="Earth" text="assistant water"/>
+				<query category="Earth" text="bicycle"/>
+				<query category="Earth" text="spacecraft"/>
+				<query category="Earth" text="mining water"/>
+				<query category="Earth" text="drilling"/>
+				<query category="Earth" text="april message oil"/>
+				<query category="Earth" text="feet gallons water"/>
+				<query category="Earth" text="hissink"/>
+				<query category="Earth" text="winningham"/>
+				<query category="Earth" text="baylor creationist"/>
+				<query category="Earth" text="barbara read"/>
+				<query category="Earth" text="jo rock"/>
+				<query category="Earth" text="bicycle"/>
+				<query category="Earth" text="spacecraft"/>
+				<query category="Earth" text="mining water"/>
+				<query category="Earth" text="assistant water"/>
+				<query category="Earth" text="collecting oil"/>
+				<query category="Earth" text="engineering rock"/>
+				<query category="Earth" text="interface sea"/>
+				<query category="Earth" text="north sediment"/>
+				<query category="Earth" text="basins oil"/>
+				<query category="Earth" text="barbara water"/>
+				<query category="Earth" text="current exploration"/>
+				<query category="Earth" text="oceanography"/>
+				<query category="Earth" text="blackwell io"/>
+				<query category="Earth" text="sherok"/>
+				<query category="Earth" text="contour software"/>
+				<query category="Earth" text="data files software"/>
+				<query category="Earth" text="christof rock"/>
+				<query category="Earth" text="flow groundwater"/>
+				<query category="Earth" text="hydrology"/>
+				<query category="Earth" text="weres"/>
+				<query category="Earth" text="barbara hiker"/>
+				<query category="Earth" text="gas pressure water"/>
+				<query category="Earth" text="usgs water"/>
+				<query category="Earth" text="lava small"/>
+				<query category="Earth" text="aborigines sea"/>
+				<query category="Earth" text="seismos"/>
+				<query category="Earth" text="message solar"/>
+				<query category="Earth" text="core earth message"/>
+				<query category="Earth" text="rietman water"/>
+				<query category="Earth" text="mineral oil things"/>
+				<query category="Earth" text="core earth field"/>
+				<query category="SocialSciences" text="government people tax"/>
+				<query category="SocialSciences" text="people posted psychotherapy"/>
+				<query category="SocialSciences" text="constitution government people"/>
+				<query category="SocialSciences" text="holocaust nazi people"/>
+				<query category="SocialSciences" text="posted psychology psychotherapy"/>
+				<query category="SocialSciences" text="economic people social"/>
+				<query category="SocialSciences" text="noronen people"/>
+				<query category="SocialSciences" text="economics people"/>
+				<query category="SocialSciences" text="john phd price"/>
+				<query category="SocialSciences" text="jews people"/>
+				<query category="SocialSciences" text="government policy"/>
+				<query category="SocialSciences" text="civil history"/>
+				<query category="SocialSciences" text="government"/>
+				<query category="SocialSciences" text="noronen"/>
+				<query category="SocialSciences" text="james pay people"/>
+				<query category="SocialSciences" text="brad people"/>
+				<query category="SocialSciences" text="market money"/>
+				<query category="SocialSciences" text="holocaust"/>
+				<query category="SocialSciences" text="abuse language people"/>
+				<query category="SocialSciences" text="economics"/>
+				<query category="SocialSciences" text="care health people"/>
+				<query category="SocialSciences" text="greek greeks history"/>
+				<query category="SocialSciences" text="experience people therapy"/>
+				<query category="SocialSciences" text="king political"/>
+				<query category="SocialSciences" text="guest people wages"/>
+				<query category="SocialSciences" text="economy"/>
+				<query category="SocialSciences" text="psychotherapy"/>
+				<query category="SocialSciences" text="mark newsgroup usenet"/>
+				<query category="SocialSciences" text="greek history"/>
+				<query category="SocialSciences" text="jews"/>
+				<query category="SocialSciences" text="pronouncing"/>
+				<query category="SocialSciences" text="jones lloyd true"/>
+				<query category="SocialSciences" text="day germany people"/>
+				<query category="SocialSciences" text="anon brad"/>
+				<query category="SocialSciences" text="history whitewash"/>
+				<query category="SocialSciences" text="dlj world"/>
+				<query category="SocialSciences" text="linguistics"/>
+				<query category="SocialSciences" text="history war"/>
+				<query category="SocialSciences" text="kali"/>
+				<query category="SocialSciences" text="anon people usenet"/>
+				<query category="SocialSciences" text="blair"/>
+				<query category="SocialSciences" text="blumenstock people"/>
+				<query category="SocialSciences" text="susupply"/>
+				<query category="SocialSciences" text="child usenet"/>
+				<query category="SocialSciences" text="dlj pay"/>
+				<query category="SocialSciences" text="increased money"/>
+				<query category="SocialSciences" text="historians history"/>
+				<query category="SocialSciences" text="country difference news"/>
+				<query category="SocialSciences" text="body usenet"/>
+				<query category="SocialSciences" text="economic money"/>
+				<query category="SocialSciences" text="dangerous history opinion"/>
+				<query category="SocialSciences" text="hate jewish"/>
+				<query category="SocialSciences" text="therapists"/>
+				<query category="SocialSciences" text="dlj john"/>
+				<query category="SocialSciences" text="economists"/>
+				<query category="SocialSciences" text="dlj equity"/>
+				<query category="SocialSciences" text="lungo revolution"/>
+				<query category="SocialSciences" text="lloyd mason"/>
+				<query category="SocialSciences" text="hate lies"/>
+				<query category="SocialSciences" text="history read school"/>
+				<query category="SocialSciences" text="tor"/>
+				<query category="SocialSciences" text="drugs history"/>
+				<query category="SocialSciences" text="greeks macedonians"/>
+				<query category="SocialSciences" text="free power truth"/>
+				<query category="SocialSciences" text="states war"/>
+				<query category="SocialSciences" text="europe history national"/>
+				<query category="SocialSciences" text="computer mccarthy"/>
+				<query category="SocialSciences" text="germany history hitler"/>
+				<query category="SocialSciences" text="economic markets"/>
+				<query category="SocialSciences" text="history john money"/>
+				<query category="SocialSciences" text="language large web"/>
+				<query category="SocialSciences" text="judge moore"/>
+				<query category="SocialSciences" text="bill dlj"/>
+				<query category="SocialSciences" text="public standard usenet"/>
+				<query category="SocialSciences" text="income tax"/>
+				<query category="SocialSciences" text="kooks usenet"/>
+				<query category="SocialSciences" text="care child history"/>
+				<query category="SocialSciences" text="saytansbaby"/>
+				<query category="SocialSciences" text="christianity hate history"/>
+				<query category="SocialSciences" text="crime"/>
+				<query category="SocialSciences" text="drugs life"/>
+				<query category="SocialSciences" text="south war"/>
+				<query category="SocialSciences" text="date language web"/>
+				<query category="SocialSciences" text="document language"/>
+				<query category="SocialSciences" text="linguistlist"/>
+				<query category="SocialSciences" text="netbroadcaster"/>
+				<query category="SocialSciences" text="cipher"/>
+				<query category="SocialSciences" text="family history test"/>
+				<query category="SocialSciences" text="irving"/>
+				<query category="SocialSciences" text="german history question"/>
+				<query category="SocialSciences" text="pangk"/>
+				<query category="SocialSciences" text="blumenstock history"/>
+				<query category="SocialSciences" text="jones karen"/>
+				<query category="SocialSciences" text="area history proof"/>
+				<query category="SocialSciences" text="dlj free"/>
+				<query category="SocialSciences" text="alton history"/>
+				<query category="SocialSciences" text="curtis message"/>
+				<query category="SocialSciences" text="remailed remailer"/>
+				<query category="SocialSciences" text="therapist"/>
+				<query category="SocialSciences" text="farm history"/>
+				<query category="SocialSciences" text="read usa war"/>
+				<query category="SocialSciences" text="experience pay people"/>
+				<query category="SocialSciences" text="country european"/>
+				<query category="SocialSciences" text="language linguist"/>
+				<query category="SocialSciences" text="german war"/>
+				<query category="SocialSciences" text="economic gmt"/>
+				<query category="SocialSciences" text="gardiner"/>
+				<query category="SocialSciences" text="demand general"/>
+				<query category="SocialSciences" text="rauni"/>
+				<query category="SocialSciences" text="underrated"/>
+				<query category="SocialSciences" text="mark point research"/>
+				<query category="SocialSciences" text="fed inflation"/>
+				<query category="SocialSciences" text="hate propaganda"/>
+				<query category="SocialSciences" text="debt"/>
+				<query category="SocialSciences" text="capitalism jew"/>
+				<query category="SocialSciences" text="hate people talking"/>
+				<query category="SocialSciences" text="adl groups hate"/>
+				<query category="SocialSciences" text="fuels history"/>
+				<query category="SocialSciences" text="economist education"/>
+				<query category="SocialSciences" text="england james language"/>
+				<query category="SocialSciences" text="mark therapy"/>
+				<query category="SocialSciences" text="marxism"/>
+				<query category="SocialSciences" text="linguistic people sound"/>
+				<query category="SocialSciences" text="pronunciation roman"/>
+				<query category="SocialSciences" text="blumenstock hyman"/>
+				<query category="SocialSciences" text="americans faq"/>
+				<query category="SocialSciences" text="development linguistic"/>
+				<query category="SocialSciences" text="political war"/>
+				<query category="SocialSciences" text="constitution"/>
+				<query category="SocialSciences" text="krugman"/>
+				<query category="SocialSciences" text="european union"/>
+				<query category="SocialSciences" text="gdp people"/>
+				<query category="SocialSciences" text="peter usenet"/>
+				<query category="SocialSciences" text="faq history post"/>
+				<query category="SocialSciences" text="message research social"/>
+				<query category="SocialSciences" text="mcvay"/>
+				<query category="SocialSciences" text="dlj memory"/>
+				<query category="Math" text="frege logic"/>
+				<query category="Math" text="logic properties tom"/>
+				<query category="Math" text="distribution random variables"/>
+				<query category="Math" text="exist god logic proof"/>
+				<query category="Math" text="distribution normal"/>
+				<query category="Math" text="definition set writes"/>
+				<query category="Math" text="logic logics"/>
+				<query category="Math" text="causation statistics"/>
+				<query category="Math" text="axiom set"/>
+				<query category="Math" text="statistics"/>
+				<query category="Math" text="aristotle logic wetzel"/>
+				<query category="Math" text="frege"/>
+				<query category="Math" text="god made theists"/>
+				<query category="Math" text="distribution exponential probability"/>
+				<query category="Math" text="doesn exist god proof"/>
+				<query category="Math" text="distribution paradox probability"/>
+				<query category="Math" text="chi data test"/>
+				<query category="Math" text="logic mathematical"/>
+				<query category="Math" text="correlations variables"/>
+				<query category="Math" text="sample size"/>
+				<query category="Math" text="multiset set"/>
+				<query category="Math" text="logic theorem"/>
+				<query category="Math" text="humphreys logic"/>
+				<query category="Math" text="logic propositions"/>
+				<query category="Math" text="logic rodrian"/>
+				<query category="Math" text="analysis data regression"/>
+				<query category="Math" text="data ulrich"/>
+				<query category="Math" text="math stat"/>
+				<query category="Math" text="function probability"/>
+				<query category="Math" text="contradiction logic"/>
+				<query category="Math" text="dna god made"/>
+				<query category="Math" text="rodrian"/>
+				<query category="Math" text="paradox probability"/>
+				<query category="Math" text="calculate data"/>
+				<query category="Math" text="god made"/>
+				<query category="Math" text="distribution distributions"/>
+				<query category="Math" text="halting problem"/>
+				<query category="Math" text="density function normal"/>
+				<query category="Math" text="regression"/>
+				<query category="Math" text="infinite logic"/>
+				<query category="Math" text="aristotle logic memory"/>
+				<query category="Math" text="logic logician"/>
+				<query category="Math" text="distribution lognormal"/>
+				<query category="Math" text="logic predicate"/>
+				<query category="Math" text="data variables"/>
+			</queries>
+			<nodes>
+				<node name="Biology">
+					<queries>
+						<query category="Botany" text="agriculture plant tree"/>
+						<query category="Botany" text="efficient plants"/>
+						<query category="Botany" text="harold plant"/>
+						<query category="Botany" text="leaves plant tree"/>
+						<query category="Botany" text="iris plant"/>
+						<query category="Botany" text="diesel plant"/>
+						<query category="Botany" text="agriculture tree"/>
+						<query category="Botany" text="plants seed trees"/>
+						<query category="Botany" text="botany plant"/>
+						<query category="Botany" text="change crops plants"/>
+						<query category="Botany" text="roger whitehead"/>
+						<query category="Botany" text="archimedes plants"/>
+						<query category="Botany" text="tree wood"/>
+						<query category="Botany" text="drug plants"/>
+						<query category="Botany" text="garden plants science"/>
+						<query category="Botany" text="fruits plants"/>
+						<query category="Botany" text="plant toxicodendron"/>
+						<query category="Botany" text="plant stem"/>
+						<query category="Botany" text="edible plants"/>
+						<query category="Botany" text="buy plant"/>
+						<query category="Botany" text="harold"/>
+						<query category="Botany" text="plants zone"/>
+						<query category="Botany" text="hherbalone plants"/>
+						<query category="Botany" text="danton"/>
+						<query category="Botany" text="plants snip"/>
+						<query category="Botany" text="iris tree"/>
+						<query category="Botany" text="agriculture energy"/>
+						<query category="Botany" text="oregon tree"/>
+						<query category="Entomology" text="butterflies butterfly"/>
+						<query category="Entomology" text="butterflies"/>
+						<query category="Entomology" text="butterfly"/>
+						<query category="Entomology" text="insect"/>
+						<query category="Entomology" text="moths"/>
+						<query category="Entomology" text="moth"/>
+						<query category="Entomology" text="chris insects"/>
+						<query category="Entomology" text="insects museum"/>
+						<query category="Entomology" text="charset nextpart"/>
+						<query category="Entomology" text="cherubini"/>
+						<query category="Entomology" text="images insects"/>
+						<query category="Entomology" text="insects specimens"/>
+						<query category="Entomology" text="beetles"/>
+						<query category="Entomology" text="bee"/>
+						<query category="Entomology" text="leps"/>
+						<query category="Entomology" text="entomology"/>
+						<query category="Entomology" text="gochfeld"/>
+						<query category="Entomology" text="monarch"/>
+						<query category="Entomology" text="bug found"/>
+						<query category="Entomology" text="crawford"/>
+						<query category="Evolution" text="evolution life organism"/>
+						<query category="Evolution" text="evolution selection theory time"/>
+						<query category="Evolution" text="edser evolution"/>
+						<query category="Evolution" text="artificial evolution life"/>
+						<query category="Evolution" text="edser selection"/>
+						<query category="Evolution" text="evolution"/>
+						<query category="Evolution" text="argument hamilton"/>
+						<query category="Evolution" text="hendricks"/>
+						<query category="Evolution" text="evolutionary ibd"/>
+						<query category="Evolution" text="dna replication"/>
+						<query category="Evolution" text="biology cell question"/>
+						<query category="Evolution" text="edser"/>
+						<query category="Evolution" text="biology organism question"/>
+						<query category="Evolution" text="evolutionary human"/>
+						<query category="Evolution" text="puzzling question"/>
+						<query category="Evolution" text="puzzling question"/>
+						<query category="Evolution" text="chromosome genome"/>
+						<query category="Evolution" text="chromosome genome"/>
+						<query category="Evolution" text="daniel macarthur"/>
+						<query category="Evolution" text="animals biology energy"/>
+						<query category="Evolution" text="genetics question"/>
+						<query category="Evolution" text="ancestors mammal"/>
+						<query category="Evolution" text="hara"/>
+						<query category="Microbiology" text="microbiology"/>
+						<query category="Microbiology" text="bacteria drug resistant"/>
+						<query category="Microbiology" text="loes"/>
+						<query category="Microbiology" text="oligosaccharides"/>
+						<query category="Microbiology" text="bacteria bacterial"/>
+						<query category="Microbiology" text="agar"/>
+						<query category="Microbiology" text="antibiotc"/>
+						<query category="Microbiology" text="antibiotics organisms"/>
+						<query category="Microbiology" text="ascp lab"/>
+						<query category="Microbiology" text="lawton"/>
+						<query category="Paleontology" text="dinosaurs king"/>
+						<query category="Paleontology" text="dinosaur dinosaurs"/>
+						<query category="Paleontology" text="dinosaurs walking"/>
+						<query category="Paleontology" text="dinos dinosaurs"/>
+						<query category="Paleontology" text="archaeopteryx fossil"/>
+						<query category="Paleontology" text="dinosaur"/>
+						<query category="Paleontology" text="dinosaurs"/>
+						<query category="Paleontology" text="apr mammoths"/>
+						<query category="Paleontology" text="fossil hunting"/>
+						<query category="Paleontology" text="cal king"/>
+						<query category="Paleontology" text="fossil found species"/>
+						<query category="Paleontology" text="paleontology"/>
+						<query category="Paleontology" text="apr fossil"/>
+						<query category="Paleontology" text="kinman"/>
+						<query category="Paleontology" text="mozark"/>
+						<query category="Paleontology" text="extinctions"/>
+						<query category="Paleontology" text="fossils"/>
+						<query category="Paleontology" text="mattila"/>
+						<query category="Paleontology" text="por"/>
+						<query category="Paleontology" text="archaeopteryx"/>
+						<query category="Paleontology" text="rex"/>
+						<query category="Paleontology" text="fossil relative"/>
+						<query category="Paleontology" text="found jpg mexico"/>
+						<query category="Paleontology" text="dino"/>
+						<query category="Paleontology" text="catastrophes impact"/>
+						<query category="Paleontology" text="dino"/>
+						<query category="Paleontology" text="bones fossil"/>
+						<query category="Paleontology" text="bones found"/>
+						<query category="Paleontology" text="bones fossil"/>
+						<query category="Paleontology" text="trilobite"/>
+						<query category="Paleontology" text="skull"/>
+						<query category="Paleontology" text="evolvability"/>
+						<query category="Paleontology" text="theropods"/>
+						<query category="Paleontology" text="trilobite"/>
+						<query category="Paleontology" text="shite"/>
+						<query category="Paleontology" text="mammoths"/>
+						<query category="Paleontology" text="apr petrified"/>
+						<query category="Paleontology" text="descended"/>
+					</queries>
+					<nodes>
+						<node name="Botany"/>
+						<node name="Entomology"/>
+						<node name="Evolution"/>
+						<node name="Microbiology"/>
+						<node name="Paleontology"/>
+					</nodes>
+				</node>
+				<node name="Earth">
+					<queries>
+						<query category="Misc" text="oil"/>
+						<query category="Misc" text="deja software"/>
+						<query category="Misc" text="information water"/>
+						<query category="Misc" text="information water"/>
+						<query category="Misc" text="software"/>
+						<query category="Misc" text="foot problems water"/>
+						<query category="Misc" text="exploration"/>
+						<query category="Misc" text="petroleum"/>
+						<query category="Misc" text="drill water"/>
+						<query category="Misc" text="hydrology"/>
+						<query category="Misc" text="wave"/>
+						<query category="Misc" text="data deja"/>
+						<query category="Misc" text="hydrology"/>
+						<query category="Misc" text="marine"/>
+						<query category="Misc" text="deja exploration"/>
+						<query category="Misc" text="heights wave"/>
+						<query category="Misc" text="appreciated"/>
+						<query category="Misc" text="appreciated deja"/>
+						<query category="Misc" text="deja international"/>
+						<query category="Misc" text="cost deja"/>
+						<query category="Misc" text="air sea"/>
+						<query category="Misc" text="apr texas"/>
+						<query category="Misc" text="methane"/>
+						<query category="Misc" text="marine"/>
+						<query category="Misc" text="studies water"/>
+						<query category="Misc" text="exploration work"/>
+						<query category="Misc" text="advance canada"/>
+						<query category="Misc" text="information problems"/>
+						<query category="Misc" text="dominic"/>
+						<query category="Misc" text="oceanography"/>
+						<query category="Misc" text="brownouts water"/>
+						<query category="Misc" text="fresh water"/>
+						<query category="Misc" text="data program"/>
+						<query category="Misc" text="companies"/>
+						<query category="Misc" text="bbl"/>
+						<query category="Misc" text="analysis data"/>
+						<query category="Geology" text="cagle"/>
+						<query category="Geology" text="geology rocks"/>
+						<query category="Geology" text="don earth science"/>
+						<query category="Geology" text="mars"/>
+						<query category="Geology" text="don man"/>
+						<query category="Geology" text="god"/>
+						<query category="Geology" text="rock"/>
+						<query category="Geology" text="geology science"/>
+						<query category="Geology" text="barbara"/>
+						<query category="Geology" text="date id"/>
+						<query category="Geology" text="fish life"/>
+						<query category="Geology" text="article story"/>
+						<query category="Geology" text="geology"/>
+						<query category="Geology" text="smell"/>
+						<query category="Geology" text="earth mass"/>
+						<query category="Geology" text="article snip"/>
+						<query category="Geology" text="craters impact"/>
+						<query category="Geology" text="article science"/>
+						<query category="Geology" text="fax rocks"/>
+						<query category="Geology" text="weres"/>
+						<query category="Geology" text="hissink louis"/>
+						<query category="Geology" text="io"/>
+						<query category="Geology" text="alan work"/>
+						<query category="Geology" text="usenet"/>
+						<query category="Geology" text="kuhn"/>
+						<query category="Geology" text="origin"/>
+						<query category="Geology" text="earth expansion"/>
+						<query category="Geology" text="planetary shoemaker"/>
+						<query category="Geology" text="rocks"/>
+						<query category="Geology" text="quixote"/>
+						<query category="Geology" text="devils"/>
+					</queries>
+					<nodes>
+						<node name="Misc"/>
+						<node name="Geology"/>
+					</nodes>
+				</node>
+				<node name="SocialSciences">
+					<queries>
+						<query category="Economics" text="economics"/>
+						<query category="Economics" text="market money"/>
+						<query category="Economics" text="economic economy"/>
+						<query category="Economics" text="money supply"/>
+						<query category="Economics" text="dlj"/>
+						<query category="Economics" text="cost money pay"/>
+						<query category="Economics" text="interest rate"/>
+						<query category="Economics" text="pay wages"/>
+						<query category="Economics" text="don inflation rates"/>
+						<query category="Economics" text="increased money velocity"/>
+						<query category="Economics" text="blair"/>
+						<query category="Economics" text="free power reasonable"/>
+						<query category="Economics" text="economic gdp"/>
+						<query category="Economics" text="money velocity"/>
+						<query category="Economics" text="markets"/>
+						<query category="Economics" text="companies don government"/>
+						<query category="Economics" text="cost"/>
+						<query category="Economics" text="david don lloyd"/>
+						<query category="Economics" text="hyman"/>
+						<query category="Economics" text="economic money"/>
+						<query category="Economics" text="prices"/>
+						<query category="Economics" text="money statistics"/>
+						<query category="Economics" text="average income"/>
+						<query category="Economics" text="investment"/>
+						<query category="Economics" text="mccarthy"/>
+						<query category="Economics" text="mason"/>
+						<query category="Economics" text="interest rate"/>
+						<query category="Economics" text="debt"/>
+						<query category="Economics" text="prices"/>
+						<query category="Economics" text="jd"/>
+						<query category="Economics" text="payer"/>
+						<query category="Economics" text="gdp"/>
+						<query category="Economics" text="good jd"/>
+						<query category="Economics" text="payer"/>
+						<query category="Economics" text="debt lets"/>
+						<query category="Economics" text="companies wages"/>
+						<query category="Economics" text="economy stock"/>
+						<query category="Economics" text="curtis developments"/>
+						<query category="Economics" text="krugman"/>
+						<query category="Economics" text="substitute"/>
+						<query category="Economics" text="ownership"/>
+						<query category="Economics" text="amount snip"/>
+						<query category="Economics" text="teachers union"/>
+						<query category="Economics" text="debt"/>
+						<query category="Economics" text="burkhard"/>
+						<query category="Economics" text="ownership"/>
+						<query category="Economics" text="nudds"/>
+						<query category="Economics" text="finance stock"/>
+						<query category="Economics" text="blumenstock"/>
+						<query category="Economics" text="gdp"/>
+						<query category="Economics" text="fed inflation"/>
+						<query category="Economics" text="monetary"/>
+						<query category="Economics" text="claim statistics"/>
+						<query category="Economics" text="armed entire"/>
+						<query category="History" text="church court history"/>
+						<query category="History" text="jews"/>
+						<query category="History" text="history"/>
+						<query category="History" text="history whitewash"/>
+						<query category="History" text="calendar holocaust"/>
+						<query category="History" text="constitution history"/>
+						<query category="History" text="civil war"/>
+						<query category="History" text="ass baby"/>
+						<query category="History" text="holocaust irving"/>
+						<query category="History" text="constitution mike"/>
+						<query category="History" text="greeks"/>
+						<query category="History" text="german holocaust"/>
+						<query category="History" text="union war"/>
+						<query category="History" text="hate zionist"/>
+						<query category="History" text="gardiner"/>
+						<query category="History" text="logical war"/>
+						<query category="History" text="baby capitalist"/>
+						<query category="History" text="baby"/>
+						<query category="History" text="communist holocaust posted"/>
+						<query category="History" text="communism judge"/>
+						<query category="History" text="began military war"/>
+						<query category="History" text="hate jewish"/>
+						<query category="History" text="holocaust pope"/>
+						<query category="History" text="tommy"/>
+						<query category="History" text="friends war"/>
+						<query category="History" text="hate lies"/>
+						<query category="History" text="apparently german war"/>
+						<query category="History" text="air war"/>
+						<query category="History" text="jew"/>
+						<query category="History" text="irving"/>
+						<query category="History" text="crimes hate"/>
+						<query category="History" text="soviet troops war"/>
+						<query category="History" text="capital population war"/>
+						<query category="History" text="alton"/>
+						<query category="History" text="christian christianity"/>
+						<query category="History" text="article easiest war"/>
+						<query category="History" text="holocaust victims"/>
+						<query category="History" text="holocaust jun posted"/>
+						<query category="History" text="holocaust victims"/>
+						<query category="History" text="hate ultimate"/>
+						<query category="History" text="hungary"/>
+						<query category="History" text="auschwitz"/>
+						<query category="History" text="america discovered"/>
+						<query category="History" text="america discovered"/>
+						<query category="History" text="lungo"/>
+						<query category="History" text="hate ultimate"/>
+						<query category="History" text="constitution news"/>
+						<query category="History" text="quotes result"/>
+						<query category="Linguistics" text="linguistlist"/>
+						<query category="Linguistics" text="pronouncing"/>
+						<query category="Linguistics" text="linguistics university"/>
+						<query category="Linguistics" text="ling"/>
+						<query category="Linguistics" text="linguistics"/>
+						<query category="Linguistics" text="syntax"/>
+						<query category="Linguistics" text="linguist"/>
+						<query category="Linguistics" text="workshop"/>
+						<query category="Linguistics" text="language paid web"/>
+						<query category="Linguistics" text="editors language web"/>
+						<query category="Linguistics" text="computational"/>
+						<query category="Linguistics" text="deadline"/>
+						<query category="Pshychology" text="psychotherapy"/>
+						<query category="Pshychology" text="noronen"/>
+						<query category="Pshychology" text="posted usenet"/>
+						<query category="Pshychology" text="anon"/>
+						<query category="Pshychology" text="mark usenet"/>
+						<query category="Pshychology" text="anon usenet"/>
+						<query category="Pshychology" text="therapy"/>
+						<query category="Pshychology" text="mark usenet"/>
+						<query category="Pshychology" text="phd usenet"/>
+						<query category="Pshychology" text="kali"/>
+						<query category="Pshychology" text="abuse usenet"/>
+						<query category="Pshychology" text="therapist"/>
+						<query category="Pshychology" text="pgp usenet"/>
+						<query category="Pshychology" text="pgp usenet"/>
+						<query category="Pshychology" text="phd usenet"/>
+						<query category="Pshychology" text="snip tor"/>
+						<query category="Pshychology" text="brad"/>
+						<query category="Pshychology" text="therapy"/>
+						<query category="Pshychology" text="therapy"/>
+						<query category="Pshychology" text="anon"/>
+						<query category="Pshychology" text="conduct usenet"/>
+						<query category="Pshychology" text="inappropriate"/>
+						<query category="Pshychology" text="memories ph usenet"/>
+						<query category="Pshychology" text="snip usenet"/>
+						<query category="Pshychology" text="mark memories"/>
+						<query category="Pshychology" text="lying usenet"/>
+						<query category="Pshychology" text="ph psychology"/>
+						<query category="Pshychology" text="psychotherapist"/>
+						<query category="Pshychology" text="easiest memories"/>
+						<query category="Pshychology" text="child idiot"/>
+						<query category="Pshychology" text="cipher"/>
+						<query category="Pshychology" text="claim leslie"/>
+						<query category="Pshychology" text="inappropriate"/>
+						<query category="Pshychology" text="protect usenet"/>
+						<query category="Pshychology" text="anxiety usenet"/>
+						<query category="Pshychology" text="kook"/>
+						<query category="Pshychology" text="germany usenet"/>
+						<query category="Pshychology" text="gas tor"/>
+						<query category="Pshychology" text="bounced remove"/>
+						<query category="Pshychology" text="alvarado"/>
+						<query category="Pshychology" text="adelman id"/>
+						<query category="Pshychology" text="average gain result"/>
+						<query category="Pshychology" text="memories newsgroup"/>
+						<query category="Pshychology" text="idiot newsgroups"/>
+						<query category="Pshychology" text="id passed"/>
+						<query category="Pshychology" text="accept memories"/>
+						<query category="Pshychology" text="connection diagnosis"/>
+						<query category="Pshychology" text="rauni"/>
+						<query category="Pshychology" text="therapists"/>
+					</queries>
+					<nodes>
+						<node name="Economics"/>
+						<node name="History"/>
+						<node name="Linguistics"/>
+						<node name="Pshychology"/>
+					</nodes>
+				</node>
+				<node name="Math">
+					<queries>
+						<query category="Logic" text="existence logic"/>
+						<query category="Logic" text="definition frege"/>
+						<query category="Logic" text="god"/>
+						<query category="Logic" text="logic news"/>
+						<query category="Logic" text="definition"/>
+						<query category="Logic" text="logic"/>
+						<query category="Logic" text="existence"/>
+						<query category="Logic" text="true"/>
+						<query category="Statistics" text="data variables"/>
+						<query category="Statistics" text="data test"/>
+						<query category="Statistics" text="distribution normal"/>
+						<query category="Statistics" text="data"/>
+						<query category="Statistics" text="statistics"/>
+						<query category="Statistics" text="distribution random"/>
+						<query category="Statistics" text="test"/>
+						<query category="Statistics" text="distribution"/>
+						<query category="Statistics" text="probability"/>
+						<query category="Statistics" text="variables"/>
+					</queries>
+					<nodes>
+						<node name="Logic"/>
+						<node name="Statistics"/>
+					</nodes>
+				</node>
+			</nodes>
+		</node>
+		<node name="Computers">
+			<queries>
+				<query category="Programming" text="class code"/>
+				<query category="Programming" text="perl"/>
+				<query category="Programming" text="code int"/>
+				<query category="Programming" text="java message"/>
+				<query category="Programming" text="code message vb"/>
+				<query category="Programming" text="code string"/>
+				<query category="Programming" text="java"/>
+				<query category="Programming" text="code error"/>
+				<query category="Programming" text="message news vb"/>
+				<query category="Programming" text="code form"/>
+				<query category="Programming" text="function message"/>
+				<query category="Programming" text="code vb"/>
+				<query category="Programming" text="char string"/>
+				<query category="Programming" text="int main"/>
+				<query category="Programming" text="code"/>
+				<query category="Programming" text="deja vb"/>
+				<query category="Programming" text="string"/>
+				<query category="Programming" text="object"/>
+				<query category="Programming" text="vb"/>
+				<query category="Programming" text="function"/>
+				<query category="Programming" text="array"/>
+				<query category="Programming" text="class"/>
+				<query category="Programming" text="faq"/>
+				<query category="Software" text="simtelnet"/>
+				<query category="Software" text="game long"/>
+				<query category="Software" text="cnet player"/>
+				<query category="Software" text="free game"/>
+				<query category="Software" text="audio cnet"/>
+				<query category="Software" text="game"/>
+				<query category="Software" text="cnet"/>
+				<query category="Software" text="mac quandry"/>
+				<query category="Software" text="download trial"/>
+				<query category="Software" text="files video"/>
+				<query category="Software" text="games"/>
+				<query category="Software" text="player"/>
+				<query category="Software" text="shareware software"/>
+				<query category="Software" text="multimedia"/>
+				<query category="Software" text="audio"/>
+				<query category="Software" text="derek smart"/>
+				<query category="Hardware" text="motherboard"/>
+				<query category="Hardware" text="bios drive"/>
+				<query category="Hardware" text="cpu message news"/>
+				<query category="Hardware" text="drive good"/>
+				<query category="Hardware" text="celeron"/>
+			</queries>
+			<nodes>
+				<node name="Programming">
+					<queries>
+						<query category="C" text="include int program"/>
+						<query category="C" text="include int iostream"/>
+						<query category="C" text="char int"/>
+						<query category="C" text="compiler standard"/>
+						<query category="C" text="include int main"/>
+						<query category="C" text="int pointer"/>
+						<query category="C" text="compiler function"/>
+						<query category="C" text="newsgroup standard"/>
+						<query category="C" text="char pointer"/>
+						<query category="C" text="compiler"/>
+						<query category="C" text="function standard"/>
+						<query category="C" text="eskimo faq"/>
+						<query category="C" text="int type"/>
+						<query category="C" text="char void"/>
+						<query category="C" text="function operator pointer"/>
+						<query category="C" text="int main"/>
+						<query category="C" text="article ot"/>
+						<query category="C" text="int printf"/>
+						<query category="C" text="declaration functions"/>
+						<query category="C" text="class standard writes"/>
+						<query category="C" text="pointer"/>
+						<query category="C" text="char"/>
+						<query category="C" text="faq newsgroup"/>
+						<query category="C" text="ot"/>
+						<query category="C" text="stl"/>
+						<query category="C" text="ansi"/>
+						<query category="C" text="mcintyre"/>
+						<query category="C" text="define header"/>
+						<query category="C" text="functions thread"/>
+						<query category="C" text="int memory"/>
+						<query category="C" text="function static"/>
+						<query category="Java" text="java"/>
+						<query category="Java" text="applet"/>
+						<query category="Java" text="ejb"/>
+						<query category="Java" text="jdbc"/>
+						<query category="Java" text="swing"/>
+						<query category="Java" text="class jbuilder"/>
+						<query category="Java" text="servlet"/>
+						<query category="Java" text="jtable"/>
+						<query category="Java" text="class method void"/>
+						<query category="Java" text="class classes import"/>
+						<query category="Java" text="frame method"/>
+						<query category="Java" text="beans"/>
+						<query category="Java" text="panel"/>
+						<query category="Java" text="frame"/>
+						<query category="Java" text="panel"/>
+						<query category="Java" text="method thread"/>
+						<query category="Java" text="bean class"/>
+						<query category="Java" text="println"/>
+						<query category="Java" text="weblogic"/>
+						<query category="Java" text="exception public"/>
+						<query category="Java" text="skeet"/>
+						<query category="Perl" text="module perl"/>
+						<query category="Perl" text="perl print"/>
+						<query category="Perl" text="perl"/>
+						<query category="Perl" text="cpan module"/>
+						<query category="Perl" text="cgi script"/>
+						<query category="Perl" text="installed module"/>
+						<query category="Perl" text="die print"/>
+						<query category="Perl" text="module script"/>
+						<query category="Perl" text="module writes"/>
+						<query category="Perl" text="foo print"/>
+						<query category="Perl" text="chomp line print"/>
+						<query category="Perl" text="cgi module"/>
+						<query category="Perl" text="article larry print"/>
+						<query category="Perl" text="print script"/>
+						<query category="Perl" text="module telnet"/>
+						<query category="Perl" text="hash"/>
+						<query category="Perl" text="html module"/>
+						<query category="Perl" text="rosler"/>
+						<query category="Perl" text="local script"/>
+						<query category="Perl" text="pm"/>
+						<query category="Perl" text="scripts"/>
+						<query category="VBasic" text="vb"/>
+						<query category="VBasic" text="dim"/>
+						<query category="VBasic" text="control news"/>
+						<query category="VBasic" text="form news user"/>
+						<query category="VBasic" text="box control set"/>
+						<query category="VBasic" text="control textbox"/>
+						<query category="VBasic" text="ado control set"/>
+						<query category="VBasic" text="form property select"/>
+						<query category="VBasic" text="form property"/>
+						<query category="VBasic" text="control properties"/>
+						<query category="VBasic" text="ado"/>
+						<query category="VBasic" text="control controls"/>
+						<query category="VBasic" text="access database record"/>
+						<query category="VBasic" text="basic visual"/>
+					</queries>
+					<nodes>
+						<node name="C"/>
+						<node name="Java"/>
+						<node name="Perl"/>
+						<node name="VBasic"/>
+					</nodes>
+				</node>
+				<node name="Software">
+					<queries>
+						<query category="Games" text="don game"/>
+						<query category="Games" text="game ve"/>
+						<query category="Games" text="games message"/>
+						<query category="Games" text="article game"/>
+						<query category="Games" text="game message news"/>
+						<query category="Games" text="game"/>
+						<query category="Games" text="didn message news"/>
+						<query category="Games" text="don people"/>
+						<query category="Games" text="games"/>
+						<query category="Games" text="message news"/>
+						<query category="Games" text="gmt"/>
+						<query category="Multimedia" text="cnet"/>
+						<query category="Multimedia" text="buying mac"/>
+						<query category="Multimedia" text="deja"/>
+						<query category="Multimedia" text="deja"/>
+						<query category="Multimedia" text="video"/>
+						<query category="Multimedia" text="audio"/>
+						<query category="Multimedia" text="multimedia"/>
+						<query category="Multimedia" text="quicktime"/>
+						<query category="Shareware" text="pub simtel"/>
+						<query category="Shareware" text="announce"/>
+						<query category="Shareware" text="download trial"/>
+						<query category="Shareware" text="shareware"/>
+					</queries>
+					<nodes>
+						<node name="Games"/>
+						<node name="Multimedia"/>
+						<node name="Shareware"/>
+					</nodes>
+				</node>
+				<node name="Hardware"/>
+			</nodes>
+		</node>
+		<node name="Arts">
+			<queries>
+				<query category="Music" text="cd music"/>
+				<query category="Music" text="classical music"/>
+				<query category="Music" text="album music"/>
+				<query category="Music" text="music piano"/>
+				<query category="Music" text="hop music"/>
+				<query category="Music" text="check music"/>
+				<query category="Music" text="daniels music"/>
+				<query category="Music" text="beethoven music"/>
+				<query category="Music" text="album"/>
+				<query category="Music" text="ambient music"/>
+				<query category="Music" text="hear heard music"/>
+				<query category="Music" text="music"/>
+				<query category="Music" text="cd metal"/>
+				<query category="Music" text="cd lp"/>
+				<query category="Music" text="hop"/>
+				<query category="Music" text="cd heard"/>
+				<query category="Music" text="cd"/>
+				<query category="Music" text="ass fuckin shit"/>
+				<query category="Music" text="song songs"/>
+				<query category="Music" text="shit wack"/>
+				<query category="Music" text="ebay metal"/>
+				<query category="Music" text="peace theamphibians"/>
+				<query category="Music" text="shit"/>
+				<query category="Music" text="symphony"/>
+				<query category="Music" text="song"/>
+				<query category="Music" text="ass rock"/>
+				<query category="Music" text="peace"/>
+				<query category="Music" text="daniels"/>
+				<query category="Music" text="band metal"/>
+				<query category="Music" text="metallica"/>
+				<query category="Music" text="orchestra"/>
+				<query category="Music" text="fuck rock"/>
+				<query category="Music" text="maiden"/>
+				<query category="Music" text="cds"/>
+				<query category="Music" text="ass bitch"/>
+				<query category="Music" text="heard piano"/>
+				<query category="Music" text="composers"/>
+				<query category="Music" text="allah"/>
+				<query category="Music" text="ass band"/>
+				<query category="Music" text="artist check"/>
+				<query category="Music" text="concert"/>
+				<query category="Music" text="ass daddy"/>
+				<query category="Music" text="megadeth rock"/>
+				<query category="Music" text="ebay fuck"/>
+				<query category="Music" text="heard tracks"/>
+				<query category="Music" text="eminem"/>
+				<query category="Music" text="wack"/>
+				<query category="Music" text="check metal"/>
+				<query category="Music" text="fuck movie"/>
+				<query category="Music" text="otp"/>
+				<query category="Music" text="axl"/>
+				<query category="Music" text="article piano"/>
+				<query category="Music" text="band sv"/>
+				<query category="Music" text="classical musicians"/>
+				<query category="Music" text="composer"/>
+				<query category="Music" text="bnw"/>
+				<query category="Music" text="metal rock"/>
+				<query category="Music" text="beethoven"/>
+				<query category="Music" text="rock stones"/>
+				<query category="Music" text="aerosmith"/>
+				<query category="Music" text="listen radio"/>
+				<query category="Music" text="guitar"/>
+				<query category="Music" text="fuck listen"/>
+				<query category="Music" text="fuck listen"/>
+				<query category="Music" text="piano recording"/>
+				<query category="Music" text="check fuck fucking"/>
+				<query category="Music" text="napster"/>
+				<query category="Music" text="ass fucking"/>
+				<query category="Music" text="bands"/>
+				<query category="Music" text="lp"/>
+				<query category="Music" text="calvarium holocaust"/>
+				<query category="Music" text="bx sv"/>
+				<query category="Music" text="jews shot"/>
+				<query category="Music" text="opera strauss"/>
+				<query category="Music" text="mozart"/>
+				<query category="Music" text="jews murder"/>
+				<query category="Music" text="records solo"/>
+				<query category="Music" text="electric rock"/>
+				<query category="Music" text="sampled"/>
+				<query category="Music" text="aeon"/>
+				<query category="Music" text="def"/>
+				<query category="Music" text="angel ass"/>
+				<query category="Music" text="recordings"/>
+				<query category="Music" text="bitch fuck mom"/>
+				<query category="Music" text="vangelis"/>
+				<query category="Music" text="fuckin"/>
+				<query category="Music" text="requiem"/>
+				<query category="Music" text="heard remix"/>
+				<query category="Music" text="jews"/>
+				<query category="Music" text="dope fuck"/>
+				<query category="Music" text="listen radio"/>
+				<query category="Music" text="fans stones"/>
+				<query category="Music" text="pianist"/>
+				<query category="Music" text="kip"/>
+				<query category="Music" text="vinyl"/>
+				<query category="Music" text="bach sound"/>
+				<query category="Music" text="flash fuck"/>
+				<query category="Music" text="fuck lyrical"/>
+				<query category="Music" text="divamanque evelyn"/>
+				<query category="Music" text="tepper"/>
+				<query category="Music" text="interview sv"/>
+				<query category="Music" text="band catman"/>
+				<query category="Music" text="dilated"/>
+				<query category="Music" text="disobeyin rock"/>
+				<query category="Music" text="ass gore life"/>
+				<query category="Music" text="mick"/>
+				<query category="Music" text="rmhh"/>
+				<query category="Music" text="bach"/>
+				<query category="Music" text="interviews metal"/>
+				<query category="Music" text="fatboy"/>
+				<query category="Music" text="join records"/>
+				<query category="Music" text="haydn"/>
+				<query category="Music" text="heard rock"/>
+				<query category="Music" text="dj"/>
+				<query category="Music" text="opera singers"/>
+				<query category="Music" text="labels recording"/>
+				<query category="Music" text="ass check"/>
+				<query category="Music" text="join records"/>
+				<query category="Music" text="bernstein"/>
+				<query category="Music" text="band roses"/>
+				<query category="Music" text="awhile band"/>
+				<query category="Music" text="check radio"/>
+				<query category="Music" text="haydn"/>
+				<query category="Music" text="producers recording"/>
+				<query category="Music" text="opera singers"/>
+				<query category="Music" text="hiphop"/>
+				<query category="Music" text="listened tracks"/>
+				<query category="Music" text="heard lps"/>
+				<query category="Music" text="band spell"/>
+				<query category="Music" text="ass gore"/>
+				<query category="Music" text="duo piano"/>
+				<query category="Music" text="check join"/>
+				<query category="Music" text="star sv"/>
+				<query category="Music" text="check lil"/>
+				<query category="Music" text="fuck results"/>
+				<query category="Music" text="ebay soundtrack"/>
+				<query category="Music" text="gn"/>
+				<query category="Music" text="check groove"/>
+				<query category="Music" text="sv swedish"/>
+				<query category="Music" text="hearts musical"/>
+				<query category="Music" text="ass blak fuck"/>
+				<query category="Music" text="ebay movements"/>
+				<query category="Music" text="confess husband"/>
+				<query category="Music" text="bass"/>
+				<query category="Music" text="midi"/>
+				<query category="Music" text="icon listening"/>
+				<query category="Music" text="fuck rm"/>
+				<query category="Music" text="lord lyrics"/>
+				<query category="Music" text="instrument"/>
+				<query category="Music" text="metal synth"/>
+				<query category="Music" text="battle fuck"/>
+				<query category="Music" text="heard sv"/>
+				<query category="Music" text="ass xl"/>
+				<query category="Music" text="albums wu"/>
+				<query category="Music" text="instrumental"/>
+				<query category="Movies" text="article film movie"/>
+				<query category="Movies" text="film movie"/>
+				<query category="Movies" text="films movie"/>
+				<query category="Movies" text="gladiator movie"/>
+				<query category="Movies" text="movie travolta"/>
+				<query category="Movies" text="film tv video"/>
+				<query category="Movies" text="audience movie"/>
+				<query category="Movies" text="dv film video"/>
+				<query category="Movies" text="film movies"/>
+				<query category="Movies" text="characters movie movies"/>
+				<query category="Movies" text="camera film video"/>
+				<query category="Movies" text="movie movies screen"/>
+				<query category="Movies" text="film roles"/>
+				<query category="Movies" text="actors movie"/>
+				<query category="Movies" text="movie property"/>
+				<query category="Movies" text="kid movie"/>
+				<query category="Movies" text="film video"/>
+				<query category="Movies" text="movie spoilers"/>
+				<query category="Photography" text="photo photography"/>
+				<query category="Photography" text="lens light"/>
+				<query category="Photography" text="photo"/>
+				<query category="Photography" text="photography"/>
+				<query category="Photography" text="film kodak"/>
+				<query category="Photography" text="format lens"/>
+				<query category="Photography" text="film slide"/>
+				<query category="Photography" text="paper prints"/>
+				<query category="Photography" text="lens lenses"/>
+				<query category="Photography" text="camera flash"/>
+				<query category="Photography" text="developer film"/>
+				<query category="Photography" text="lens"/>
+				<query category="Photography" text="camera photographer"/>
+				<query category="Photography" text="camera cameras format"/>
+				<query category="Photography" text="prints"/>
+				<query category="Photography" text="film processing"/>
+				<query category="Photography" text="camera cameras check"/>
+				<query category="Photography" text="camera pam"/>
+				<query category="Photography" text="camera photos pictures"/>
+				<query category="Photography" text="kodak"/>
+				<query category="Photography" text="color film light"/>
+				<query category="Photography" text="camera pro"/>
+				<query category="Photography" text="agfa camera speed"/>
+				<query category="Photography" text="film fuji"/>
+				<query category="Photography" text="camera cameras filters"/>
+				<query category="Photography" text="images photos"/>
+				<query category="Photography" text="landscape photos pictures"/>
+				<query category="Photography" text="exposure image shooting"/>
+				<query category="Photography" text="format pictures"/>
+				<query category="Literature" text="poems poetry"/>
+				<query category="Literature" text="shakespeare stratford"/>
+				<query category="Literature" text="gmt writing"/>
+				<query category="Literature" text="article love poem"/>
+				<query category="Literature" text="poem"/>
+				<query category="Literature" text="authorship shakespeare"/>
+				<query category="Literature" text="read writers writing"/>
+				<query category="Literature" text="eloquently writing"/>
+				<query category="Literature" text="marlowe shakespeare"/>
+				<query category="Literature" text="writing"/>
+				<query category="Literature" text="poetry"/>
+				<query category="Literature" text="shakespeare"/>
+				<query category="Literature" text="arts poems"/>
+				<query category="Literature" text="eyes men words"/>
+				<query category="Literature" text="sherman"/>
+				<query category="Literature" text="greg life"/>
+				<query category="Literature" text="eyes life lips"/>
+				<query category="Literature" text="eyes words"/>
+				<query category="Literature" text="poems"/>
+				<query category="Literature" text="eyes midnight"/>
+				<query category="Literature" text="life sister"/>
+				<query category="Literature" text="geno"/>
+				<query category="Literature" text="greg jungheim"/>
+				<query category="Literature" text="breath eyes"/>
+				<query category="Literature" text="marek"/>
+				<query category="Literature" text="fund read"/>
+				<query category="Literature" text="dog read word"/>
+				<query category="Literature" text="geno"/>
+				<query category="Literature" text="joy yourcenar"/>
+				<query category="Literature" text="drugs life love"/>
+				<query category="Literature" text="jeanne"/>
+				<query category="Literature" text="gmt words writer"/>
+				<query category="Literature" text="family father life"/>
+				<query category="Literature" text="chatley wendy"/>
+				<query category="Literature" text="drugs life"/>
+				<query category="Literature" text="moira"/>
+				<query category="Literature" text="author writer"/>
+				<query category="Literature" text="chatley wendy"/>
+				<query category="Literature" text="crowley life"/>
+				<query category="Literature" text="poet"/>
+				<query category="Literature" text="gmt greene"/>
+				<query category="Literature" text="greg reynolds"/>
+				<query category="Literature" text="garden hear shoot"/>
+				<query category="Literature" text="hamlet read"/>
+				<query category="Literature" text="eyes midnight"/>
+				<query category="Literature" text="breath eyes"/>
+				<query category="Literature" text="lips sky"/>
+				<query category="Literature" text="dare neo"/>
+				<query category="Literature" text="cry father"/>
+				<query category="Literature" text="eyes peace"/>
+				<query category="Literature" text="moira"/>
+				<query category="Literature" text="yourcenar"/>
+				<query category="Literature" text="eyes lord"/>
+				<query category="Literature" text="word writers"/>
+				<query category="Literature" text="drugs health life"/>
+				<query category="Literature" text="comfort"/>
+				<query category="Literature" text="mwm"/>
+				<query category="Literature" text="bouchard"/>
+				<query category="Literature" text="joy life love"/>
+				<query category="Literature" text="aarpa poets"/>
+				<query category="Literature" text="fruit garden"/>
+				<query category="Literature" text="eyes tears"/>
+				<query category="Literature" text="cuz read word"/>
+				<query category="Literature" text="gmt heard small"/>
+				<query category="Literature" text="eyes rhyme"/>
+				<query category="Literature" text="zme"/>
+				<query category="Literature" text="carlie gmt"/>
+				<query category="Literature" text="manchester neo"/>
+				<query category="TV" text="season tv"/>
+				<query category="TV" text="dan tv"/>
+				<query category="TV" text="episode show"/>
+				<query category="TV" text="shows tv"/>
+				<query category="TV" text="dan episode show"/>
+				<query category="TV" text="show shows tv"/>
+				<query category="TV" text="ratings show"/>
+				<query category="TV" text="elian tv"/>
+				<query category="TV" text="comments dan"/>
+				<query category="TV" text="elian tv"/>
+				<query category="TV" text="article cbs tv"/>
+				<query category="TV" text="season show"/>
+				<query category="TV" text="arts show tv"/>
+				<query category="TV" text="simpsons tv"/>
+				<query category="TV" text="comments dan"/>
+				<query category="TV" text="ratings show"/>
+				<query category="TV" text="article episode shows"/>
+				<query category="TV" text="arts tv"/>
+				<query category="TV" text="episode show"/>
+				<query category="TV" text="simpsons tv"/>
+				<query category="TV" text="abc shows tv"/>
+				<query category="TV" text="show tv watching"/>
+				<query category="TV" text="nbc show"/>
+				<query category="TV" text="fox read show"/>
+				<query category="TV" text="episodes"/>
+				<query category="TV" text="show survivor"/>
+				<query category="TV" text="keitz"/>
+				<query category="TV" text="nbc show"/>
+				<query category="TV" text="article episode family"/>
+				<query category="TV" text="abc"/>
+				<query category="TV" text="roswell spoilers"/>
+				<query category="TV" text="episode spoilers"/>
+				<query category="TV" text="awards show singers"/>
+				<query category="TV" text="amy coma show"/>
+				<query category="TV" text="cbs"/>
+				<query category="TV" text="song spoilers"/>
+				<query category="TV" text="article starr"/>
+				<query category="TV" text="comedy tv"/>
+				<query category="TV" text="awards ratty show"/>
+				<query category="TV" text="cbs"/>
+				<query category="TV" text="weinman"/>
+				<query category="TV" text="tropea"/>
+				<query category="TV" text="episode season"/>
+				<query category="TV" text="shows tv"/>
+				<query category="TV" text="renewed show"/>
+				<query category="TV" text="article gmt story tv"/>
+				<query category="TV" text="fox viewers"/>
+				<query category="TV" text="dare tv"/>
+				<query category="TV" text="show wonderland"/>
+				<query category="TV" text="elian reno"/>
+				<query category="TV" text="scally"/>
+				<query category="TV" text="dare tv"/>
+				<query category="TV" text="episode series"/>
+				<query category="TV" text="episodes season"/>
+				<query category="TV" text="episodes"/>
+				<query category="TV" text="episode season"/>
+				<query category="TV" text="article dan tropea"/>
+				<query category="TV" text="abc"/>
+				<query category="TV" text="regis show"/>
+				<query category="TV" text="ratings"/>
+				<query category="TV" text="article fans tv"/>
+				<query category="TV" text="article guide tv"/>
+				<query category="TV" text="episode wing"/>
+				<query category="TV" text="intellectual tv"/>
+			</queries>
+			<nodes>
+				<node name="Music">
+					<queries>
+						<query category="Classical" text="classical"/>
+						<query category="Classical" text="concerto piano"/>
+						<query category="Classical" text="daniels"/>
+						<query category="Classical" text="symphony"/>
+						<query category="Classical" text="beethoven"/>
+						<query category="Classical" text="piano"/>
+						<query category="Classical" text="opera"/>
+						<query category="Classical" text="composers"/>
+						<query category="Classical" text="bach"/>
+						<query category="Classical" text="dma"/>
+						<query category="Classical" text="mozart"/>
+						<query category="Classical" text="remailer"/>
+						<query category="Classical" text="apr composer"/>
+						<query category="Classical" text="department university"/>
+						<query category="Classical" text="warmer"/>
+						<query category="Classical" text="news orchestra"/>
+						<query category="Classical" text="composer played"/>
+						<query category="Classical" text="brain snip"/>
+						<query category="Classical" text="naxos"/>
+						<query category="Classical" text="david hurwitz"/>
+						<query category="Classical" text="mahler"/>
+						<query category="Classical" text="good instrument"/>
+						<query category="Classical" text="argerich york"/>
+						<query category="Classical" text="violin"/>
+						<query category="Classical" text="kip"/>
+						<query category="Classical" text="delete reply"/>
+						<query category="Classical" text="lord work"/>
+						<query category="Classical" text="action troll"/>
+						<query category="Classical" text="evelyn"/>
+						<query category="Classical" text="bernstein"/>
+						<query category="Classical" text="tristan wagner"/>
+						<query category="HipHop" text="hip hop"/>
+						<query category="HipHop" text="album peace"/>
+						<query category="HipHop" text="dope shit"/>
+						<query category="HipHop" text="peace theamphibians"/>
+						<query category="HipHop" text="shit wack"/>
+						<query category="HipHop" text="man shit"/>
+						<query category="HipHop" text="peace"/>
+						<query category="HipHop" text="rap"/>
+						<query category="HipHop" text="eminem"/>
+						<query category="HipHop" text="kuahmel"/>
+						<query category="HipHop" text="dj shit"/>
+						<query category="HipHop" text="dope"/>
+						<query category="HipHop" text="real shit work"/>
+						<query category="HipHop" text="otp"/>
+						<query category="HipHop" text="pretty shit"/>
+						<query category="HipHop" text="dre"/>
+						<query category="HipHop" text="beat kill"/>
+						<query category="HipHop" text="don dre"/>
+						<query category="HipHop" text="easiest ksg"/>
+						<query category="HipHop" text="ass game ve"/>
+						<query category="HipHop" text="def mos"/>
+						<query category="HipHop" text="damn ve"/>
+						<query category="HipHop" text="dont fuck"/>
+						<query category="HipHop" text="direct replies"/>
+						<query category="HipHop" text="otp"/>
+						<query category="HipHop" text="feeling froggy"/>
+						<query category="HipHop" text="beat kill"/>
+						<query category="HipHop" text="rhymes"/>
+						<query category="HipHop" text="damn ve"/>
+						<query category="HipHop" text="nigga"/>
+						<query category="HipHop" text="back tight"/>
+						<query category="HipHop" text="rmhh"/>
+						<query category="HipHop" text="easiest stuff ve"/>
+						<query category="HipHop" text="beep"/>
+						<query category="HipHop" text="bgcolor black"/>
+						<query category="HipHop" text="dilated"/>
+						<query category="HipHop" text="fuck matter"/>
+						<query category="HipHop" text="tellin"/>
+						<query category="HipHop" text="rappers"/>
+						<query category="HipHop" text="xenos"/>
+						<query category="HipHop" text="fatboy"/>
+						<query category="HipHop" text="jay"/>
+						<query category="HipHop" text="wack"/>
+						<query category="HipHop" text="hiphop"/>
+						<query category="HipHop" text="rapper"/>
+						<query category="HipHop" text="mobb"/>
+						<query category="HipHop" text="money sauce"/>
+						<query category="Newage" text="age bill"/>
+						<query category="Newage" text="ambient bill"/>
+						<query category="Newage" text="age ambient"/>
+						<query category="Newage" text="age"/>
+						<query category="Newage" text="cd ja"/>
+						<query category="Newage" text="bill binkelman"/>
+						<query category="Newage" text="cd roach"/>
+						<query category="Newage" text="hearts space"/>
+						<query category="Newage" text="newage"/>
+						<query category="Newage" text="cd instrumental pop"/>
+						<query category="Newage" text="ambient latest"/>
+						<query category="Newage" text="site updates"/>
+						<query category="Newage" text="resource reviews"/>
+						<query category="Newage" text="cd samples sound"/>
+						<query category="Newage" text="arkenstone"/>
+						<query category="Newage" text="bill list"/>
+						<query category="Newage" text="vangelis"/>
+						<query category="Newage" text="michelle"/>
+						<query category="Newage" text="hypnos"/>
+						<query category="Newage" text="cd maunu"/>
+						<query category="Newage" text="electronic"/>
+						<query category="Newage" text="cd drum press"/>
+						<query category="Newage" text="dan identify"/>
+						<query category="Newage" text="amanita stations"/>
+						<query category="Newage" text="composer soundtrack soundtrackmag"/>
+						<query category="Newage" text="cds download free"/>
+						<query category="Newage" text="iso looong"/>
+						<query category="Newage" text="kc"/>
+						<query category="Newage" text="hashii"/>
+						<query category="Newage" text="meditation"/>
+						<query category="Newage" text="environmental"/>
+						<query category="Newage" text="creative web"/>
+						<query category="Newage" text="message server"/>
+						<query category="Newage" text="binary"/>
+						<query category="Rock" text="metal"/>
+						<query category="Rock" text="metallica"/>
+						<query category="Rock" text="maiden"/>
+						<query category="Rock" text="band"/>
+						<query category="Rock" text="desire jun"/>
+						<query category="Rock" text="stones"/>
+						<query category="Rock" text="blood man"/>
+						<query category="Rock" text="hope jun"/>
+						<query category="Rock" text="bnw"/>
+						<query category="Rock" text="aerosmith"/>
+						<query category="Rock" text="axl"/>
+						<query category="Rock" text="britney deja god"/>
+						<query category="Rock" text="bands"/>
+						<query category="Rock" text="god send"/>
+						<query category="Rock" text="god jun"/>
+						<query category="Rock" text="aeon"/>
+						<query category="Rock" text="catman"/>
+						<query category="Rock" text="circle"/>
+						<query category="Rock" text="bizzaro news"/>
+						<query category="Rock" text="circle download"/>
+						<query category="Rock" text="catman"/>
+						<query category="Rock" text="sale trade"/>
+						<query category="Rock" text="hey silly"/>
+						<query category="Rock" text="kiss sale"/>
+						<query category="Rock" text="american christian"/>
+						<query category="Rock" text="ebay jealous"/>
+						<query category="Rock" text="roll sex"/>
+						<query category="Rock" text="medium news"/>
+						<query category="Rock" text="mick"/>
+						<query category="Rock" text="haakon"/>
+						<query category="Rock" text="diskussionsgruppsmeddelandet skrev"/>
+						<query category="Rock" text="megadeth"/>
+					</queries>
+					<nodes>
+						<node name="Classical"/>
+						<node name="HipHop"/>
+						<node name="Newage"/>
+						<node name="Rock"/>
+					</nodes>
+				</node>
+				<node name="Movies"/>
+				<node name="Photography"/>
+				<node name="Literature">
+					<queries>
+						<query category="Poetry" text="poem"/>
+						<query category="Poetry" text="arts poems"/>
+						<query category="Poetry" text="love sherman"/>
+						<query category="Poetry" text="poetry"/>
+						<query category="Poetry" text="love"/>
+						<query category="Poetry" text="joy yourcenar"/>
+						<query category="Poetry" text="eyes"/>
+						<query category="Poetry" text="marek"/>
+						<query category="Texts" text="shakespeare"/>
+						<query category="Texts" text="writing"/>
+						<query category="Texts" text="tom"/>
+						<query category="Texts" text="geno"/>
+						<query category="Texts" text="harris"/>
+						<query category="Texts" text="writers"/>
+						<query category="Texts" text="wendy"/>
+						<query category="Texts" text="story"/>
+					</queries>
+					<nodes>
+						<node name="Poetry"/>
+						<node name="Texts"/>
+					</nodes>
+				</node>
+				<node name="TV"/>
+			</nodes>
+		</node>
+	</nodes>
+</node>

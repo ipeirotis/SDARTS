@@ -1,0 +1,24 @@
+fix-uri: yes
+add-xml-decl: yes
+bare: yes
+output-xml: yes
+clean: yes
+enclose-text: yes
+enclose-block-text: yes
+output-xhtml: yes
+fix-bad-comments: yes
+doctype: omit
+char-encoding: ascii
+alt-text:
+quote-nbsp: yes
+quote-ampersand: yes
+show-body-only: yes
+drop-font-tags: yes
+drop-empty-paras: yes
+make-clean: yes
+make-bare: yes
+indent: yes
+numeric-entities: yes
+new-blocklevel-tags: noindex
+show-warnings: no
+quiet: yes

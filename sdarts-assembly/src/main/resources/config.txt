@@ -1,0 +1,67 @@
+CONFIGURING THE SDARTS SERVER
+-----------------------------
+
+Configuring the sdarts server by editing config/sdarts_config.xml. The syntax
+of this file is as follows:
+
+First there is the standard XML header:
+<?xml version="1.0" encoding="UTF-8"?>
+
+Next comes the DOCTYPE tag, which validating XML parsers use to validate
+the file. It contains the URL for the sdarts_config DTD. This corresponds
+to item 1 in the above checklist. You probably don't need to ever change
+this: the sdarts_config.dtd will probably not move once SDARTS is
+released.
+<!DOCTYPE sdarts-config SYSTEM "http: . . . . sdarts_config.dtd">
+
+Here is the root element
+<sdarts-config>
+
+Next, we must tell SDARTS where the SDLIP DTD is located. Once again,
+this will probably not change and you can leave it alone. This is item 2
+in the checklist.
+       <sdlip-dtd-url>http: . . . . sdlip.dtd</sdlip-dtd-url>
+
+Same with the STARTS DTD, aka item 3 in the checklist:
+       <starts-dtd-url>http: . . . . starts.dtd</starts-dtd-url>
+
+Now, you describe each backend/subcollection. The tag for describing
+these is called "back-end-lsp". You should have one <back-end-lsp> tag, 
+with all nested tags described below, for each subcollection your SDARTS 
+server is fronting.
+       <back-end-lsp>
+
+Here's item 4A, where you put the classname of the back-end wrapper.
+In this sample, we are using the Lucene wrapper. Note how the classname
+must be fully-qualified:
+	<classname>sdarts.backend.doc.impls.TextBackEndLSP</classname>
+
+Item 4B, the name of the collection:
+	<name>. . .</name>
+
+Item 4C, the description:
+	<description> . . . </description>
+
+Item 4D, the supported query languages. This is usually only 
+"starts". You can have multiple <query-language> tags if you
+like. Now, you may recognize the term "query-language" from the SDLIP
+getSubcollectionInfo() header - that is correct. However, DO NOT USE
+A NAMESPACE QUALIFIED VALUE FOR THE QUERY LANGUAGE, as they do in
+the SDLIP doc. This is because of a bug in the way SDLIP HTTP/DASL
+handles namespaces. 
+
+That is, write this:
+
+	<query-language>starts</query-language>
+
+Not this:
+
+	<query-language>starts:squery</query-language>
+
+This ends the <back-end-lsp> tag. Again, you can have more of these if you are
+fronting more than one subcolleciton.
+       </back-end-lsp>
+
+And so ends the configuration file.
+</sdarts-config>
+

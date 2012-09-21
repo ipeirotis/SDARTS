@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Edit the above DOCTYPE tag if the URL for the sdarts_config.dtd -->
+<!-- should ever change.                                             -->
+<!-- The root element is text-config. The first attribute, re-index, is -->
+<!-- very important. If it is set to "true", then every time the SDARTS -->
+<!-- server comes up, it will rebuild the index, meta-attributes, and   -->
+<!-- content-summary files. The server will not overwrite the meta-     -->
+<!-- attributes file if it is already present - in case you have edited -->
+<!-- this yourself. If "re-index" is false, the server will not do this, -->
+<!-- meaning either that you are happy with the index, or you have run -->
+<!-- some offline indexing script (for Lucene-wrapped collections, this -->
+<!-- is the lucenesetup.sh script. -->
+<!-- The second attribute, "is-XML", is probably going away, so leave it -->
+<!-- as false -->
+<!-- FOR AIDES -->
+<doc-config re-index="false" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sdarts.cs.columbia.edu/xsd/doc_config.xsd">
+	<!-- This attribute tells SDARTS where to look for documents -->
+	<!-- It should be a directory. If you have documents in more -->
+	<!-- than one directory, you can have more than one <path> tag. -->
+	<!-- Note that this is path is recursive - all subdirectories -->
+	<!-- will be traversed, as well. -->
+	<path>/home/sdarts/collections/aides</path>
+	<!-- If you want to specify specific extensions for filenames -->
+	<!-- use this tag. -->
+	<!-- Extensions should begin with a . -->
+	<extension>.pos</extension>
+	<!-- This tells SDARTS what to return for "linkage" in the -->
+	<!-- STARTS responses that have the linkage header. Linkage -->
+	<!-- is a way of telling users how to access the collection -->
+	<!-- directly, i.e. via a web server, to retrieve a document -->
+	<!-- user cs web server, require user name / password to access -->
+	<linkage-prefix>http://sdarts.cs.columbia.edu/collections/aides</linkage-prefix>
+	<!-- Linkage type is an optional tag. We do not use it in this -->
+	<!-- file. See the STARTS spec for information about linkage-type -->
+	<!-- linkage-type -->
+	<!-- /linkage-type -->
+	<!-- Language is also optional. We do not use it. This means -->
+	<!-- what human language the collection is in. -->
+	<!-- language -->
+	<!-- /language -->
+	<!-- This is a list of stop-words for the collection -->
+	<!-- It is optional -->
+	<stop-words>
+		<word>the</word>
+		<word>and</word>
+		<word>it</word>
+		<word>a</word>
+	</stop-words>
+	<date-formats>
+		<simple-date-format>EEE, dd MMM yy hh:mm:ss z</simple-date-format>
+		<simple-date-format>EEE, dd MMM yyyy hh:mm:ss</simple-date-format>
+		<simple-date-format>dd MMM yy hh:mm:ss z</simple-date-format>
+		<simple-date-format>dd MMM yy</simple-date-format>
+		<simple-date-format>dd MMM yyyy</simple-date-format>
+	</date-formats>
+</doc-config>

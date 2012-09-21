@@ -1,0 +1,1955 @@
+<node name = "Root">
+<queries>
+<query category = "Arts" text = "actors"/>
+<query category = "Arts" text = "album"/>
+<query category = "Arts" text = "annie"/>
+<query category = "Arts" text = "bnw"/>
+<query category = "Arts" text = "cbs"/>
+<query category = "Arts" text = "composers"/>
+<query category = "Arts" text = "darkroom"/>
+<query category = "Arts" text = "episode"/>
+<query category = "Arts" text = "film"/>
+<query category = "Arts" text = "films"/>
+<query category = "Arts" text = "kodak"/>
+<query category = "Arts" text = "lens"/>
+<query category = "Arts" text = "metallica"/>
+<query category = "Arts" text = "music"/>
+<query category = "Arts" text = "photography"/>
+<query category = "Arts" text = "poem"/>
+<query category = "Arts" text = "poems"/>
+<query category = "Arts" text = "poetry"/>
+<query category = "Arts" text = "productions"/>
+<query category = "Arts" text = "shakespeare"/>
+<query category = "Arts" text = "song"/>
+<query category = "Arts" text = "spoilers"/>
+<query category = "Arts" text = "symphony"/>
+<query category = "Arts" text = "tropea"/>
+<query category = "Arts" text = "aarpa bcp"/>
+<query category = "Arts" text = "artist artists"/>
+<query category = "Arts" text = "camera cameras"/>
+<query category = "Arts" text = "camera flash"/>
+<query category = "Arts" text = "cds metal"/>
+<query category = "Arts" text = "hip hop"/>
+<query category = "Computers" text = "cnet"/>
+<query category = "Computers" text = "cpu"/>
+<query category = "Computers" text = "gaming"/>
+<query category = "Computers" text = "java"/>
+<query category = "Computers" text = "module"/>
+<query category = "Computers" text = "multimedia"/>
+<query category = "Computers" text = "perl"/>
+<query category = "Computers" text = "vb"/>
+<query category = "Computers" text = "activex file"/>
+<query category = "Computers" text = "agp asus"/>
+<query category = "Computers" text = "agp card"/>
+<query category = "Computers" text = "announce file"/>
+<query category = "Computers" text = "app application"/>
+<query category = "Computers" text = "applet code"/>
+<query category = "Computers" text = "application bytes"/>
+<query category = "Computers" text = "application code"/>
+<query category = "Computers" text = "application file"/>
+<query category = "Computers" text = "application windows"/>
+<query category = "Computers" text = "array arrays"/>
+<query category = "Computers" text = "array bytes"/>
+<query category = "Computers" text = "array char"/>
+<query category = "Computers" text = "array code"/>
+<query category = "Computers" text = "audio file"/>
+<query category = "Computers" text = "avi file"/>
+<query category = "Computers" text = "bios card"/>
+<query category = "Computers" text = "bios drives"/>
+<query category = "Computers" text = "buffer code"/>
+<query category = "Computers" text = "button code"/>
+<query category = "Computers" text = "button file"/>
+<query category = "Computers" text = "bytes card"/>
+<query category = "Computers" text = "bytes code"/>
+<query category = "Computers" text = "bytes command"/>
+<query category = "Computers" text = "bytes drives"/>
+<query category = "Computers" text = "bytes file"/>
+<query category = "Computers" text = "bytes graphics"/>
+<query category = "Computers" text = "bytes pc"/>
+<query category = "Computers" text = "bytes shareware"/>
+<query category = "Computers" text = "bytes windows"/>
+<query category = "Computers" text = "canterbury file"/>
+<query category = "Computers" text = "card drivers"/>
+<query category = "Computers" text = "card graphics"/>
+<query category = "Computers" text = "card pc"/>
+<query category = "Computers" text = "char code"/>
+<query category = "Computers" text = "char int"/>
+<query category = "Computers" text = "code command"/>
+<query category = "Computers" text = "code compile"/>
+<query category = "Computers" text = "code compiler"/>
+<query category = "Computers" text = "code connect"/>
+<query category = "Computers" text = "code convert"/>
+<query category = "Computers" text = "code database"/>
+<query category = "Computers" text = "code dim"/>
+<query category = "Computers" text = "code error"/>
+<query category = "Computers" text = "code file"/>
+<query category = "Computers" text = "code int"/>
+<query category = "Computers" text = "command file"/>
+<query category = "Computers" text = "compiler compilers"/>
+<query category = "Computers" text = "database file"/>
+<query category = "Computers" text = "database jdbc"/>
+<query category = "Computers" text = "disk file"/>
+<query category = "Computers" text = "download quicktime"/>
+<query category = "Computers" text = "error file"/>
+<query category = "Computers" text = "eskimo scs"/>
+<query category = "Computers" text = "file windows"/>
+<query category = "Computers" text = "pc windows"/>
+<query category = "Computers" text = "bytes freeware pub"/>
+<query category = "Health" text = "acupuncture"/>
+<query category = "Health" text = "aerobic"/>
+<query category = "Health" text = "aerobics"/>
+<query category = "Health" text = "aids"/>
+<query category = "Health" text = "cancer"/>
+<query category = "Health" text = "cardiology"/>
+<query category = "Health" text = "cholesterol"/>
+<query category = "Health" text = "dairy"/>
+<query category = "Health" text = "dental"/>
+<query category = "Health" text = "dentistry"/>
+<query category = "Health" text = "diabetes"/>
+<query category = "Health" text = "diet"/>
+<query category = "Health" text = "fitness"/>
+<query category = "Health" text = "hiv"/>
+<query category = "Health" text = "hulda"/>
+<query category = "Health" text = "insulin"/>
+<query category = "Health" text = "kingoff"/>
+<query category = "Health" text = "krin"/>
+<query category = "Health" text = "krista"/>
+<query category = "Health" text = "loretta"/>
+<query category = "Health" text = "lyle"/>
+<query category = "Health" text = "mfw"/>
+<query category = "Health" text = "midkiff"/>
+<query category = "Health" text = "munro"/>
+<query category = "Health" text = "nurse"/>
+<query category = "Health" text = "nurses"/>
+<query category = "Health" text = "nursing"/>
+<query category = "Health" text = "reids"/>
+<query category = "Health" text = "ritalin"/>
+<query category = "Health" text = "schuh"/>
+<query category = "Health" text = "skate"/>
+<query category = "Health" text = "squats"/>
+<query category = "Health" text = "treadmill"/>
+<query category = "Health" text = "walkers"/>
+<query category = "Health" text = "amalgam amalgams"/>
+<query category = "Health" text = "amalgam eichen"/>
+<query category = "Health" text = "blood diabetic"/>
+<query category = "Health" text = "blood diagnosed"/>
+<query category = "Health" text = "blood exercise"/>
+<query category = "Health" text = "blood glucose"/>
+<query category = "Health" text = "blood health"/>
+<query category = "Health" text = "blood hypertension"/>
+<query category = "Health" text = "calories fat"/>
+<query category = "Health" text = "canal dentist"/>
+<query category = "Health" text = "carb carbs"/>
+<query category = "Health" text = "crouch jude"/>
+<query category = "Health" text = "crown dentist"/>
+<query category = "Health" text = "dentist dentists"/>
+<query category = "Health" text = "dentist teeth"/>
+<query category = "Health" text = "doctor health"/>
+<query category = "Health" text = "doctor medical"/>
+<query category = "Health" text = "doctor patient"/>
+<query category = "Health" text = "eating fat"/>
+<query category = "Health" text = "eichen joel"/>
+<query category = "Health" text = "exercise exercises"/>
+<query category = "Health" text = "exercise fat"/>
+<query category = "Health" text = "fat muscle"/>
+<query category = "Health" text = "gohde health"/>
+<query category = "Health" text = "grady quentin"/>
+<query category = "Health" text = "health medicine"/>
+<query category = "Health" text = "health nutritional"/>
+<query category = "Health" text = "hospital medical"/>
+<query category = "Health" text = "hospital patients"/>
+<query category = "Health" text = "medical patient"/>
+<query category = "Health" text = "medical treatment"/>
+<query category = "Health" text = "patient patients"/>
+<query category = "Health" text = "patients treatment"/>
+<query category = "Science" text = "anon"/>
+<query category = "Science" text = "butterflies"/>
+<query category = "Science" text = "butterfly"/>
+<query category = "Science" text = "cagle"/>
+<query category = "Science" text = "dinosaurs"/>
+<query category = "Science" text = "dlj"/>
+<query category = "Science" text = "economics"/>
+<query category = "Science" text = "fossil"/>
+<query category = "Science" text = "geological"/>
+<query category = "Science" text = "geologist"/>
+<query category = "Science" text = "geology"/>
+<query category = "Science" text = "harold"/>
+<query category = "Science" text = "holocaust"/>
+<query category = "Science" text = "insect"/>
+<query category = "Science" text = "insects"/>
+<query category = "Science" text = "krugman"/>
+<query category = "Science" text = "linguistics"/>
+<query category = "Science" text = "linguistlist"/>
+<query category = "Science" text = "microbiology"/>
+<query category = "Science" text = "morin"/>
+<query category = "Science" text = "moths"/>
+<query category = "Science" text = "noronen"/>
+<query category = "Science" text = "petroleum"/>
+<query category = "Science" text = "plants"/>
+<query category = "Science" text = "pronouncing"/>
+<query category = "Science" text = "psychotherapy"/>
+<query category = "Science" text = "rcjohnsen"/>
+<query category = "Science" text = "rodrian"/>
+<query category = "Science" text = "seismic"/>
+<query category = "Science" text = "species"/>
+<query category = "Science" text = "whitehead"/>
+<query category = "Science" text = "agriculture archimedes"/>
+<query category = "Science" text = "agriculture corn"/>
+<query category = "Science" text = "analysis biology"/>
+<query category = "Science" text = "analysis calculate"/>
+<query category = "Science" text = "analysis coefficient"/>
+<query category = "Science" text = "analysis definition"/>
+<query category = "Science" text = "analysis distribution"/>
+<query category = "Science" text = "analysis estimate"/>
+<query category = "Science" text = "analysis gas"/>
+<query category = "Science" text = "analysis logic"/>
+<query category = "Science" text = "analysis regression"/>
+<query category = "Science" text = "analyticity definition"/>
+<query category = "Science" text = "approximation distribution"/>
+<query category = "Science" text = "aristotle definition"/>
+<query category = "Science" text = "aristotle frege"/>
+<query category = "Science" text = "aristotle logic"/>
+<query category = "Science" text = "artificial evolution"/>
+<query category = "Science" text = "assumption distribution"/>
+<query category = "Science" text = "australia evolution"/>
+<query category = "Science" text = "axiom contradiction"/>
+<query category = "Science" text = "axiom definition"/>
+<query category = "Science" text = "axiom singular"/>
+<query category = "Science" text = "axioms definition"/>
+<query category = "Science" text = "bacteria bacterial"/>
+<query category = "Science" text = "bacteria biological"/>
+<query category = "Science" text = "bacteria dna"/>
+<query category = "Science" text = "believing definition"/>
+<query category = "Science" text = "bible definition"/>
+<query category = "Science" text = "biology ecology"/>
+<query category = "Science" text = "blumenstock hyman"/>
+<query category = "Science" text = "calculate distribution"/>
+<query category = "Science" text = "concepts frege"/>
+<query category = "Science" text = "concepts logic"/>
+<query category = "Science" text = "definition exist"/>
+<query category = "Science" text = "developments nuclear"/>
+<query category = "Science" text = "discrete distribution"/>
+<query category = "Science" text = "discretion phd"/>
+<query category = "Science" text = "distribution distributions"/>
+<query category = "Science" text = "distribution probability"/>
+<query category = "Science" text = "economic economists"/>
+<query category = "Science" text = "estimate estimates"/>
+<query category = "Science" text = "exist logic"/>
+<query category = "Science" text = "existence frege"/>
+<query category = "Science" text = "existence logic"/>
+<query category = "Science" text = "gardiner historical"/>
+<query category = "Science" text = "jewish jews"/>
+<query category = "Science" text = "candst gardiner separation"/>
+<query category = "Sports" text = "backcountry"/>
+<query category = "Sports" text = "basketball"/>
+<query category = "Sports" text = "bike"/>
+<query category = "Sports" text = "boat"/>
+<query category = "Sports" text = "boats"/>
+<query category = "Sports" text = "canoe"/>
+<query category = "Sports" text = "climber"/>
+<query category = "Sports" text = "climbing"/>
+<query category = "Sports" text = "croatia"/>
+<query category = "Sports" text = "darth"/>
+<query category = "Sports" text = "dojo"/>
+<query category = "Sports" text = "gps"/>
+<query category = "Sports" text = "helmet"/>
+<query category = "Sports" text = "hiking"/>
+<query category = "Sports" text = "karate"/>
+<query category = "Sports" text = "katysails"/>
+<query category = "Sports" text = "kayak"/>
+<query category = "Sports" text = "knight"/>
+<query category = "Sports" text = "laker"/>
+<query category = "Sports" text = "leeds"/>
+<query category = "Sports" text = "martial"/>
+<query category = "Sports" text = "ncaa"/>
+<query category = "Sports" text = "neal"/>
+<query category = "Sports" text = "pacers"/>
+<query category = "Sports" text = "paddle"/>
+<query category = "Sports" text = "paddling"/>
+<query category = "Sports" text = "sail"/>
+<query category = "Sports" text = "sailing"/>
+<query category = "Sports" text = "shimano"/>
+<query category = "Sports" text = "soccer"/>
+<query category = "Sports" text = "teams"/>
+<query category = "Sports" text = "tires"/>
+<query category = "Sports" text = "uconn"/>
+<query category = "Sports" text = "volleyball"/>
+<query category = "Sports" text = "wheels"/>
+<query category = "Sports" text = "wnba"/>
+<query category = "Sports" text = "anaheim league"/>
+<query category = "Sports" text = "anaheim team"/>
+<query category = "Sports" text = "arizona league"/>
+<query category = "Sports" text = "assists clarinews"/>
+<query category = "Sports" text = "atlanta clarinews"/>
+<query category = "Sports" text = "attendance cello"/>
+<query category = "Sports" text = "avg league"/>
+<query category = "Sports" text = "avg nba"/>
+<query category = "Sports" text = "ball clarinews"/>
+<query category = "Sports" text = "ball league"/>
+<query category = "Sports" text = "ball referee"/>
+<query category = "Sports" text = "ball setter"/>
+<query category = "Sports" text = "ball team"/>
+<query category = "Sports" text = "balls colosseum"/>
+<query category = "Sports" text = "beach league"/>
+<query category = "Sports" text = "belted clarinews"/>
+<query category = "Sports" text = "blazers game"/>
+<query category = "Sports" text = "bobby clarinews"/>
+<query category = "Sports" text = "boulder chisholm"/>
+<query category = "Sports" text = "cello clarinews"/>
+<query category = "Sports" text = "championship team"/>
+<query category = "Sports" text = "chi tai"/>
+<query category = "Sports" text = "climb gear"/>
+<query category = "Sports" text = "club fans"/>
+<query category = "Sports" text = "club league"/>
+<query category = "Sports" text = "fans football"/>
+<query category = "Sports" text = "game league"/>
+<query category = "Sports" text = "geno irv"/>
+<query category = "Sports" text = "geno taurasi"/>
+<query category = "Sports" text = "sport sports"/>
+</queries>
+<nodes>
+<node name = "Arts">
+<queries>
+<query category = "Literature" text = "poem"/>
+<query category = "Literature" text = "poetry"/>
+<query category = "Literature" text = "shakespeare"/>
+<query category = "Literature" text = "aarpa poems"/>
+<query category = "Literature" text = "aarpa sherman"/>
+<query category = "Literature" text = "adolescent neo"/>
+<query category = "Literature" text = "alby reid"/>
+<query category = "Literature" text = "bouchard jacques"/>
+<query category = "Literature" text = "carlie daylight"/>
+<query category = "Literature" text = "carol schmidt"/>
+<query category = "Literature" text = "chatley wendy"/>
+<query category = "Literature" text = "comfort sonnet"/>
+<query category = "Literature" text = "cry eyes"/>
+<query category = "Literature" text = "dare poems"/>
+<query category = "Literature" text = "draft jeanne"/>
+<query category = "Literature" text = "eloquently writing"/>
+<query category = "Literature" text = "enteract marek"/>
+<query category = "Literature" text = "eye greg"/>
+<query category = "Literature" text = "eyes lips"/>
+<query category = "Literature" text = "food writing"/>
+<query category = "Literature" text = "garden nesci"/>
+<query category = "Literature" text = "greg jungheim"/>
+<query category = "Literature" text = "hospital marek"/>
+<query category = "Literature" text = "poetic solitude"/>
+<query category = "Literature" text = "writers writing"/>
+<query category = "Literature" text = "enteract senryu sid"/>
+<query category = "Literature" text = "fund hitchcock jayne"/>
+<query category = "Literature" text = "joy myths ns yourcenar"/>
+<query category = "Movies" text = "actors budget"/>
+<query category = "Movies" text = "actors films"/>
+<query category = "Movies" text = "actors movie"/>
+<query category = "Movies" text = "battlefield geoff"/>
+<query category = "Movies" text = "battlefield movie"/>
+<query category = "Movies" text = "budget films"/>
+<query category = "Movies" text = "cruise movie"/>
+<query category = "Movies" text = "doomed machinima"/>
+<query category = "Movies" text = "films movie"/>
+<query category = "Movies" text = "films movies"/>
+<query category = "Movies" text = "geoff movie"/>
+<query category = "Movies" text = "gladiator movie"/>
+<query category = "Movies" text = "goto runaway"/>
+<query category = "Movies" text = "movie movies"/>
+<query category = "Movies" text = "movie ripley"/>
+<query category = "Movies" text = "norton shawn"/>
+<query category = "Music" text = "aeon"/>
+<query category = "Music" text = "aerosmith"/>
+<query category = "Music" text = "album"/>
+<query category = "Music" text = "allah"/>
+<query category = "Music" text = "ass"/>
+<query category = "Music" text = "axl"/>
+<query category = "Music" text = "bach"/>
+<query category = "Music" text = "band"/>
+<query category = "Music" text = "beethoven"/>
+<query category = "Music" text = "billboard"/>
+<query category = "Music" text = "bnw"/>
+<query category = "Music" text = "catman"/>
+<query category = "Music" text = "cd"/>
+<query category = "Music" text = "cds"/>
+<query category = "Music" text = "classical"/>
+<query category = "Music" text = "composer"/>
+<query category = "Music" text = "composers"/>
+<query category = "Music" text = "concert"/>
+<query category = "Music" text = "daniels"/>
+<query category = "Music" text = "dilated"/>
+<query category = "Music" text = "dope"/>
+<query category = "Music" text = "dre"/>
+<query category = "Music" text = "eminem"/>
+<query category = "Music" text = "fatboy"/>
+<query category = "Music" text = "hip"/>
+<query category = "Music" text = "holocaust"/>
+<query category = "Music" text = "hop"/>
+<query category = "Music" text = "instrument"/>
+<query category = "Music" text = "instrumental"/>
+<query category = "Music" text = "jagger"/>
+<query category = "Music" text = "jews"/>
+<query category = "Music" text = "keef"/>
+<query category = "Music" text = "kip"/>
+<query category = "Music" text = "lakers"/>
+<query category = "Music" text = "listener"/>
+<query category = "Music" text = "lp"/>
+<query category = "Music" text = "maiden"/>
+<query category = "Music" text = "megadeth"/>
+<query category = "Music" text = "metal"/>
+<query category = "Music" text = "metallica"/>
+<query category = "Music" text = "mick"/>
+<query category = "Music" text = "mozart"/>
+<query category = "Music" text = "music"/>
+<query category = "Music" text = "napster"/>
+<query category = "Music" text = "nba"/>
+<query category = "Music" text = "otp"/>
+<query category = "Music" text = "peace"/>
+<query category = "Music" text = "piano"/>
+<query category = "Music" text = "raddion"/>
+<query category = "Music" text = "recordings"/>
+<query category = "Music" text = "remailer"/>
+<query category = "Music" text = "requiem"/>
+<query category = "Music" text = "rmhh"/>
+<query category = "Music" text = "sv"/>
+<query category = "Music" text = "symphony"/>
+<query category = "Music" text = "vangelis"/>
+<query category = "Music" text = "vinyl"/>
+<query category = "Music" text = "wack"/>
+<query category = "Music" text = "argerich martha"/>
+<query category = "Photography" text = "lens"/>
+<query category = "Photography" text = "photo"/>
+<query category = "Photography" text = "photography"/>
+<query category = "Photography" text = "agfa kodak"/>
+<query category = "Photography" text = "camera images"/>
+<query category = "Photography" text = "color kodak"/>
+<query category = "Photography" text = "fuji lab"/>
+<query category = "Photography" text = "lab prints"/>
+<query category = "TV" text = "abc buffy"/>
+<query category = "TV" text = "abc cbs"/>
+<query category = "TV" text = "abc episode"/>
+<query category = "TV" text = "abc millionaire"/>
+<query category = "TV" text = "airing episode"/>
+<query category = "TV" text = "amy dan"/>
+<query category = "TV" text = "annie cbs"/>
+<query category = "TV" text = "annie dan"/>
+<query category = "TV" text = "annie keitz"/>
+<query category = "TV" text = "buffy dan"/>
+<query category = "TV" text = "buffy episode"/>
+<query category = "TV" text = "cbs dan"/>
+<query category = "TV" text = "cbs episode"/>
+<query category = "TV" text = "cbs episodes"/>
+<query category = "TV" text = "cbs ian"/>
+<query category = "TV" text = "channel episode"/>
+<query category = "TV" text = "channel fox"/>
+<query category = "TV" text = "dan elian"/>
+<query category = "TV" text = "dan episode"/>
+<query category = "TV" text = "dan episodes"/>
+<query category = "TV" text = "dan tropea"/>
+<query category = "TV" text = "elian fox"/>
+<query category = "TV" text = "elian tv"/>
+<query category = "TV" text = "episode episodes"/>
+<query category = "TV" text = "episode nbc"/>
+<query category = "TV" text = "fox tv"/>
+<query category = "TV" text = "golden season"/>
+<query category = "TV" text = "millionaire tv"/>
+<query category = "TV" text = "nbc tv"/>
+<query category = "TV" text = "scally tv"/>
+<query category = "TV" text = "season tv"/>
+<query category = "TV" text = "shows tv"/>
+<query category = "TV" text = "drones goodbye mindnumbingly penises rectum"/>
+</queries>
+<nodes>
+<node name = "Literature">
+<queries>
+<query category = "Poetry" text = "angel"/>
+<query category = "Poetry" text = "antti"/>
+<query category = "Poetry" text = "arlon"/>
+<query category = "Poetry" text = "beauty"/>
+<query category = "Poetry" text = "bettina"/>
+<query category = "Poetry" text = "birds"/>
+<query category = "Poetry" text = "bitch"/>
+<query category = "Poetry" text = "blood"/>
+<query category = "Poetry" text = "boys"/>
+<query category = "Poetry" text = "brain"/>
+<query category = "Poetry" text = "brass"/>
+<query category = "Poetry" text = "breath"/>
+<query category = "Poetry" text = "broken"/>
+<query category = "Poetry" text = "canada"/>
+<query category = "Poetry" text = "cheese"/>
+<query category = "Poetry" text = "chicago"/>
+<query category = "Poetry" text = "comments"/>
+<query category = "Poetry" text = "crack"/>
+<query category = "Poetry" text = "crosswinds"/>
+<query category = "Poetry" text = "cry"/>
+<query category = "Poetry" text = "crying"/>
+<query category = "Poetry" text = "cuz"/>
+<query category = "Poetry" text = "dance"/>
+<query category = "Poetry" text = "dark"/>
+<query category = "Poetry" text = "davevh"/>
+<query category = "Poetry" text = "demon"/>
+<query category = "Poetry" text = "draft"/>
+<query category = "Poetry" text = "easiest"/>
+<query category = "Poetry" text = "empty"/>
+<query category = "Poetry" text = "enteract"/>
+<query category = "Poetry" text = "evans"/>
+<query category = "Poetry" text = "eyes"/>
+<query category = "Poetry" text = "heart"/>
+<query category = "Poetry" text = "icq"/>
+<query category = "Poetry" text = "jeanne"/>
+<query category = "Poetry" text = "joy"/>
+<query category = "Poetry" text = "poem"/>
+<query category = "Poetry" text = "poetry"/>
+<query category = "Texts" text = "accept"/>
+<query category = "Texts" text = "acd"/>
+<query category = "Texts" text = "acting"/>
+<query category = "Texts" text = "actor"/>
+<query category = "Texts" text = "agent"/>
+<query category = "Texts" text = "alex"/>
+<query category = "Texts" text = "alma"/>
+<query category = "Texts" text = "ann"/>
+<query category = "Texts" text = "answer"/>
+<query category = "Texts" text = "apparently"/>
+<query category = "Texts" text = "appears"/>
+<query category = "Texts" text = "apply"/>
+<query category = "Texts" text = "apr"/>
+<query category = "Texts" text = "argument"/>
+<query category = "Texts" text = "asked"/>
+<query category = "Texts" text = "author"/>
+<query category = "Texts" text = "authorship"/>
+<query category = "Texts" text = "bair"/>
+<query category = "Texts" text = "baker"/>
+<query category = "Texts" text = "book"/>
+<query category = "Texts" text = "bouchard"/>
+<query category = "Texts" text = "carlie"/>
+<query category = "Texts" text = "carol"/>
+<query category = "Texts" text = "characters"/>
+<query category = "Texts" text = "chatley"/>
+<query category = "Texts" text = "check"/>
+<query category = "Texts" text = "dave"/>
+<query category = "Texts" text = "faith"/>
+</queries>
+<nodes>
+<node name = "Poetry">
+</node>
+<node name = "Texts">
+</node>
+</nodes>
+</node>
+<node name = "Movies">
+</node>
+<node name = "Music">
+<queries>
+<query category = "Classical" text = "bach classical"/>
+<query category = "Classical" text = "beethoven classical"/>
+<query category = "Classical" text = "beethoven mozart"/>
+<query category = "Classical" text = "beethoven symphony"/>
+<query category = "Classical" text = "books classical"/>
+<query category = "Classical" text = "century classical"/>
+<query category = "Classical" text = "classical composed"/>
+<query category = "Classical" text = "classical composer"/>
+<query category = "Classical" text = "classical composers"/>
+<query category = "Classical" text = "classical matthew"/>
+<query category = "Classical" text = "dma kabala matt mattaj tttb twelvetonetoybox uce umich"/>
+<query category = "HipHop" text = "act hop"/>
+<query category = "HipHop" text = "allah hip"/>
+<query category = "HipHop" text = "ass hop"/>
+<query category = "HipHop" text = "ass peace"/>
+<query category = "HipHop" text = "beat hip"/>
+<query category = "HipHop" text = "beats hip"/>
+<query category = "HipHop" text = "common hip"/>
+<query category = "HipHop" text = "common peace"/>
+<query category = "HipHop" text = "direct hop"/>
+<query category = "HipHop" text = "direct peace"/>
+<query category = "HipHop" text = "dope peace"/>
+<query category = "HipHop" text = "dope shit"/>
+<query category = "HipHop" text = "hip hop"/>
+<query category = "HipHop" text = "allah angeles kuahmel"/>
+<query category = "Newage" text = "age ambient"/>
+<query category = "Newage" text = "age bill"/>
+<query category = "Rock" text = "metal"/>
+<query category = "Rock" text = "metallica"/>
+<query category = "Rock" text = "axl band"/>
+<query category = "Rock" text = "band bands"/>
+<query category = "Rock" text = "bnw maiden"/>
+</queries>
+<nodes>
+<node name = "Classical">
+</node>
+<node name = "HipHop">
+</node>
+<node name = "Newage">
+</node>
+<node name = "Rock">
+</node>
+</nodes>
+</node>
+<node name = "Photography">
+</node>
+<node name = "TV">
+</node>
+</nodes>
+</node>
+<node name = "Computers">
+<queries>
+<query category = "Hardware" text = "abit celeron"/>
+<query category = "Hardware" text = "abit motherboard"/>
+<query category = "Hardware" text = "bios celeron"/>
+<query category = "Hardware" text = "bios motherboard"/>
+<query category = "Hardware" text = "board celeron"/>
+<query category = "Hardware" text = "board fsb"/>
+<query category = "Hardware" text = "board motherboard"/>
+<query category = "Hardware" text = "board overclocking"/>
+<query category = "Hardware" text = "board processors"/>
+<query category = "Hardware" text = "celeron fan"/>
+<query category = "Hardware" text = "celeron fsb"/>
+<query category = "Hardware" text = "celeron mobo"/>
+<query category = "Hardware" text = "celeron motherboard"/>
+<query category = "Hardware" text = "drive motherboard"/>
+<query category = "Hardware" text = "fsb overclocking"/>
+<query category = "Hardware" text = "motherboard ram"/>
+<query category = "Hardware" text = "motherboard slot"/>
+<query category = "Hardware" text = "abit athlon bios"/>
+<query category = "Hardware" text = "bios board boot"/>
+<query category = "Hardware" text = "bios controller ide"/>
+<query category = "Hardware" text = "boot drive floppy"/>
+<query category = "Hardware" text = "cables drive floppy"/>
+<query category = "Programming" text = "aardvark"/>
+<query category = "Programming" text = "abc"/>
+<query category = "Programming" text = "abstract"/>
+<query category = "Programming" text = "access"/>
+<query category = "Programming" text = "accessing"/>
+<query category = "Programming" text = "actionlistener"/>
+<query category = "Programming" text = "actionperformed"/>
+<query category = "Programming" text = "activeperl"/>
+<query category = "Programming" text = "activestate"/>
+<query category = "Programming" text = "ada"/>
+<query category = "Programming" text = "adams"/>
+<query category = "Programming" text = "adding"/>
+<query category = "Programming" text = "addnew"/>
+<query category = "Programming" text = "ado"/>
+<query category = "Programming" text = "adr"/>
+<query category = "Programming" text = "adress"/>
+<query category = "Programming" text = "advance"/>
+<query category = "Programming" text = "advantages"/>
+<query category = "Programming" text = "afu"/>
+<query category = "Programming" text = "agreed"/>
+<query category = "Programming" text = "akmal"/>
+<query category = "Programming" text = "albert"/>
+<query category = "Programming" text = "algorithms"/>
+<query category = "Programming" text = "alias"/>
+<query category = "Programming" text = "aliasing"/>
+<query category = "Programming" text = "allen"/>
+<query category = "Programming" text = "alloc"/>
+<query category = "Programming" text = "allocated"/>
+<query category = "Programming" text = "allocating"/>
+<query category = "Programming" text = "allocation"/>
+<query category = "Programming" text = "alright"/>
+<query category = "Programming" text = "altogether"/>
+<query category = "Programming" text = "amazon"/>
+<query category = "Programming" text = "andkaha"/>
+<query category = "Programming" text = "andreas"/>
+<query category = "Programming" text = "ansi"/>
+<query category = "Programming" text = "answers"/>
+<query category = "Programming" text = "apache"/>
+<query category = "Programming" text = "api"/>
+<query category = "Programming" text = "apologies"/>
+<query category = "Programming" text = "app"/>
+<query category = "Programming" text = "append"/>
+<query category = "Programming" text = "applet"/>
+<query category = "Programming" text = "applets"/>
+<query category = "Programming" text = "application"/>
+<query category = "Programming" text = "arachnoid"/>
+<query category = "Programming" text = "arbitrary"/>
+<query category = "Programming" text = "architect"/>
+<query category = "Programming" text = "architecture"/>
+<query category = "Programming" text = "arg"/>
+<query category = "Programming" text = "argc"/>
+<query category = "Programming" text = "args"/>
+<query category = "Programming" text = "argument"/>
+<query category = "Programming" text = "arguments"/>
+<query category = "Programming" text = "array"/>
+<query category = "Programming" text = "arrays"/>
+<query category = "Programming" text = "arrow"/>
+<query category = "Programming" text = "article"/>
+<query category = "Programming" text = "ascii"/>
+<query category = "Programming" text = "assigning"/>
+<query category = "Programming" text = "assignment"/>
+<query category = "Programming" text = "assuming"/>
+<query category = "Programming" text = "avis"/>
+<query category = "Programming" text = "avoiding"/>
+<query category = "Programming" text = "awt"/>
+<query category = "Programming" text = "bar"/>
+<query category = "Programming" text = "bart"/>
+<query category = "Programming" text = "base"/>
+<query category = "Programming" text = "basic"/>
+<query category = "Programming" text = "bean"/>
+<query category = "Programming" text = "beans"/>
+<query category = "Programming" text = "becker"/>
+<query category = "Programming" text = "beginner"/>
+<query category = "Programming" text = "beginners"/>
+<query category = "Programming" text = "behavior"/>
+<query category = "Programming" text = "behaviour"/>
+<query category = "Programming" text = "ben"/>
+<query category = "Programming" text = "berkeley"/>
+<query category = "Programming" text = "bin"/>
+<query category = "Programming" text = "binary"/>
+<query category = "Programming" text = "bind"/>
+<query category = "Programming" text = "block"/>
+<query category = "Programming" text = "body"/>
+<query category = "Programming" text = "book"/>
+<query category = "Programming" text = "books"/>
+<query category = "Programming" text = "boolean"/>
+<query category = "Programming" text = "borland"/>
+<query category = "Programming" text = "bruce"/>
+<query category = "Programming" text = "buchegger"/>
+<query category = "Programming" text = "burrell"/>
+<query category = "Programming" text = "byte"/>
+<query category = "Programming" text = "cafe"/>
+<query category = "Programming" text = "call"/>
+<query category = "Programming" text = "calls"/>
+<query category = "Programming" text = "caption"/>
+<query category = "Programming" text = "carriage"/>
+<query category = "Programming" text = "char"/>
+<query category = "Programming" text = "character"/>
+<query category = "Programming" text = "characters"/>
+<query category = "Programming" text = "cl"/>
+<query category = "Programming" text = "class"/>
+<query category = "Programming" text = "classes"/>
+<query category = "Programming" text = "code"/>
+<query category = "Programming" text = "columns"/>
+<query category = "Programming" text = "comedy"/>
+<query category = "Programming" text = "command"/>
+<query category = "Programming" text = "communications"/>
+<query category = "Programming" text = "compile"/>
+<query category = "Programming" text = "compiler"/>
+<query category = "Programming" text = "component"/>
+<query category = "Programming" text = "container"/>
+<query category = "Programming" text = "controls"/>
+<query category = "Programming" text = "cpan"/>
+<query category = "Programming" text = "database"/>
+<query category = "Programming" text = "db"/>
+<query category = "Programming" text = "defined"/>
+<query category = "Programming" text = "developers"/>
+<query category = "Programming" text = "dim"/>
+<query category = "Programming" text = "input"/>
+<query category = "Programming" text = "java"/>
+<query category = "Programming" text = "module"/>
+<query category = "Programming" text = "perl"/>
+<query category = "Software" text = "audio"/>
+<query category = "Software" text = "cnet"/>
+<query category = "Software" text = "derek"/>
+<query category = "Software" text = "flight"/>
+<query category = "Software" text = "game"/>
+<query category = "Software" text = "games"/>
+<query category = "Software" text = "louis"/>
+<query category = "Software" text = "mac"/>
+<query category = "Software" text = "multimedia"/>
+<query category = "Software" text = "video"/>
+<query category = "Software" text = "ac canterbury"/>
+<query category = "Software" text = "addition simtelnet"/>
+<query category = "Software" text = "advanced cd"/>
+<query category = "Software" text = "advanced requirements"/>
+<query category = "Software" text = "adx cd"/>
+<query category = "Software" text = "allowing simtelnet"/>
+<query category = "Software" text = "ann download"/>
+<query category = "Software" text = "announce cd"/>
+<query category = "Software" text = "announce download"/>
+<query category = "Software" text = "announce shareware"/>
+<query category = "Software" text = "announce simtelnet"/>
+<query category = "Software" text = "aol shareware"/>
+<query category = "Software" text = "asp powerful"/>
+<query category = "Software" text = "assist simtelnet"/>
+<query category = "Software" text = "author bytes"/>
+<query category = "Software" text = "author download"/>
+<query category = "Software" text = "author pub"/>
+<query category = "Software" text = "authors bytes"/>
+<query category = "Software" text = "avi codec"/>
+<query category = "Software" text = "btsoftware download"/>
+<query category = "Software" text = "bytes demo"/>
+<query category = "Software" text = "bytes full"/>
+<query category = "Software" text = "bytes pub"/>
+<query category = "Software" text = "cd cds"/>
+<query category = "Software" text = "click download"/>
+<query category = "Software" text = "demo dvd"/>
+<query category = "Software" text = "download film"/>
+<query category = "Software" text = "free shareware"/>
+<query category = "Software" text = "announce asp css"/>
+</queries>
+<nodes>
+<node name = "Hardware">
+</node>
+<node name = "Programming">
+<queries>
+<query category = "C" text = "ansi compiler"/>
+<query category = "C" text = "char compiler"/>
+<query category = "C" text = "char printf"/>
+<query category = "C" text = "char standard"/>
+<query category = "C" text = "compiler compilers"/>
+<query category = "C" text = "compiler faq"/>
+<query category = "C" text = "compiler functions"/>
+<query category = "C" text = "compiler int"/>
+<query category = "C" text = "compiler standard"/>
+<query category = "C" text = "functions standard"/>
+<query category = "C" text = "int standard"/>
+<query category = "C" text = "eskimo faq heathfield richard"/>
+<query category = "Java" text = "java"/>
+<query category = "Java" text = "driver jdbc"/>
+<query category = "Perl" text = "perl"/>
+<query category = "Perl" text = "cgi script"/>
+<query category = "Perl" text = "cpan module"/>
+<query category = "VBasic" text = "vb"/>
+<query category = "VBasic" text = "activex control"/>
+<query category = "VBasic" text = "box control"/>
+<query category = "VBasic" text = "form property"/>
+</queries>
+<nodes>
+<node name = "C">
+</node>
+<node name = "Java">
+</node>
+<node name = "Perl">
+</node>
+<node name = "VBasic">
+</node>
+</nodes>
+</node>
+<node name = "Software">
+<queries>
+<query category = "Games" text = "action"/>
+<query category = "Games" text = "adventure"/>
+<query category = "Games" text = "ago"/>
+<query category = "Games" text = "apr"/>
+<query category = "Multimedia" text = "cnet"/>
+<query category = "Multimedia" text = "deja"/>
+<query category = "Multimedia" text = "mac"/>
+<query category = "Multimedia" text = "multimedia"/>
+<query category = "Multimedia" text = "ac canterbury"/>
+<query category = "Shareware" text = "announce pub simtel simtelnet"/>
+<query category = "Shareware" text = "bytes pub shareware simtel"/>
+<query category = "Shareware" text = "announce asp css euro share"/>
+<query category = "Shareware" text = "bytes easy freeware simtel simtelnet"/>
+<query category = "Shareware" text = "bytes features freeware simtel simtelnet"/>
+<query category = "Shareware" text = "bytes freeware pub requirements simtel"/>
+<query category = "Shareware" text = "bytes pub requirements simtel simtelnet"/>
+</queries>
+<nodes>
+<node name = "Games">
+</node>
+<node name = "Multimedia">
+</node>
+<node name = "Shareware">
+</node>
+</nodes>
+</node>
+</nodes>
+</node>
+<node name = "Health">
+<queries>
+<query category = "Alternative" text = "andrew hulda"/>
+<query category = "Alternative" text = "acupuncture andrew bain"/>
+<query category = "Alternative" text = "acupuncture andrew bl"/>
+<query category = "Alternative" text = "acupuncture andrew kingoff"/>
+<query category = "Alternative" text = "adhd andrew connie"/>
+<query category = "Alternative" text = "andrew bain kingoff"/>
+<query category = "Alternative" text = "andrew bainsi kingoff"/>
+<query category = "Alternative" text = "andrew eastern jan"/>
+<query category = "Alternative" text = "andrew jan kingoff"/>
+<query category = "Alternative" text = "clark hulda jan"/>
+<query category = "Alternative" text = "acupuncture bl bubba naet"/>
+<query category = "Diseases" text = "aids"/>
+<query category = "Diseases" text = "cancer"/>
+<query category = "Diseases" text = "dental"/>
+<query category = "Diseases" text = "diabetes"/>
+<query category = "Diseases" text = "hiv"/>
+<query category = "Diseases" text = "joel"/>
+<query category = "Diseases" text = "loretta"/>
+<query category = "Diseases" text = "absolutely dentist"/>
+<query category = "Diseases" text = "access cardiology"/>
+<query category = "Diseases" text = "affect diabetic"/>
+<query category = "Diseases" text = "ago dentist"/>
+<query category = "Diseases" text = "ago tooth"/>
+<query category = "Diseases" text = "alternatives treatment"/>
+<query category = "Diseases" text = "amalgam dentist"/>
+<query category = "Diseases" text = "angina cardiology"/>
+<query category = "Diseases" text = "answers cardiology"/>
+<query category = "Diseases" text = "answers heart"/>
+<query category = "Diseases" text = "answers treatment"/>
+<query category = "Diseases" text = "aspartame ted"/>
+<query category = "Diseases" text = "aspirin cardiologist"/>
+<query category = "Diseases" text = "aspirin cholesterol"/>
+<query category = "Diseases" text = "aspirin doctor"/>
+<query category = "Diseases" text = "aspirin heart"/>
+<query category = "Diseases" text = "atrial cardiologist"/>
+<query category = "Diseases" text = "atrial doctor"/>
+<query category = "Diseases" text = "atrial heart"/>
+<query category = "Diseases" text = "attack cardiology"/>
+<query category = "Diseases" text = "beav beavis"/>
+<query category = "Diseases" text = "bg blood"/>
+<query category = "Diseases" text = "biopsy treatment"/>
+<query category = "Diseases" text = "blood cardiology"/>
+<query category = "Diseases" text = "blood charset"/>
+<query category = "Diseases" text = "blood heart"/>
+<query category = "Diseases" text = "blood insulin"/>
+<query category = "Diseases" text = "blood treatment"/>
+<query category = "Diseases" text = "bone dentist"/>
+<query category = "Diseases" text = "bp cardiologist"/>
+<query category = "Diseases" text = "bp heart"/>
+<query category = "Diseases" text = "bypass heart"/>
+<query category = "Diseases" text = "canal tooth"/>
+<query category = "Diseases" text = "cardiologist doctor"/>
+<query category = "Diseases" text = "cardiologist heart"/>
+<query category = "Diseases" text = "carol dickinson"/>
+<query category = "Diseases" text = "charles meter"/>
+<query category = "Diseases" text = "chf heart"/>
+<query category = "Diseases" text = "cholesterol doctor"/>
+<query category = "Diseases" text = "cholesterol lipitor"/>
+<query category = "Diseases" text = "cholesterol niacin"/>
+<query category = "Diseases" text = "computing jude"/>
+<query category = "Diseases" text = "control treatment"/>
+<query category = "Diseases" text = "cure treatment"/>
+<query category = "Diseases" text = "dentists hans"/>
+<query category = "Diseases" text = "diagnosed doctor"/>
+<query category = "Diseases" text = "diagnosed heart"/>
+<query category = "Diseases" text = "diagnosed treatment"/>
+<query category = "Diseases" text = "doctor heart"/>
+<query category = "Diseases" text = "doctor niacin"/>
+<query category = "Diseases" text = "doctor treatment"/>
+<query category = "Diseases" text = "expect stein"/>
+<query category = "Diseases" text = "gary rickland"/>
+<query category = "Diseases" text = "gary stein"/>
+<query category = "Diseases" text = "hans lennros"/>
+<query category = "Diseases" text = "heart surgery"/>
+<query category = "Diseases" text = "pathology treatment"/>
+<query category = "Diseases" text = "pharma scared"/>
+<query category = "Diseases" text = "radiation treatment"/>
+<query category = "Diseases" text = "rp treatment"/>
+<query category = "Diseases" text = "answers coffee enemas"/>
+<query category = "Diseases" text = "bennett box dept"/>
+<query category = "Diseases" text = "dosage expect lipitor"/>
+<query category = "Diseases" text = "acceptance advise control physicians"/>
+<query category = "Diseases" text = "access jnavia sending syndrome"/>
+<query category = "Diseases" text = "astrocytoma carboplatin hannah robin"/>
+<query category = "FitnessNutrition" text = "aerobic"/>
+<query category = "FitnessNutrition" text = "chris"/>
+<query category = "FitnessNutrition" text = "eric"/>
+<query category = "FitnessNutrition" text = "fat"/>
+<query category = "FitnessNutrition" text = "fitness"/>
+<query category = "FitnessNutrition" text = "walking"/>
+<query category = "FitnessNutrition" text = "workout"/>
+<query category = "FitnessNutrition" text = "achilles skate"/>
+<query category = "FitnessNutrition" text = "acid dairy"/>
+<query category = "FitnessNutrition" text = "acid diets"/>
+<query category = "FitnessNutrition" text = "acid gohde"/>
+<query category = "FitnessNutrition" text = "acid grady"/>
+<query category = "FitnessNutrition" text = "acid stuart"/>
+<query category = "FitnessNutrition" text = "anonymous mfw"/>
+<query category = "FitnessNutrition" text = "antioxidant quentin"/>
+<query category = "FitnessNutrition" text = "ben scotland"/>
+<query category = "FitnessNutrition" text = "blind grady"/>
+<query category = "FitnessNutrition" text = "bodybuilding protein"/>
+<query category = "FitnessNutrition" text = "bought weight"/>
+<query category = "FitnessNutrition" text = "brink dairy"/>
+<query category = "FitnessNutrition" text = "brink weight"/>
+<query category = "FitnessNutrition" text = "calories protein"/>
+<query category = "FitnessNutrition" text = "calories weight"/>
+<query category = "FitnessNutrition" text = "challenge walk"/>
+<query category = "FitnessNutrition" text = "clements kevin"/>
+<query category = "FitnessNutrition" text = "clothing exercise"/>
+<query category = "FitnessNutrition" text = "consumption dairy"/>
+<query category = "FitnessNutrition" text = "consumption diets"/>
+<query category = "FitnessNutrition" text = "dairy eating"/>
+<query category = "FitnessNutrition" text = "dairy gohde"/>
+<query category = "FitnessNutrition" text = "dairy milk"/>
+<query category = "FitnessNutrition" text = "davis lyle"/>
+<query category = "FitnessNutrition" text = "diet quentin"/>
+<query category = "FitnessNutrition" text = "dogs walk"/>
+<query category = "FitnessNutrition" text = "eating gohde"/>
+<query category = "FitnessNutrition" text = "eating protein"/>
+<query category = "FitnessNutrition" text = "eating weight"/>
+<query category = "FitnessNutrition" text = "exercise protein"/>
+<query category = "FitnessNutrition" text = "exercise weight"/>
+<query category = "FitnessNutrition" text = "gohde supplements"/>
+<query category = "FitnessNutrition" text = "gordon harris"/>
+<query category = "FitnessNutrition" text = "gym powerhouse"/>
+<query category = "FitnessNutrition" text = "harris milk"/>
+<query category = "FitnessNutrition" text = "jim jun"/>
+<query category = "FitnessNutrition" text = "jun scotland"/>
+<query category = "FitnessNutrition" text = "lyle mcdonald"/>
+<query category = "FitnessNutrition" text = "skate sling"/>
+<query category = "FitnessNutrition" text = "walk walkers"/>
+<query category = "FitnessNutrition" text = "annihilate bounds tony"/>
+<query category = "FitnessNutrition" text = "att diet gohde"/>
+<query category = "FitnessNutrition" text = "ben north parliament"/>
+<query category = "FitnessNutrition" text = "calories diet eating"/>
+<query category = "FitnessNutrition" text = "consumption keith tap"/>
+<query category = "FitnessNutrition" text = "dog dogs feeet"/>
+<query category = "FitnessNutrition" text = "east exercise exercises"/>
+<query category = "FitnessNutrition" text = "eating meat whats"/>
+<query category = "FitnessNutrition" text = "anonymous artist featuring worlds"/>
+<query category = "FitnessNutrition" text = "att civility compromise gohde"/>
+<query category = "FitnessNutrition" text = "enterprises hojaboom shaklee terri"/>
+<query category = "Nursing" text = "nursing"/>
+<query category = "Nursing" text = "nurse nurses"/>
+<query category = "Nursing" text = "nurse pt"/>
+<query category = "Nursing" text = "nurse rn"/>
+<query category = "Nursing" text = "nurses rn"/>
+<query category = "Nursing" text = "nurses strike vincent"/>
+</queries>
+<nodes>
+<node name = "Alternative">
+</node>
+<node name = "Diseases">
+<queries>
+<query category = "Aids" text = "africa hiv"/>
+<query category = "Aids" text = "aids bennett"/>
+<query category = "Aids" text = "aids carlton"/>
+<query category = "Aids" text = "aids carter"/>
+<query category = "Aids" text = "aids cox"/>
+<query category = "Aids" text = "aids duesberg"/>
+<query category = "Aids" text = "aids fred"/>
+<query category = "Aids" text = "aids gary"/>
+<query category = "Aids" text = "aids george"/>
+<query category = "Aids" text = "aids grrick"/>
+<query category = "Aids" text = "aids hiv"/>
+<query category = "Aids" text = "aids snip"/>
+<query category = "Aids" text = "aids stein"/>
+<query category = "Aids" text = "bennett hiv"/>
+<query category = "Aids" text = "carlton hiv"/>
+<query category = "Aids" text = "carter hiv"/>
+<query category = "Aids" text = "cox hiv"/>
+<query category = "Aids" text = "duesberg hiv"/>
+<query category = "Aids" text = "fred hiv"/>
+<query category = "Aids" text = "gary hiv"/>
+<query category = "Aids" text = "hiv immune"/>
+<query category = "Aids" text = "hiv viral"/>
+<query category = "Cancer" text = "cancer"/>
+<query category = "Dentistry" text = "affordability dental"/>
+<query category = "Dentistry" text = "amalgam dental"/>
+<query category = "Dentistry" text = "amalgam joel"/>
+<query category = "Dentistry" text = "annemarie dental"/>
+<query category = "Dentistry" text = "broock dental"/>
+<query category = "Dentistry" text = "canal dental"/>
+<query category = "Dentistry" text = "crown dental"/>
+<query category = "Dentistry" text = "dds dental"/>
+<query category = "Dentistry" text = "dental dentist"/>
+<query category = "Dentistry" text = "dental dentistry"/>
+<query category = "Dentistry" text = "dental dentists"/>
+<query category = "Dentistry" text = "dental teeth"/>
+<query category = "Dentistry" text = "dentist dentistry"/>
+<query category = "Dentistry" text = "dentist hans"/>
+<query category = "Dentistry" text = "dentist joel"/>
+<query category = "Dentistry" text = "dentist teeth"/>
+<query category = "Dentistry" text = "dentist tooth"/>
+<query category = "Dentistry" text = "dentistry hans"/>
+<query category = "Dentistry" text = "dentistry joel"/>
+<query category = "Dentistry" text = "dentists joel"/>
+<query category = "Dentistry" text = "eichen joel"/>
+<query category = "Dentistry" text = "hans joel"/>
+<query category = "Dentistry" text = "joel teeth"/>
+<query category = "Dentistry" text = "teeth tooth"/>
+<query category = "Dentistry" text = "annemarie hans lennros"/>
+<query category = "Diabetes" text = "beav diabetes"/>
+<query category = "Diabetes" text = "beavis diabetes"/>
+<query category = "Diabetes" text = "bg diabetes"/>
+<query category = "Diabetes" text = "bg loretta"/>
+<query category = "Diabetes" text = "bgs diabetes"/>
+<query category = "Diabetes" text = "bonita diabetes"/>
+<query category = "Diabetes" text = "breakfast diabetes"/>
+<query category = "Diabetes" text = "carb diabetes"/>
+<query category = "Diabetes" text = "carol diabetes"/>
+<query category = "Diabetes" text = "carol loretta"/>
+<query category = "Diabetes" text = "crouch diabetes"/>
+<query category = "Diabetes" text = "diabetes diabetic"/>
+<query category = "Diabetes" text = "diabetes diabetics"/>
+<query category = "Diabetes" text = "diabetes diana"/>
+<query category = "Diabetes" text = "diabetes eat"/>
+<query category = "Diabetes" text = "diabetes glucose"/>
+<query category = "Diabetes" text = "diabetes insulin"/>
+<query category = "Diabetes" text = "diabetes karen"/>
+<query category = "Diabetes" text = "diabetes loretta"/>
+<query category = "Diabetes" text = "diabetes mar"/>
+<query category = "Diabetes" text = "diabetes prayer"/>
+<query category = "Diabetes" text = "diabetic insulin"/>
+<query category = "Diabetes" text = "loretta ot"/>
+<query category = "Heart" text = "afib heart"/>
+<query category = "Heart" text = "angina heart"/>
+<query category = "Heart" text = "angiogram heart"/>
+<query category = "Heart" text = "aorta heart"/>
+<query category = "Heart" text = "arteries heart"/>
+<query category = "Heart" text = "artery heart"/>
+<query category = "Heart" text = "aspirin heart"/>
+<query category = "Heart" text = "atrial heart"/>
+<query category = "Heart" text = "bp heart"/>
+<query category = "Heart" text = "bypass heart"/>
+<query category = "Heart" text = "cardiac heart"/>
+<query category = "Heart" text = "cardiologist cardiology"/>
+<query category = "Heart" text = "cardiologist heart"/>
+<query category = "Heart" text = "cardiology cholesterol"/>
+<query category = "Heart" text = "cardiology heart"/>
+<query category = "Heart" text = "chest heart"/>
+<query category = "Heart" text = "chf heart"/>
+<query category = "Heart" text = "cholesterol heart"/>
+<query category = "Heart" text = "coumadin heart"/>
+<query category = "Heart" text = "crease heart"/>
+<query category = "Heart" text = "dean heart"/>
+<query category = "Heart" text = "echo heart"/>
+<query category = "Heart" text = "heart heartbeat"/>
+<query category = "Heart" text = "heart lad"/>
+<query category = "Heart" text = "heart nursing"/>
+<query category = "Heart" text = "cholesterol hdl ldl"/>
+<query category = "Heart" text = "cholesterol hdl lipitor"/>
+<query category = "Heart" text = "aspirin cardiac coated mg"/>
+<query category = "Heart" text = "atrial fibrillation magnesium mg"/>
+</queries>
+<nodes>
+<node name = "Aids">
+</node>
+<node name = "Cancer">
+</node>
+<node name = "Dentistry">
+</node>
+<node name = "Diabetes">
+</node>
+<node name = "Heart">
+</node>
+</nodes>
+</node>
+<node name = "FitnessNutrition">
+<queries>
+<query category = "Aerobic" text = "aerobic"/>
+<query category = "Aerobic" text = "ace aerobics"/>
+<query category = "Aerobic" text = "aerobics burning"/>
+<query category = "Aerobic" text = "aerobics classes"/>
+<query category = "Aerobic" text = "aerobics exercise"/>
+<query category = "Aerobic" text = "bananas fattening"/>
+<query category = "Aerobic" text = "bodyforlife bodylogix"/>
+<query category = "Aerobic" text = "bpm estimated"/>
+<query category = "Aerobic" text = "clothing coolmax"/>
+<query category = "Aerobic" text = "clothing cotton"/>
+<query category = "Aerobic" text = "clothing exercise"/>
+<query category = "Aerobic" text = "denise elliptical"/>
+<query category = "Aerobic" text = "denise exercise"/>
+<query category = "Aerobic" text = "denise fitness"/>
+<query category = "Aerobic" text = "denise howard"/>
+<query category = "Aerobic" text = "exercise instructor"/>
+<query category = "Aerobic" text = "exercise skate"/>
+<query category = "Aerobic" text = "exercise treadmill"/>
+<query category = "Aerobic" text = "fitness instructor"/>
+<query category = "Aerobic" text = "reebok treadmill"/>
+<query category = "Aerobic" text = "running treadmill"/>
+<query category = "Aerobic" text = "skate sling"/>
+<query category = "Aerobic" text = "aw dll ebayisapi"/>
+<query category = "Aerobic" text = "handed push ups"/>
+<query category = "Aerobic" text = "monitors ramon target"/>
+<query category = "Nutrition" text = "acid aging"/>
+<query category = "Nutrition" text = "acid animal"/>
+<query category = "Nutrition" text = "acid apr"/>
+<query category = "Nutrition" text = "acid cholesterol"/>
+<query category = "Nutrition" text = "acid content"/>
+<query category = "Nutrition" text = "acid cranberry"/>
+<query category = "Nutrition" text = "acid dairy"/>
+<query category = "Nutrition" text = "acid eating"/>
+<query category = "Nutrition" text = "acid grady"/>
+<query category = "Nutrition" text = "acid health"/>
+<query category = "Nutrition" text = "adam gohde"/>
+<query category = "Nutrition" text = "adam health"/>
+<query category = "Nutrition" text = "alex diet"/>
+<query category = "Nutrition" text = "alex eating"/>
+<query category = "Nutrition" text = "alf milk"/>
+<query category = "Nutrition" text = "animal eating"/>
+<query category = "Nutrition" text = "animal milk"/>
+<query category = "Nutrition" text = "antioxidant atherosclerosis"/>
+<query category = "Nutrition" text = "apr diabetes"/>
+<query category = "Nutrition" text = "apr health"/>
+<query category = "Nutrition" text = "apr jay"/>
+<query category = "Nutrition" text = "apr milk"/>
+<query category = "Nutrition" text = "apr nutrition"/>
+<query category = "Nutrition" text = "apr quentin"/>
+<query category = "Nutrition" text = "atherosclerosis diet"/>
+<query category = "Nutrition" text = "beef eating"/>
+<query category = "Nutrition" text = "blood gohde"/>
+<query category = "Nutrition" text = "blood quentin"/>
+<query category = "Nutrition" text = "calcium supplements"/>
+<query category = "Nutrition" text = "cholesterol eating"/>
+<query category = "Nutrition" text = "dairy gohde"/>
+<query category = "Nutrition" text = "dairy milk"/>
+<query category = "Nutrition" text = "diabetes eating"/>
+<query category = "Nutrition" text = "diabetes glucose"/>
+<query category = "Nutrition" text = "diet gohde"/>
+<query category = "Nutrition" text = "diet jim"/>
+<query category = "Nutrition" text = "diet nutrition"/>
+<query category = "Nutrition" text = "dr nutrition"/>
+<query category = "Nutrition" text = "eating health"/>
+<query category = "Nutrition" text = "gohde health"/>
+<query category = "Nutrition" text = "grady quentin"/>
+<query category = "Nutrition" text = "health hojaboom"/>
+<query category = "Nutrition" text = "health john"/>
+<query category = "Nutrition" text = "nutrition nutritional"/>
+<query category = "Walking" text = "walking"/>
+<query category = "Walking" text = "banknotes munro"/>
+<query category = "Walking" text = "ben mountain"/>
+<query category = "Walking" text = "ben scotland"/>
+<query category = "Walking" text = "bog scotland"/>
+<query category = "Walking" text = "britain hiking"/>
+<query category = "Walking" text = "camping walk"/>
+<query category = "Walking" text = "chris mountain"/>
+<query category = "Walking" text = "district holiday"/>
+<query category = "Walking" text = "dogs feeet"/>
+<query category = "Walking" text = "gigi miles"/>
+<query category = "Walking" text = "gordon writes"/>
+<query category = "Walking" text = "north west"/>
+<query category = "Walking" text = "paul saunders"/>
+<query category = "Walking" text = "scanner slide"/>
+<query category = "Walking" text = "simon uk"/>
+<query category = "Walking" text = "uk writes"/>
+<query category = "Weights" text = "clintthompson"/>
+<query category = "Weights" text = "creatine"/>
+<query category = "Weights" text = "george"/>
+<query category = "Weights" text = "lyle"/>
+<query category = "Weights" text = "schuh"/>
+<query category = "Weights" text = "anonymous anonymously"/>
+<query category = "Weights" text = "arnold patrick"/>
+<query category = "Weights" text = "bar bench"/>
+<query category = "Weights" text = "bench press"/>
+<query category = "Weights" text = "bob clements"/>
+<query category = "Weights" text = "clements kevin"/>
+<query category = "Weights" text = "deadlift lifting"/>
+<query category = "Weights" text = "edsturm sturm"/>
+<query category = "Weights" text = "eric midkiff"/>
+<query category = "Weights" text = "krista mistress"/>
+<query category = "Weights" text = "march mother"/>
+<query category = "Weights" text = "bob bobmann mann"/>
+<query category = "Weights" text = "ergopharm lpjresearch pa"/>
+<query category = "Weights" text = "neck pencil watson"/>
+</queries>
+<nodes>
+<node name = "Aerobic">
+</node>
+<node name = "Nutrition">
+</node>
+<node name = "Walking">
+</node>
+<node name = "Weights">
+</node>
+</nodes>
+</node>
+<node name = "Nursing">
+</node>
+</nodes>
+</node>
+<node name = "Science">
+<queries>
+<query category = "Biology" text = "dinosaurs"/>
+<query category = "Biology" text = "evolution"/>
+<query category = "Biology" text = "species"/>
+<query category = "Biology" text = "acid plant"/>
+<query category = "Biology" text = "acids plants"/>
+<query category = "Biology" text = "agar microbiology"/>
+<query category = "Biology" text = "agriculture bob"/>
+<query category = "Biology" text = "agriculture botany"/>
+<query category = "Biology" text = "agriculture corn"/>
+<query category = "Biology" text = "agriculture fossil"/>
+<query category = "Biology" text = "agriculture grow"/>
+<query category = "Biology" text = "agriculture plants"/>
+<query category = "Biology" text = "agriculture tree"/>
+<query category = "Biology" text = "animal biology"/>
+<query category = "Biology" text = "animal plant"/>
+<query category = "Biology" text = "animal plants"/>
+<query category = "Biology" text = "animal tree"/>
+<query category = "Biology" text = "animals biology"/>
+<query category = "Biology" text = "animals plants"/>
+<query category = "Biology" text = "anne butterflies"/>
+<query category = "Biology" text = "apple tree"/>
+<query category = "Biology" text = "archaeopteryx dinosaur"/>
+<query category = "Biology" text = "archaeopteryx fossil"/>
+<query category = "Biology" text = "archimedes tree"/>
+<query category = "Biology" text = "bacteria biology"/>
+<query category = "Biology" text = "bacteria bob"/>
+<query category = "Biology" text = "bacteria genes"/>
+<query category = "Biology" text = "bacteria microbiology"/>
+<query category = "Biology" text = "biological biology"/>
+<query category = "Biology" text = "biological evolutionary"/>
+<query category = "Biology" text = "biological genes"/>
+<query category = "Biology" text = "biology box"/>
+<query category = "Biology" text = "biology cal"/>
+<query category = "Biology" text = "biology dna"/>
+<query category = "Biology" text = "biology ecology"/>
+<query category = "Biology" text = "birds dinosaur"/>
+<query category = "Biology" text = "bob butterflies"/>
+<query category = "Biology" text = "bob edser"/>
+<query category = "Biology" text = "bob genes"/>
+<query category = "Biology" text = "bob genetic"/>
+<query category = "Biology" text = "bob wood"/>
+<query category = "Biology" text = "bog butterflies"/>
+<query category = "Biology" text = "botanical plants"/>
+<query category = "Biology" text = "botany butterflies"/>
+<query category = "Biology" text = "botany plant"/>
+<query category = "Biology" text = "bug insect"/>
+<query category = "Biology" text = "butterflies butterfly"/>
+<query category = "Biology" text = "butterfly garden"/>
+<query category = "Biology" text = "chromosome roger"/>
+<query category = "Biology" text = "corn genetic"/>
+<query category = "Biology" text = "corn plant"/>
+<query category = "Biology" text = "dino dinosaur"/>
+<query category = "Biology" text = "dinosaur museum"/>
+<query category = "Biology" text = "dna genes"/>
+<query category = "Biology" text = "dyson plants"/>
+<query category = "Biology" text = "eat insect"/>
+<query category = "Biology" text = "edser genes"/>
+<query category = "Biology" text = "england roger"/>
+<query category = "Biology" text = "england tree"/>
+<query category = "Biology" text = "evolutionary genetic"/>
+<query category = "Biology" text = "flower plant"/>
+<query category = "Biology" text = "food roger"/>
+<query category = "Biology" text = "fossil fossils"/>
+<query category = "Biology" text = "fossil identification"/>
+<query category = "Biology" text = "fruit plant"/>
+<query category = "Biology" text = "fruit tree"/>
+<query category = "Biology" text = "genes genetic"/>
+<query category = "Biology" text = "grow plant"/>
+<query category = "Biology" text = "identify plant"/>
+<query category = "Biology" text = "moth moths"/>
+<query category = "Biology" text = "parasitic plants"/>
+<query category = "Biology" text = "antibiotc guru rcjohnsen"/>
+<query category = "Biology" text = "bacteria bacterial brush"/>
+<query category = "Biology" text = "botany california spring"/>
+<query category = "Biology" text = "box edser sbe"/>
+<query category = "Biology" text = "creatures extinctions yrs"/>
+<query category = "Biology" text = "betty cunningham paleontology vertebrate"/>
+<query category = "Biology" text = "ecology gallagher microbial wth"/>
+<query category = "Biology" text = "es kt oz pm"/>
+<query category = "Biology" text = "ateismo es los si tiempos"/>
+<query category = "Earth" text = "araluen cagle"/>
+<query category = "Earth" text = "atlantis cagle"/>
+<query category = "Earth" text = "barbara cagle"/>
+<query category = "Earth" text = "barbara geology"/>
+<query category = "Earth" text = "burke cagle"/>
+<query category = "Earth" text = "cagle congratulations"/>
+<query category = "Earth" text = "cagle core"/>
+<query category = "Earth" text = "cagle daylight"/>
+<query category = "Earth" text = "cagle geology"/>
+<query category = "Earth" text = "dominic oil"/>
+<query category = "Earth" text = "drilling oil"/>
+<query category = "Earth" text = "exploration geology"/>
+<query category = "Earth" text = "exploration oil"/>
+<query category = "Earth" text = "geologic geology"/>
+<query category = "Earth" text = "geological geology"/>
+<query category = "Earth" text = "geologist geology"/>
+<query category = "Earth" text = "geologist oil"/>
+<query category = "Earth" text = "geology ocean"/>
+<query category = "Earth" text = "geology oil"/>
+<query category = "Earth" text = "geology rock"/>
+<query category = "Earth" text = "oil petroleum"/>
+<query category = "Earth" text = "oil seismic"/>
+<query category = "Earth" text = "oil winningham"/>
+<query category = "Earth" text = "exploration hughes seismic"/>
+<query category = "Earth" text = "atlantis ore pole rebecca weres"/>
+<query category = "Math" text = "analyticity logic"/>
+<query category = "Math" text = "causal logic"/>
+<query category = "Math" text = "distribution math"/>
+<query category = "Math" text = "distribution probability"/>
+<query category = "Math" text = "distribution statistics"/>
+<query category = "Math" text = "elian logic"/>
+<query category = "Math" text = "existence logic"/>
+<query category = "Math" text = "frege logic"/>
+<query category = "Math" text = "logic logical"/>
+<query category = "Math" text = "logic math"/>
+<query category = "Math" text = "logic probability"/>
+<query category = "Math" text = "aristotle logic wetzel"/>
+<query category = "Math" text = "causal regression statistics"/>
+<query category = "Math" text = "chi distribution distributions"/>
+<query category = "Math" text = "consistency existence frege"/>
+<query category = "Math" text = "function statistics variables"/>
+<query category = "Math" text = "holden logic owen"/>
+<query category = "Math" text = "correlation distributions function sum"/>
+<query category = "SocialSciences" text = "linguistlist"/>
+<query category = "SocialSciences" text = "alvarado noronen"/>
+<query category = "SocialSciences" text = "ancient economics"/>
+<query category = "SocialSciences" text = "anon psychotherapy"/>
+<query category = "SocialSciences" text = "anti holocaust"/>
+<query category = "SocialSciences" text = "arguments economics"/>
+<query category = "SocialSciences" text = "art noronen"/>
+<query category = "SocialSciences" text = "auschwitz holocaust"/>
+<query category = "SocialSciences" text = "baby history"/>
+<query category = "SocialSciences" text = "bank economics"/>
+<query category = "SocialSciences" text = "blair economics"/>
+<query category = "SocialSciences" text = "blumenstock economics"/>
+<query category = "SocialSciences" text = "brad kali"/>
+<query category = "SocialSciences" text = "brad price"/>
+<query category = "SocialSciences" text = "brad psychotherapy"/>
+<query category = "SocialSciences" text = "british jews"/>
+<query category = "SocialSciences" text = "burkhard economics"/>
+<query category = "SocialSciences" text = "calendar holocaust"/>
+<query category = "SocialSciences" text = "capital economics"/>
+<query category = "SocialSciences" text = "child noronen"/>
+<query category = "SocialSciences" text = "children noronen"/>
+<query category = "SocialSciences" text = "children psychotherapy"/>
+<query category = "SocialSciences" text = "clark economics"/>
+<query category = "SocialSciences" text = "court noronen"/>
+<query category = "SocialSciences" text = "dan psychotherapy"/>
+<query category = "SocialSciences" text = "dictionary economics"/>
+<query category = "SocialSciences" text = "dictionary history"/>
+<query category = "SocialSciences" text = "dlj economic"/>
+<query category = "SocialSciences" text = "dlj economy"/>
+<query category = "SocialSciences" text = "dlj price"/>
+<query category = "SocialSciences" text = "dlj susupply"/>
+<query category = "SocialSciences" text = "economic economics"/>
+<query category = "SocialSciences" text = "economic history"/>
+<query category = "SocialSciences" text = "economic price"/>
+<query category = "SocialSciences" text = "economics economists"/>
+<query category = "SocialSciences" text = "economics edward"/>
+<query category = "SocialSciences" text = "economics finance"/>
+<query category = "SocialSciences" text = "economics government"/>
+<query category = "SocialSciences" text = "economics language"/>
+<query category = "SocialSciences" text = "economics latex"/>
+<query category = "SocialSciences" text = "economy price"/>
+<query category = "SocialSciences" text = "fallacies noronen"/>
+<query category = "SocialSciences" text = "faq noronen"/>
+<query category = "SocialSciences" text = "german holocaust"/>
+<query category = "SocialSciences" text = "government holocaust"/>
+<query category = "SocialSciences" text = "government jews"/>
+<query category = "SocialSciences" text = "greek history"/>
+<query category = "SocialSciences" text = "hate history"/>
+<query category = "SocialSciences" text = "hate jews"/>
+<query category = "SocialSciences" text = "history jewish"/>
+<query category = "SocialSciences" text = "history jews"/>
+<query category = "SocialSciences" text = "history jones"/>
+<query category = "SocialSciences" text = "history posted"/>
+<query category = "SocialSciences" text = "history war"/>
+<query category = "SocialSciences" text = "holocaust james"/>
+<query category = "SocialSciences" text = "james psychotherapy"/>
+<query category = "SocialSciences" text = "jew jews"/>
+<query category = "SocialSciences" text = "jewish jews"/>
+<query category = "SocialSciences" text = "kali noronen"/>
+<query category = "SocialSciences" text = "memories noronen"/>
+<query category = "SocialSciences" text = "moore psychotherapy"/>
+<query category = "SocialSciences" text = "morin noronen"/>
+<query category = "SocialSciences" text = "noronen olavi"/>
+<query category = "SocialSciences" text = "phd psychotherapy"/>
+<query category = "SocialSciences" text = "posted psychotherapy"/>
+<query category = "SocialSciences" text = "psychology psychotherapy"/>
+<query category = "SocialSciences" text = "anon bin brad"/>
+<query category = "SocialSciences" text = "anon brad cipher"/>
+<query category = "SocialSciences" text = "arguments civil history"/>
+<query category = "SocialSciences" text = "clark economy mason"/>
+<query category = "SocialSciences" text = "dictionary german pronouncing"/>
+<query category = "SocialSciences" text = "dictionary language pronouncing"/>
+<query category = "SocialSciences" text = "dictionary latin pronouncing"/>
+<query category = "SocialSciences" text = "discretion posted price"/>
+<query category = "SocialSciences" text = "hate jewish zionist"/>
+<query category = "SocialSciences" text = "memories morin posted"/>
+<query category = "SocialSciences" text = "anon bin blockit faq"/>
+<query category = "SocialSciences" text = "baby capitalist dipsheik saytansbaby"/>
+<query category = "SocialSciences" text = "baby dick lungo vivo"/>
+<query category = "SocialSciences" text = "blair nudds ooo scott"/>
+<query category = "SocialSciences" text = "constitution court curtis shut supreme"/>
+<query category = "SocialSciences" text = "largo leben lungo nostro revolucion vivo"/>
+</queries>
+<nodes>
+<node name = "Biology">
+<queries>
+<query category = "Botany" text = "botany"/>
+<query category = "Botany" text = "agriculture fruits"/>
+<query category = "Botany" text = "agriculture harold"/>
+<query category = "Botany" text = "agriculture plant"/>
+<query category = "Botany" text = "agriculture plants"/>
+<query category = "Botany" text = "agriculture seed"/>
+<query category = "Botany" text = "agriculture tree"/>
+<query category = "Botany" text = "archimedes harold"/>
+<query category = "Botany" text = "archimedes plant"/>
+<query category = "Botany" text = "archimedes plutonium"/>
+<query category = "Botany" text = "arron danton"/>
+<query category = "Botany" text = "arron heating"/>
+<query category = "Botany" text = "ash plant"/>
+<query category = "Botany" text = "ash tree"/>
+<query category = "Botany" text = "bark tree"/>
+<query category = "Botany" text = "brett plants"/>
+<query category = "Botany" text = "cohen plant"/>
+<query category = "Botany" text = "cracking monsanto"/>
+<query category = "Botany" text = "crop dinner"/>
+<query category = "Botany" text = "crop harold"/>
+<query category = "Botany" text = "crop plant"/>
+<query category = "Botany" text = "crops plant"/>
+<query category = "Botany" text = "crops plants"/>
+<query category = "Botany" text = "dyson plant"/>
+<query category = "Botany" text = "dyson plants"/>
+<query category = "Botany" text = "flower plant"/>
+<query category = "Botany" text = "harold moieties"/>
+<query category = "Botany" text = "leaf plant"/>
+<query category = "Botany" text = "oxted whitehead"/>
+<query category = "Botany" text = "roger whitehead"/>
+<query category = "Entomology" text = "beetles"/>
+<query category = "Entomology" text = "butterflies"/>
+<query category = "Entomology" text = "butterfly"/>
+<query category = "Entomology" text = "insect"/>
+<query category = "Entomology" text = "leps"/>
+<query category = "Entomology" text = "moth"/>
+<query category = "Entomology" text = "moths"/>
+<query category = "Entomology" text = "cherubini chris"/>
+<query category = "Entomology" text = "chris images"/>
+<query category = "Entomology" text = "crawford rod"/>
+<query category = "Evolution" text = "acts evolution"/>
+<query category = "Evolution" text = "adams evolution"/>
+<query category = "Evolution" text = "allele evolution"/>
+<query category = "Evolution" text = "alleles evolution"/>
+<query category = "Evolution" text = "anon evolution"/>
+<query category = "Evolution" text = "argument evolution"/>
+<query category = "Evolution" text = "artificial evolution"/>
+<query category = "Evolution" text = "asexual evolution"/>
+<query category = "Evolution" text = "aspect evolution"/>
+<query category = "Evolution" text = "behavior evolution"/>
+<query category = "Evolution" text = "billion evolution"/>
+<query category = "Evolution" text = "born evolution"/>
+<query category = "Evolution" text = "buy evolution"/>
+<query category = "Evolution" text = "catatonia evolution"/>
+<query category = "Evolution" text = "chromosome evolution"/>
+<query category = "Evolution" text = "code evolution"/>
+<query category = "Evolution" text = "daniel evolution"/>
+<query category = "Evolution" text = "darwin evolution"/>
+<query category = "Evolution" text = "dna evolution"/>
+<query category = "Evolution" text = "edser evolution"/>
+<query category = "Evolution" text = "evolutionary hendricks"/>
+<query category = "Evolution" text = "hendricks strands"/>
+<query category = "Evolution" text = "allele edser evolutionary"/>
+<query category = "Evolution" text = "allele edser hamilton"/>
+<query category = "Evolution" text = "aspect behavior hendricks"/>
+<query category = "Evolution" text = "aspect buy hendricks"/>
+<query category = "Evolution" text = "argument genetics hamilton mcginn"/>
+<query category = "Evolution" text = "anon hamilton maynard mistaken refutation"/>
+<query category = "Microbiology" text = "loes"/>
+<query category = "Microbiology" text = "microbiology"/>
+<query category = "Microbiology" text = "agar bacteria"/>
+<query category = "Microbiology" text = "antibiotc guru"/>
+<query category = "Microbiology" text = "antibiotics bacteria"/>
+<query category = "Microbiology" text = "bacteria bacterial"/>
+<query category = "Microbiology" text = "bacteria digestible"/>
+<query category = "Microbiology" text = "digestible oligosaccharides"/>
+<query category = "Paleontology" text = "dinosaurs"/>
+<query category = "Paleontology" text = "kinman"/>
+<query category = "Paleontology" text = "ancestors archaeopteryx"/>
+<query category = "Paleontology" text = "animals dino"/>
+<query category = "Paleontology" text = "animals fossil"/>
+<query category = "Paleontology" text = "animals mattila"/>
+<query category = "Paleontology" text = "apr archaeopteryx"/>
+<query category = "Paleontology" text = "apr fossil"/>
+<query category = "Paleontology" text = "apr mammoths"/>
+<query category = "Paleontology" text = "apr mattila"/>
+<query category = "Paleontology" text = "apr petrified"/>
+<query category = "Paleontology" text = "archaeopteryx birds"/>
+<query category = "Paleontology" text = "archaeopteryx eldredge"/>
+<query category = "Paleontology" text = "ateismo tiempos"/>
+<query category = "Paleontology" text = "bird dino"/>
+<query category = "Paleontology" text = "cal dinosaur"/>
+<query category = "Paleontology" text = "cal king"/>
+<query category = "Paleontology" text = "dino dinosaur"/>
+<query category = "Paleontology" text = "fossil fossils"/>
+<query category = "Paleontology" text = "mammoth mammoths"/>
+<query category = "Paleontology" text = "catastrophes meteor vulcanism"/>
+</queries>
+<nodes>
+<node name = "Botany">
+</node>
+<node name = "Entomology">
+</node>
+<node name = "Evolution">
+</node>
+<node name = "Microbiology">
+</node>
+<node name = "Paleontology">
+</node>
+</nodes>
+</node>
+<node name = "Earth">
+<queries>
+<query category = "Geology" text = "accept"/>
+<query category = "Geology" text = "alan"/>
+<query category = "Geology" text = "andreas"/>
+<query category = "Geology" text = "appears"/>
+<query category = "Geology" text = "apr"/>
+<query category = "Geology" text = "araluen"/>
+<query category = "Geology" text = "aren"/>
+<query category = "Geology" text = "article"/>
+<query category = "Geology" text = "barbara"/>
+<query category = "Geology" text = "cagle"/>
+<query category = "Geology" text = "discussion"/>
+<query category = "Misc" text = "advance"/>
+<query category = "Misc" text = "air"/>
+<query category = "Misc" text = "analysis"/>
+<query category = "Misc" text = "appreciated"/>
+<query category = "Misc" text = "areas"/>
+<query category = "Misc" text = "baker"/>
+<query category = "Misc" text = "business"/>
+<query category = "Misc" text = "companies"/>
+<query category = "Misc" text = "cost"/>
+<query category = "Misc" text = "deep"/>
+<query category = "Misc" text = "oil"/>
+</queries>
+<nodes>
+<node name = "Geology">
+</node>
+<node name = "Misc">
+</node>
+</nodes>
+</node>
+<node name = "Math">
+<queries>
+<query category = "Logic" text = "definition"/>
+<query category = "Logic" text = "discovered"/>
+<query category = "Logic" text = "earth"/>
+<query category = "Logic" text = "elian"/>
+<query category = "Logic" text = "finite"/>
+<query category = "Logic" text = "frege"/>
+<query category = "Logic" text = "god"/>
+<query category = "Logic" text = "logic"/>
+<query category = "Statistics" text = "accuracy"/>
+<query category = "Statistics" text = "address"/>
+<query category = "Statistics" text = "adelman"/>
+<query category = "Statistics" text = "advance"/>
+<query category = "Statistics" text = "advice"/>
+<query category = "Statistics" text = "algorithms"/>
+<query category = "Statistics" text = "analysis"/>
+<query category = "Statistics" text = "appreciated"/>
+<query category = "Statistics" text = "aug"/>
+<query category = "Statistics" text = "average"/>
+<query category = "Statistics" text = "books"/>
+<query category = "Statistics" text = "calculate"/>
+<query category = "Statistics" text = "data"/>
+<query category = "Statistics" text = "distribution"/>
+</queries>
+<nodes>
+<node name = "Logic">
+</node>
+<node name = "Statistics">
+</node>
+</nodes>
+</node>
+<node name = "SocialSciences">
+<queries>
+<query category = "Economics" text = "dlj"/>
+<query category = "Economics" text = "economics"/>
+<query category = "Economics" text = "blair growth"/>
+<query category = "Economics" text = "blair lloyd"/>
+<query category = "Economics" text = "developments mccarthy"/>
+<query category = "Economics" text = "economic microsoft"/>
+<query category = "Economics" text = "economy mason"/>
+<query category = "Economics" text = "krugman susupply"/>
+<query category = "Economics" text = "blumenstock dt esteem"/>
+<query category = "Economics" text = "blumenstock esteem hyman"/>
+<query category = "History" text = "alton"/>
+<query category = "History" text = "ass"/>
+<query category = "History" text = "auschwitz"/>
+<query category = "History" text = "baby"/>
+<query category = "History" text = "calendar"/>
+<query category = "History" text = "chris"/>
+<query category = "History" text = "christianity"/>
+<query category = "History" text = "civil"/>
+<query category = "History" text = "constitution"/>
+<query category = "History" text = "discovered"/>
+<query category = "History" text = "gardiner"/>
+<query category = "History" text = "greeks"/>
+<query category = "History" text = "hate"/>
+<query category = "History" text = "historian"/>
+<query category = "History" text = "history"/>
+<query category = "History" text = "holocaust"/>
+<query category = "History" text = "hungary"/>
+<query category = "History" text = "irving"/>
+<query category = "History" text = "jew"/>
+<query category = "History" text = "jewish"/>
+<query category = "History" text = "jews"/>
+<query category = "History" text = "lungo"/>
+<query category = "History" text = "marxism"/>
+<query category = "History" text = "communism condemn"/>
+<query category = "Linguistics" text = "linguistlist"/>
+<query category = "Linguistics" text = "computational ling"/>
+<query category = "Linguistics" text = "deadline linguistics"/>
+<query category = "Linguistics" text = "dictionary latin"/>
+<query category = "Pshychology" text = "abuse kali"/>
+<query category = "Pshychology" text = "abuse noronen"/>
+<query category = "Pshychology" text = "abuse psychotherapy"/>
+<query category = "Pshychology" text = "adelman psychotherapy"/>
+<query category = "Pshychology" text = "adults kali"/>
+<query category = "Pshychology" text = "adults psychotherapy"/>
+<query category = "Pshychology" text = "advocate psychotherapy"/>
+<query category = "Pshychology" text = "alvarado noronen"/>
+<query category = "Pshychology" text = "anon brad"/>
+<query category = "Pshychology" text = "anon cipher"/>
+<query category = "Pshychology" text = "anon usenet"/>
+<query category = "Pshychology" text = "apr kali"/>
+<query category = "Pshychology" text = "apr noronen"/>
+<query category = "Pshychology" text = "apr psychotherapy"/>
+<query category = "Pshychology" text = "behavior psychotherapy"/>
+<query category = "Pshychology" text = "behavior usenet"/>
+<query category = "Pshychology" text = "beliefs noronen"/>
+<query category = "Pshychology" text = "brad cipher"/>
+<query category = "Pshychology" text = "brad kali"/>
+<query category = "Pshychology" text = "brad peter"/>
+<query category = "Pshychology" text = "child noronen"/>
+<query category = "Pshychology" text = "child psychotherapy"/>
+<query category = "Pshychology" text = "child usenet"/>
+<query category = "Pshychology" text = "client psychotherapy"/>
+<query category = "Pshychology" text = "clients psychotherapy"/>
+<query category = "Pshychology" text = "curio kali"/>
+<query category = "Pshychology" text = "diagnosis psychotherapy"/>
+<query category = "Pshychology" text = "fallacies noronen"/>
+<query category = "Pshychology" text = "id inappropriate"/>
+<query category = "Pshychology" text = "id psychotherapy"/>
+<query category = "Pshychology" text = "id usenet"/>
+<query category = "Pshychology" text = "idiot usenet"/>
+<query category = "Pshychology" text = "inappropriate mark"/>
+<query category = "Pshychology" text = "inappropriate usenet"/>
+<query category = "Pshychology" text = "kook noronen"/>
+<query category = "Pshychology" text = "mark memories"/>
+<query category = "Pshychology" text = "mark usenet"/>
+<query category = "Pshychology" text = "memories therapist"/>
+<query category = "Pshychology" text = "memories usenet"/>
+<query category = "Pshychology" text = "moderated psychotherapy"/>
+<query category = "Pshychology" text = "noronen olavi"/>
+<query category = "Pshychology" text = "phd usenet"/>
+<query category = "Pshychology" text = "advocate id snip tor"/>
+</queries>
+<nodes>
+<node name = "Economics">
+</node>
+<node name = "History">
+</node>
+<node name = "Linguistics">
+</node>
+<node name = "Pshychology">
+</node>
+</nodes>
+</node>
+</nodes>
+</node>
+<node name = "Sports">
+<queries>
+<query category = "Basket" text = "basketball"/>
+<query category = "Basket" text = "knight"/>
+<query category = "Basket" text = "nba"/>
+<query category = "Basket" text = "abl wnba"/>
+<query category = "Basket" text = "attendance uconn"/>
+<query category = "Basket" text = "azzi wnba"/>
+<query category = "Basket" text = "basket lakers"/>
+<query category = "Basket" text = "bird lakers"/>
+<query category = "Basket" text = "bird uconn"/>
+<query category = "Basket" text = "blazer lakers"/>
+<query category = "Basket" text = "blazers bulls"/>
+<query category = "Basket" text = "blazers kobe"/>
+<query category = "Basket" text = "blazers laker"/>
+<query category = "Basket" text = "blazers lakers"/>
+<query category = "Basket" text = "bulls lakers"/>
+<query category = "Basket" text = "callahan wnba"/>
+<query category = "Basket" text = "coach geno"/>
+<query category = "Basket" text = "coach irv"/>
+<query category = "Basket" text = "coach uconn"/>
+<query category = "Basket" text = "coach wnba"/>
+<query category = "Basket" text = "comets cos"/>
+<query category = "Basket" text = "cos wnba"/>
+<query category = "Basket" text = "diana geno"/>
+<query category = "Basket" text = "duke laettner"/>
+<query category = "Basket" text = "espn uconn"/>
+<query category = "Basket" text = "fan lakers"/>
+<query category = "Basket" text = "finals lakers"/>
+<query category = "Basket" text = "finals pacers"/>
+<query category = "Basket" text = "geno irv"/>
+<query category = "Basket" text = "geno uconn"/>
+<query category = "Basket" text = "indiana pacers"/>
+<query category = "Basket" text = "kobe lakers"/>
+<query category = "Basket" text = "laker lakers"/>
+<query category = "Basket" text = "tenn uconn"/>
+<query category = "Basket" text = "alright cota duke"/>
+<query category = "Basket" text = "bird jordan kobe"/>
+<query category = "Basket" text = "bye coach kinder"/>
+<query category = "Basket" text = "chicks hoop kim"/>
+<query category = "Basket" text = "cota donnie guilty"/>
+<query category = "Basket" text = "cota guilty unc"/>
+<query category = "Basket" text = "bologna bye kinder virtus"/>
+<query category = "Basket" text = "bologna efes estudiantes kinder"/>
+<query category = "Basket" text = "chicks colosseum ezine hoop"/>
+<query category = "Basket" text = "darth domenex dounias echm"/>
+<query category = "Basket" text = "darth domenex echm escribi"/>
+<query category = "Basket" text = "assists lal opp por rebounder scorer"/>
+<query category = "MartialArts" text = "aikido martial"/>
+<query category = "MartialArts" text = "art martial"/>
+<query category = "MartialArts" text = "arts karate"/>
+<query category = "MartialArts" text = "arts martial"/>
+<query category = "MartialArts" text = "aikido art karate"/>
+<query category = "Outdoors" text = "advice"/>
+<query category = "Outdoors" text = "alert"/>
+<query category = "Outdoors" text = "bike"/>
+<query category = "Outdoors" text = "bikes"/>
+<query category = "Outdoors" text = "boat"/>
+<query category = "Outdoors" text = "boating"/>
+<query category = "Outdoors" text = "boats"/>
+<query category = "Outdoors" text = "canoe"/>
+<query category = "Outdoors" text = "capt"/>
+<query category = "Outdoors" text = "cheap"/>
+<query category = "Outdoors" text = "climb"/>
+<query category = "Outdoors" text = "climber"/>
+<query category = "Outdoors" text = "climbers"/>
+<query category = "Outdoors" text = "climbing"/>
+<query category = "Outdoors" text = "creek"/>
+<query category = "Outdoors" text = "dagger"/>
+<query category = "Outdoors" text = "fork"/>
+<query category = "Outdoors" text = "fs"/>
+<query category = "Outdoors" text = "gear"/>
+<query category = "Outdoors" text = "gilligan"/>
+<query category = "Outdoors" text = "gps"/>
+<query category = "Outdoors" text = "helmet"/>
+<query category = "Outdoors" text = "hiking"/>
+<query category = "Outdoors" text = "kayak"/>
+<query category = "Outdoors" text = "kayaking"/>
+<query category = "Outdoors" text = "lightning"/>
+<query category = "Outdoors" text = "mine"/>
+<query category = "Outdoors" text = "paddle"/>
+<query category = "Outdoors" text = "paddling"/>
+<query category = "Outdoors" text = "rbp"/>
+<query category = "Outdoors" text = "restaurant"/>
+<query category = "Outdoors" text = "ride"/>
+<query category = "Outdoors" text = "river"/>
+<query category = "Outdoors" text = "sail"/>
+<query category = "Outdoors" text = "sailing"/>
+<query category = "Outdoors" text = "sailor"/>
+<query category = "Outdoors" text = "shimano"/>
+<query category = "Outdoors" text = "slime"/>
+<query category = "Outdoors" text = "tires"/>
+<query category = "Outdoors" text = "tr"/>
+<query category = "Outdoors" text = "virus"/>
+<query category = "Outdoors" text = "water"/>
+<query category = "Outdoors" text = "wheels"/>
+<query category = "Outdoors" text = "wtb"/>
+<query category = "Outdoors" text = "arenablvd katysails"/>
+<query category = "Soccer" text = "barca soccer"/>
+<query category = "Soccer" text = "bayern soccer"/>
+<query category = "Soccer" text = "benny soccer"/>
+<query category = "Soccer" text = "bundesliga soccer"/>
+<query category = "Soccer" text = "champions soccer"/>
+<query category = "Soccer" text = "chelsea soccer"/>
+<query category = "Soccer" text = "cup soccer"/>
+<query category = "Soccer" text = "england soccer"/>
+<query category = "Soccer" text = "english soccer"/>
+<query category = "Soccer" text = "euro football"/>
+<query category = "Soccer" text = "football leeds"/>
+<query category = "Soccer" text = "football soccer"/>
+<query category = "Soccer" text = "cup english football"/>
+<query category = "Soccer" text = "bayern bundesliga champions cup"/>
+<query category = "Volleyball" text = "volleyball"/>
+<query category = "Volleyball" text = "beach ravi usc"/>
+<query category = "Volleyball" text = "beach mpsf pepperdine usc"/>
+</queries>
+<nodes>
+<node name = "Basket">
+<queries>
+<query category = "College" text = "knight"/>
+<query category = "College" text = "cota guilty unc"/>
+<query category = "Nba" text = "lakers"/>
+<query category = "Nba" text = "assists jun"/>
+<query category = "Women" text = "cos"/>
+<query category = "Women" text = "wnba"/>
+<query category = "Women" text = "apr geno"/>
+<query category = "Women" text = "diana geno"/>
+<query category = "Women" text = "chicks colosseum kim"/>
+<query category = "Women" text = "balls chicks colosseum geocities girl"/>
+</queries>
+<nodes>
+<node name = "College">
+</node>
+<node name = "Nba">
+</node>
+<node name = "Women">
+</node>
+</nodes>
+</node>
+<node name = "MartialArts">
+</node>
+<node name = "Outdoors">
+<queries>
+<query category = "Climbing" text = "climb"/>
+<query category = "Climbing" text = "climber"/>
+<query category = "Climbing" text = "climbing"/>
+<query category = "Climbing" text = "slime"/>
+<query category = "Climbing" text = "ternes"/>
+<query category = "Climbing" text = "arches beta"/>
+<query category = "Climbing" text = "drixelius inez"/>
+<query category = "Climbing" text = "pieper rex"/>
+<query category = "Cycling" text = "bike"/>
+<query category = "Cycling" text = "cycling"/>
+<query category = "Cycling" text = "wheels"/>
+<query category = "Cycling" text = "bicicletteria campy"/>
+<query category = "Cycling" text = "cassette rear"/>
+<query category = "Cycling" text = "rim spoke"/>
+<query category = "Cycling" text = "tire tires"/>
+<query category = "Cycling" text = "bicicletteria chisholm pearl"/>
+<query category = "Hiking" text = "airsicknessbags breakfasts"/>
+<query category = "Hiking" text = "airsicknessbags silberberg"/>
+<query category = "Hiking" text = "alcohol backcountry"/>
+<query category = "Hiking" text = "alcohol giddings"/>
+<query category = "Hiking" text = "alcohol stoves"/>
+<query category = "Hiking" text = "backcountry cannyon"/>
+<query category = "Hiking" text = "backpacking hiking"/>
+<query category = "Hiking" text = "batteries monocular"/>
+<query category = "Hiking" text = "breakfasts cook"/>
+<query category = "Hiking" text = "bryce zion"/>
+<query category = "Hiking" text = "chittenden restaurant"/>
+<query category = "Hiking" text = "citizen restaurant"/>
+<query category = "Hiking" text = "currency kirk"/>
+<query category = "Hiking" text = "hermit lion"/>
+<query category = "Hiking" text = "hike hiking"/>
+<query category = "Hiking" text = "hike trail"/>
+<query category = "Hiking" text = "hikes hiking"/>
+<query category = "Hiking" text = "hiking trails"/>
+<query category = "Hiking" text = "caudle garmin magellan"/>
+<query category = "Hiking" text = "dehydrator dishes dryfood jerkey recipee"/>
+<query category = "Paddling" text = "canoe"/>
+<query category = "Paddling" text = "dagger"/>
+<query category = "Paddling" text = "kayak"/>
+<query category = "Paddling" text = "kayaking"/>
+<query category = "Paddling" text = "ocoee"/>
+<query category = "Paddling" text = "paddle"/>
+<query category = "Paddling" text = "paddling"/>
+<query category = "Paddling" text = "rbp"/>
+<query category = "Paddling" text = "river"/>
+<query category = "Paddling" text = "wtb"/>
+<query category = "Paddling" text = "bergh wilko"/>
+<query category = "Paddling" text = "pyrinees wilko"/>
+<query category = "Sailing" text = "sail"/>
+<query category = "Sailing" text = "sailing"/>
+<query category = "Sailing" text = "aboard capt"/>
+<query category = "Sailing" text = "abouty capt"/>
+<query category = "Sailing" text = "advisory peggie"/>
+<query category = "Sailing" text = "anal capt"/>
+<query category = "Sailing" text = "arenablvd capt"/>
+<query category = "Sailing" text = "autohelm bellavance"/>
+<query category = "Sailing" text = "boat boatyard"/>
+<query category = "Sailing" text = "boat capt"/>
+<query category = "Sailing" text = "boat catalina"/>
+<query category = "Sailing" text = "boat charts"/>
+<query category = "Sailing" text = "boat coronado"/>
+<query category = "Sailing" text = "boat dissipators"/>
+<query category = "Sailing" text = "boat engine"/>
+<query category = "Sailing" text = "boat flying"/>
+<query category = "Sailing" text = "boat jun"/>
+<query category = "Sailing" text = "boat katysails"/>
+<query category = "Sailing" text = "boat marine"/>
+<query category = "Sailing" text = "capt neal"/>
+<query category = "Sailing" text = "dissipators lightning"/>
+<query category = "Sailing" text = "engine ports"/>
+<query category = "Sailing" text = "harry krause"/>
+</queries>
+<nodes>
+<node name = "Climbing">
+</node>
+<node name = "Cycling">
+</node>
+<node name = "Hiking">
+</node>
+<node name = "Paddling">
+</node>
+<node name = "Sailing">
+</node>
+</nodes>
+</node>
+<node name = "Soccer">
+</node>
+<node name = "Volleyball">
+</node>
+</nodes>
+</node>
+</nodes>
+</node>

@@ -1,0 +1,269 @@
+TEXT/LUCENE COLLECTION WRAPPING INSTRUCTIONS (DETAILED)
+-------------------------------------------------------
+
+Now that you have configured the server, you must configure each
+wrapped collection (aka subcollection, aka BackEndLSP, aka back-end).
+This is the file alluded to in item 4E of our famous checklist from
+above. Each subcollection has its own form of configuration.
+
+As the system currently stands, each wrapped collection must have its
+own subdirectory of the config/ directory, in which it stores its
+configuration files. This directory must have THE SAME NAME as the
+one the collection is registered under in the sdarts_config.xml file.
+So, for example, if we had a collection called "books", then in
+sdarts_config.xml, we would have:
+
+	<sdarts_config>
+		.....
+		<back-end-lsp>
+			<classname> ........
+			<name> books </name>
+	......
+	</sdarts_config>
+
+And there would be a directory called:
+
+	config/books
+
+It is in that directory where the "books" collection would keep its
+configuration files.
+
+Currently, SDARTS supports two types of wrapper, the "doc" wrapper and
+the "www" wrapper. The "doc" wrapper is for unindexed collections 
+of ASCII documents. The abstract package describing a doc-collection 
+is sdarts.backend.doc (see the javadoc.) This current section of the
+documentation, and the next, cover the two current sub-types of the
+"doc" wrapper.
+
+The "www" wrapper is designed for interfacing with web-based collections
+fronted by some kind of CGI-based search engine. See section X for more 
+information.
+
+There are two sub-types of the "doc" wrapper: "text" and "xml". The first is
+for wrapping collections of plain text documents, while the second is
+for wrapping collections of XML documents. We describe the first type
+in this section, and the second type in the following section. 
+
+Both sub-types have concrete reference implementations, available in
+the sdarts.backend.impls packages. For the text wrapper, which we are
+discussing here, the class is called sdarts.backend.impls.text.TextBackEndLSP.
+
+Both sub-types also required the same XML configuration file, 
+named "doc_config.xml".  You can see samples of these in the various 
+xml/samples subdirectories. For each text-wrapped back-end, there must be a
+doc_config.xml file in the config sub-directory named for the back-end,
+as we described above.
+
+Within each doc_config.xml file, we are telling SDARTS:
+	1. Where to find the DTD for the doc_config.xml document
+	(rarely changes)
+
+	2. Whether or not to re-index the collection each time the
+	SDARTS server comes up.
+
+	3. Where to look for documents in the collection (only portion
+	from the sample files that requires editing, if you wish
+	to mount the same collection the sample file describes.)
+
+	4. What the "linkage-prefix" is for the collection, which
+	is a way that the STARTS protocol uses to tell users how
+	to access the collection directly to retrieve documents.
+
+	5. What are the stop-words (common words that don't go into
+	the index like "a", "the", etc.)
+
+	6. What fields will be searchable, and where can their contents
+	be found in each document.
+
+	7. What kinds of date formats might be expected in fields that
+	are dates.
+
+As in the last section, we will address each of these items by looking
+at a sample doc_config.xml file. 
+
+First there is the standard XML header:
+<?xml version="1.0" encoding="UTF-8"?>
+
+Next comes the DOCTYPE tag, which validating XML parsers use to validate
+the file. It contains the URL for the text_config DTD. This corresponds
+to item 1 in the above checklist. You probably don't need to ever change
+this: the text_config.dtd will probably not move once SDARTS is
+released.
+<!DOCTYPE text-config SYSTEM "http: . . . . doc_config.dtd">
+
+Here is the root element, <doc-config>. The first attribute, re-index, is
+very important. If it is set to "true", then every time the SDARTS
+server comes up, it will rebuild the index, meta-attributes, and
+content-summary files. The server will not overwrite the meta-
+attributes file if it is already present - in case you have edited
+this yourself. If "re-index" is false, the server will not do this,
+meaning either that you are happy with the index, or you have run
+some offline indexing script (for text-wrapped collections, this
+is the textsetup.sh script, which we describe later in this section.)
+This all corresponds to item 2 in our list.
+The second attribute specifies whether the path specified in the
+<path> tag (see below) is recursive, with all subdirectories being
+traversed, or not. It is an optional attribute with a default value
+of "true".
+
+<doc-config re-index="false" is-recursive="true" is-XML="false">
+
+Next comes the <path> tag, which tells SDARTS where to look for documents.
+It should be a directory. If you have documents in more than one directory, 
+you can have more than one <path> tag. This is part of item 3.
+This path is recursive, traversing all subdirectories, if the
+"is-recursive" attribute above is "true".
+
+	<path>/home/dli2test/collections/20groups</path>
+
+If you want to specify specific extensions for filenames
+use an extension tag. You can have more than one of these as well.
+If no extension tag is used, all documents in all <path> directories
+are indexed. Extensions should begin with a .
+	<extension>.txt</extension>
+
+Item 4: This tells SDARTS what to return for "linkage" in the
+STARTS responses that have the linkage header. Linkage
+is a way of telling users how to access the collection
+directly, i.e. via a web server, to retrieve a document
+
+	<linkage-prefix>http://localhost/20groups</linkage-prefix>
+
+Linkage type is an optional tag. We do not use it in this
+file. See the STARTS spec for information about linkage-type
+<!-- linkage-type --><!-- /linkage-type -->
+
+Language is also optional. We do not use it. This means
+what human language the collection is in.
+<!-- language --><!-- /language -->
+
+Item 5: a list of stop-words for the collection. This is optional,
+though some wrappers have a default set of stop-words.
+	<stop-words>
+		<word>the</word>
+		<word>and</word>
+		<word>it</word>
+		<word>a</word>
+	</stop-words>
+
+
+Item 6: You must provide multiple field descriptors, one for each field
+you are planning on indexing and being able to search on later. You
+must describe the field name, where the field starts in a text document,
+and where it ends. You can see in the example below how this is done -
+the start and end points are described with regular expressions:
+
+	<field-descriptor name="author" skip-start="true" skip-end="true">
+		<start>
+			<regexp>^From: </regexp>
+		</start>
+		<end>
+			<regexp>$</regexp>
+		</end>
+	</field-descriptor>
+
+This says that the "author" field begins at the first place where a 
+line begins with the phrase "From: ". The field ends at the end of
+that same line. Field descriptors will find one and only one match - the
+first one they can. The "skip-start"/"skip-end" attributes merely tell
+the descriptor whether the actual text found in the regular expression
+should be left out of the field or not. So if you had in a document
+the phrase:
+
+From: njgreen@interport.net
+
+If "skip-start" were false, the "author" would be 
+"From: njgreen@interport.net". If it were true, it would just be
+"njgreen@interport.net". Usually, it's a good idea to leave both of these
+attributes "true". They are really there just for that extra flexibility.
+They are also optional, can be left out, and are defaulted at true.
+
+The field names in the field descriptors must be legal STARTS field
+names. See the doc_config.dtd for all legal field names. You cannot have
+more than one field descriptor with the same name. 
+
+Note also that the default behavior of the "doc" wrappers is as follows,
+if you leave certain fields unspecified:
+
+	body-of-text: the whole document is included
+	date-last-modified: gets date last modified from file
+	linkage: filename
+	title: filename
+
+Finally, you have option of specifying how date formats ought to
+be parsed. These currently apply only to the date-last-modified
+field. The <date-formats> tag comes after the field descriptor,
+and looks like this:
+
+<date-formats>
+	<simple-date-format>EEE, dd MMM yy hh:mm:ss z</simple-date-format>
+	<simple-date-format>EEE, dd MMM yyyy hh:mm:ss</simple-date-format>
+	<simple-date-format>dd MMM yy hh:mm:ss z</simple-date-format>
+	<simple-date-format>dd MMM yy</simple-date-format>
+	<simple-date-format>dd MMM yyyy</simple-date-format>
+</date-formats>
+
+The cryptic letters inside the <simple-date-format> tags are actually
+the formatting string used to specify date formats in the standard
+Java class:  java.text.SimpleDateFormat. Read the Sun Javadoc on this
+class to learn more about the format. What SDARTS does when it parses
+a date field in the document is to try applying each of these formats
+to the text it extracts, in order. That is, it tries the first
+<simple-date-format>, the second, and so on. If none of these formats
+work, an exception is thrown during the indexing process. You can
+sort of see by looking at these that each one contains a little less
+information than the previous. In other words, SDARTS tries to get
+the most it can, then less, then so on. It is up to you how to write
+date formats. It really depends on what the typical date format in
+a collection you are indexing is.
+
+As we said before, if the "re-index" attribute of <text-config> is
+true, SDARTS will create an index, a meta-attributes file, and content-
+summary file for the collection each time the server is activated. This
+can be time-consuming, so it is best to leave this false and use an
+off-line indexing script. 
+
+Before discussing this script, let us just briefly describe what gets
+produced when indexing occurs. Currently, there is only one implemented
+wrapper: "doc", which has the subtypes "text" and "xml".  When it indexes, 
+the following files are produced in the /config sub-directory named after 
+<back-end-lsp>...<name> from the sdarts_config.xml file:
+
+	/index - a directory containing Lucene-specific index files
+
+	meta-attributes.xml - a STARTS XML file of type 
+	<smeta-attributes>. See the STARTS specification, and the 
+	SDARTS design document, for more details.
+
+	content-summary.xml a STARTS XML file of type 
+	<scontent-summary>. See the STARTS specification, and the 
+	SDARTS design document, for more details.
+
+NOTE: if the Lucene indexing is done by the SDARTS server upon activation,
+it WILL NOT OVERWRITE an existing meta-attributes.xml file. This allows
+the user to potentially edit it by hand, if necessary. It will only
+generate the file if it is not there. The default behavior of the 
+lucenesetup.sh script (described below) is also to not overwrite the
+meta-attributes.xml file. The only way to overwrite this file is either
+to delete it and re-index, or to explicitly overwrite it using one of
+the command-line options of the script.
+
+Speaking of the script, here it is. This allows you to perform offline
+re-indexing of a Lucene-wrapped text collection. Run this script only from
+the directory of an installed SDARTS server. Here is the usage string
+from the script:
+
+ Usage: textsetup.sh -name <name_of_LSP>
+                    [-sdurl, -starts-dtd-url <url>]
+                    [-o, -overwrite-meta-attributes]
+
+ Where <name_of_LSP> is the name under which the LSP is registered.
+	The name must be listed in the sdarts_config.xml file.
+ -sdurl or -starts-dtd-url is the optional URL of the STARTS DTD
+     (default is http://www.cs.columbia.edu/~dli2test/dtd/starts.dtd
+ -o or -overwrite-meta-attributes, if present, will cause the
+     script to overwrite the meta-attributes file (default false,
+     in case you wish to edit it by hand.)
+
+The "2ogroups" subdirectory of config/ is an example of a "text"
+wrapper.

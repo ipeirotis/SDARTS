@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Edit the above DOCTYPE tag if the URL for the sdarts_config.dtd -->
+<!-- should ever change.                                             -->
+<sdarts-config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sdarts.cs.columbia.edu/xsd/sdarts_config.xsd">
+	<!-- -->
+	<!-- Change this tag if the sdlip.dtd URL should ever change -->
+	<sdlip-dtd-url>http://sdarts.cs.columbia.edu/dtd/sdlip2.dtd</sdlip-dtd-url>
+	<!-- -->
+	<!-- Change this tag if the sdarts.dtd URL should ever change -->
+	<!--starts-dtd-url>http://sdarts.cs.columbia.edu/dtd/starts.dtd</starts-dtd-url-->
+	<starts-dtd-url>http://sdarts.cs.columbia.edu/xsd/starts.xsd</starts-dtd-url>
+	<!-- -->
+	<!-- -->
+	<!-- Below we have a list of the three types of SDARTS wrappers -->
+	<!-- A wrapper for text files, named 20groups -->
+	<!-- A wrapper for XML files, named aides -->
+	<!-- A wrapper for a web site, namely the PubMed medical database -->
+	<!-- -->
+	<!-- All the entries are commented out at this point initially -->
+	<!-- Please download the test collections from the SDARTS web site-->
+	<!-- at http://sdarts.cs.columbia.edu/ and follow the instructions -->
+	<!-- to configure the SDARTS server. -->
+	<back-end-lsp>
+		<!-- The "classname" entry tells SDARTS which wrapper to use -->
+		<!-- sdarts.backend.impls.xml.XMLBackEndLSP is used for the XML collections -->
+		<classname>edu.columbia.cs.sdarts.backend.impls.xml.XMLBackEndLSP</classname>
+		<!-- The name that the subcollection will be known by -->
+		<name>aides</name>
+		<!-- The description of the subcollection -->
+		<description>Aides Medical Collection</description>
+		<!-- The query language(s) supported by this subcollection -->
+		<!-- You can have more than one of these if you want -->
+		<!-- Usually this is only starts -->
+		<query-language>starts</query-language>
+	</back-end-lsp>
+	<back-end-lsp>
+		<!-- The "classname" entry tells SDARTS which wrapper to use -->
+		<!-- sdarts.backend.impls.text.TextBackEndLSP is used for the text collections -->
+		<classname>edu.columbia.cs.sdarts.backend.impls.text.TextBackEndLSP</classname>
+		<!-- The name that the subcollection will be known by -->
+		<name>20groups</name>
+		<!-- The description of the subcollection -->
+		<description>20 newsgroups from 1993</description>
+		<!-- The query language(s) supported by this subcollection -->
+		<!-- You can have more than one of these if you want -->
+		<!-- Usually this is only starts -->
+		<query-language>starts</query-language>
+	</back-end-lsp>
+	<back-end-lsp>
+		<!-- The "classname" entry tells SDARTS which wrapper to use -->
+		<!-- sdarts.backend.www.WWWBackEndLSP is used for the web-accessible collections -->
+		<classname>edu.columbia.cs.sdarts.backend.www.WWWBackEndLSP</classname>
+		<!-- The name that the subcollection will be known by -->
+		<name>pubmed</name>
+		<!-- The description of the subcollection -->
+		<description>PubMed Publications</description>
+		<!-- The query language(s) supported by this subcollection -->
+		<!-- You can have more than one of these if you want -->
+		<!-- Usually this is only starts -->
+		<query-language>starts</query-language>
+	</back-end-lsp>
+	<back-end-lsp>
+		<!-- The sdarts.backend.BackEndLSP subclass used in the wrapper -->
+		<!-- Right now, this is the LuceneBackEndLSP implementation -->
+		<classname>edu.columbia.cs.sdarts.backend.www.WWWBackEndLSP</classname>
+		<!-- The name that the subcollection will be known by -->
+		<name>noah</name>
+		<!-- The description of the subcollection -->
+		<description>NOAH: New York Online Access to Health</description>
+		<!-- The query language(s) supported by this subcollection -->
+		<!-- You can have more than one of these if you want -->
+		<!-- DO NOT USE THE NAMESPACE-QUALIFIED FORM YOU SEE IN SDLIP -->
+		<!-- A BUG IN SDLIP TRANSPORT LAYER MESSES THIS UP. -->
+		<!-- Usually this is only starts -->
+		<query-language>starts</query-language>
+	</back-end-lsp>
+	<back-end-lsp>
+		<!-- The sdarts.backend.BackEndLSP subclass used in the wrapper -->
+		<!-- Right now, this is the LuceneBackEndLSP implementation -->
+		<classname>edu.columbia.cs.sdarts.backend.www.WWWBackEndLSP</classname>
+		<!-- The name that the subcollection will be known by -->
+		<name>harrisons</name>
+		<!-- The description of the subcollection -->
+		<description>Harrisons Online</description>
+		<!-- The query language(s) supported by this subcollection -->
+		<!-- You can have more than one of these if you want -->
+		<!-- DO NOT USE THE NAMESPACE-QUALIFIED FORM YOU SEE IN SDLIP -->
+		<!-- A BUG IN SDLIP TRANSPORT LAYER MESSES THIS UP. -->
+		<!-- Usually this is only starts -->
+		<query-language>starts</query-language>
+	</back-end-lsp>
+	<back-end-lsp>
+		<!-- The sdarts.backend.BackEndLSP subclass used in the wrapper -->
+		<!-- Right now, this is the LuceneBackEndLSP implementation -->
+		<classname>edu.columbia.cs.sdarts.backend.www.WWWBackEndLSP</classname>
+		<!-- The name that the subcollection will be known by -->
+		<name>cardio</name>
+		<!-- The description of the subcollection -->
+		<description>Cardiovascular Institute of the South</description>
+		<!-- The query language(s) supported by this subcollection -->
+		<!-- You can have more than one of these if you want -->
+		<!-- DO NOT USE THE NAMESPACE-QUALIFIED FORM YOU SEE IN SDLIP -->
+		<!-- A BUG IN SDLIP TRANSPORT LAYER MESSES THIS UP. -->
+		<!-- Usually this is only starts -->
+		<query-language>starts</query-language>
+	</back-end-lsp>
+	<!--  <back-end-lsp> -->
+	<!-- The sdarts.backend.BackEndLSP subclass used in the wrapper -->
+	<!-- Right now, this is the LuceneBackEndLSP implementation -->
+	<!--    <classname>edu.columbia.cs.sdarts.backend.www.WWWBackEndLSP</classname> -->
+	<!-- The name that the subcollection will be known by -->
+	<!--    <name>cardio</name> -->
+	<!-- The description of the subcollection -->
+	<!--    <description>Cardiovascular Institute of the South</description> -->
+	<!-- The query language(s) supported by this subcollection -->
+	<!-- You can have more than one of these if you want -->
+	<!-- DO NOT USE THE NAMESPACE-QUALIFIED FORM YOU SEE IN SDLIP -->
+	<!-- A BUG IN SDLIP TRANSPORT LAYER MESSES THIS UP. -->
+	<!-- Usually this is only starts -->
+	<!--    <query-language>starts</query-language> -->
+	<!--  </back-end-lsp> -->
+	<!--  <back-end-lsp> -->
+	<!-- The sdarts.backend.BackEndLSP subclass used in the wrapper -->
+	<!-- Right now, this is the LuceneBackEndLSP implementation -->
+	<!--    <classname>edu.columbia.cs.sdarts.backend.www.WWWBackEndLSP</classname> -->
+	<!-- The name that the subcollection will be known by -->
+	<!--    <name>noah</name> -->
+	<!-- The description of the subcollection -->
+	<!--    <description>NOAH: New York Online Access to Health</description> -->
+	<!-- The query language(s) supported by this subcollection -->
+	<!-- You can have more than one of these if you want -->
+	<!-- DO NOT USE THE NAMESPACE-QUALIFIED FORM YOU SEE IN SDLIP -->
+	<!-- A BUG IN SDLIP TRANSPORT LAYER MESSES THIS UP. -->
+	<!-- Usually this is only starts -->
+	<!--    <query-language>starts</query-language> -->
+	<!--  </back-end-lsp> -->
+	<!--  <back-end-lsp> -->
+	<!-- The sdarts.backend.BackEndLSP subclass used in the wrapper -->
+	<!-- Right now, this is the LuceneBackEndLSP implementation -->
+	<!--    <classname>edu.columbia.cs.sdarts.backend.www.WWWBackEndLSP</classname> -->
+	<!-- The name that the subcollection will be known by -->
+	<!--    <name>harrisons</name> -->
+	<!-- The description of the subcollection -->
+	<!--    <description>Harrisons Online</description> -->
+	<!-- The query language(s) supported by this subcollection -->
+	<!-- You can have more than one of these if you want -->
+	<!-- DO NOT USE THE NAMESPACE-QUALIFIED FORM YOU SEE IN SDLIP -->
+	<!-- A BUG IN SDLIP TRANSPORT LAYER MESSES THIS UP. -->
+	<!-- Usually this is only starts -->
+	<!--    <query-language>starts</query-language> -->
+	<!--  </back-end-lsp> -->
+	<!-- Put more back-end-lsp tags here if you have more subcollections -->
+	<!-- Just copy'n'paste one of the tags above, according to your collection type -->
+	<!-- and modify the entries accordingly -->
+</sdarts-config>

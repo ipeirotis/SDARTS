@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE starts:squery SYSTEM "http://www.cs.columbia.edu/~dli2test/dtd/starts.dtd">
+<!-- We search all 3 sample collections. The word "size" definitely appears in all three -->
+<starts:squery>
+	<starts:filter>
+			<starts:term>
+				<starts:field name="body-of-text"/>
+				<starts:value>brain</starts:value>
+			</starts:term>
+	</starts:filter>
+	<starts:source>pubmed</starts:source>
+	<starts:answer-fields>
+		<starts:field name="title"/>
+		<starts:field name="linkage"/>
+	</starts:answer-fields>
+	<starts:sort-by-fields>
+		<starts:score/>
+	</starts:sort-by-fields>
+</starts:squery>
+

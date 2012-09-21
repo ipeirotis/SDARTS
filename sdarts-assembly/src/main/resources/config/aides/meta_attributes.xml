@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<starts:smeta-attributes xmlns:starts="http://sdarts.cs.columbia.edu/STARTS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://sdarts.cs.columbia.edu/STARTS/ http://sdarts.cs.columbia.edu/xsd/starts.xsd" version="Starts 1.0">
+	<starts:source>aides</starts:source>
+	<starts:fields-supported>
+		<starts:field type-set="basic1" name="title"/>
+		<starts:field type-set="basic1" name="author"/>
+		<starts:field type-set="basic1" name="body-of-text"/>
+		<starts:field type-set="basic1" name="any"/>
+	</starts:fields-supported>
+	<starts:modifiers-supported>
+		<starts:modifier type-set="basic1" name="lt"/>
+		<starts:modifier type-set="basic1" name="gt"/>
+		<starts:modifier type-set="basic1" name="eq"/>
+		<starts:modifier type-set="basic1" name="ne"/>
+	</starts:modifiers-supported>
+	<starts:field-modifier-combinations>
+		<starts:field type-set="basic1" name="date-last-modified"/>
+		<starts:modifier type-set="basic1" name="lt"/>
+		<starts:field type-set="basic1" name="date-last-modified"/>
+		<starts:modifier type-set="basic1" name="gt"/>
+		<starts:field type-set="basic1" name="date-last-modified"/>
+		<starts:modifier type-set="basic1" name="eq"/>
+		<starts:field type-set="basic1" name="date-last-modified"/>
+		<starts:modifier type-set="basic1" name="ne"/>
+	</starts:field-modifier-combinations>
+	<starts:query-parts-supported parts="RF"/>
+	<starts:score-range lower="0.0" upper="1.0"/>
+	<starts:ranking-algorithm-id>Lucene</starts:ranking-algorithm-id>
+	<starts:tokenizer-id-list>
+		<starts:tokenizer>com.lucene.analysis.LowerCaseTokenizer</starts:tokenizer>
+	</starts:tokenizer-id-list>
+	<starts:sample-database-results>http://sdarts.cs.columbia.edu/collections/aides/sample.xml</starts:sample-database-results>
+	<starts:stop-word-list>
+		<starts:word>the</starts:word>
+		<starts:word>and</starts:word>
+		<starts:word>it</starts:word>
+		<starts:word>a</starts:word>
+	</starts:stop-word-list>
+	<starts:turnoff-stop-words value="false"/>
+	<starts:meta-attribute-set type-set="mbasic1">
+		<starts:class>null</starts:class>
+		<starts:linkage>http://sdarts.cs.columbia.edu/collections/aides</starts:linkage>
+		<starts:content-summary-linkage>http://sdarts.cs.columbia.edu/content-summaries/aides.xml</starts:content-summary-linkage>
+		<starts:source-language>english</starts:source-language>
+		<starts:source-name>aides</starts:source-name>
+		<starts:date-changed>2003-10-03 11:07:06 EDT</starts:date-changed>
+		<starts:abstract>Aides Medical Collection</starts:abstract>
+	</starts:meta-attribute-set>
+</starts:smeta-attributes>

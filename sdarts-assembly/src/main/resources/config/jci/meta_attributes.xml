@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--!DOCTYPE starts:smeta-attributes SYSTEM "http://sdarts.cs.columbia.edu/dtd/starts.dtd"-->
+<starts:smeta-attributes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:starts="http://sdarts.cs.columbia.edu/STARTS/" xsi:schemaLocation="http://sdarts.cs.columbia.edu/STARTS/ http://sdarts.cs.columbia.edu/xsd/starts.xsd" version="Starts 1.0">
+	<starts:source>jci</starts:source>
+	<starts:fields-supported>
+		<starts:field name="body-of-text"/>
+		<starts:field name="author"/>
+		<starts:field name="any"/>
+		<starts:field name="free-form-text"/>
+		<starts:field name="mesh-with-subheading"/>
+		<starts:field name="mesh-term"/>
+		<starts:field name="title"/>
+		<starts:field name="title-abstract"/>
+		<starts:field name="journal-title"/>
+		<starts:field name="publication-type"/>
+		<starts:field name="mesh-major-topic"/>
+		<starts:field name="mesh-subheading"/>
+	</starts:fields-supported>
+	<starts:modifiers-supported/>
+	<starts:query-parts-supported parts="F"/>
+	<starts:score-range lower="0" upper="1"/>
+	<starts:ranking-algorithm-id>entrez</starts:ranking-algorithm-id>
+	<starts:turnoff-stop-words value="false"/>
+	<starts:meta-attribute-set>
+		<starts:linkage>http://www.ncbi.nlm.nih.gov</starts:linkage>
+		<starts:content-summary-linkage>NULL</starts:content-summary-linkage>
+	</starts:meta-attribute-set>
+</starts:smeta-attributes>

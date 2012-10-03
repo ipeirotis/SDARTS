@@ -80,6 +80,7 @@ To use the SDARTS API, developers can either:
 
 -----
 
+# Publications and Presentations
 
 ## Publications
 

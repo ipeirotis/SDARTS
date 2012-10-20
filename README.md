@@ -14,7 +14,7 @@ SDARTS is a hybrid of two previously existing protocols, [STARTS](http://www-db.
 
 The SDARTS toolkit provides ready-to-use, configurable wrappers. They can be used directly for wrapping locally available  text and XML collections, and for wrapping web-accessible databases.
 
-The SDARTS toolkit also contains two optional sets of applications: The [OAI SDARTS Cooperative Suite](http://sdarts.cs.columbia.edu/documentation/oai-sdarts.html), which can makes SDARTS OAI-compliant and enables SDARTS to access OAI-compliant collections. We provide the [SDARTS Automatic Content Summary Extraction](http://sdarts.cs.columbia.edu/documentation/sdarts-cse.html) for remote web databases, which extracts statistics about the vocabulary and the word frequencies of web databases over which SDARTS does not have immediate access.
+The SDARTS toolkit also contains two optional sets of applications: The [OAI SDARTS Cooperative Suite](https://github.com/ipeirotis/SDARTS/blob/master/documentation/oai-sdarts/oai-sdarts.md), which can makes SDARTS OAI-compliant and enables SDARTS to access OAI-compliant collections. We provide the [SDARTS Automatic Content Summary Extraction](https://github.com/ipeirotis/SDARTS/blob/master/documentation/sdarts-cse/sdarts-cse.md) for remote web databases, which extracts statistics about the vocabulary and the word frequencies of web databases over which SDARTS does not have immediate access.
 
 -----
 
@@ -23,24 +23,24 @@ The SDARTS toolkit also contains two optional sets of applications: The [OAI SDA
 
 ## Installation Instructions
 
-* [SDARTS Server](http://sdarts.cs.columbia.edu/documentation/sdarts-server.html)
-* [SDARTS Web Client](http://sdarts.cs.columbia.edu/documentation/sdarts-webclient.html)
-* [DBSelection module](http://sdarts.cs.columbia.edu/documentation/sdarts-webclient-dbsel.html)
-* [SDARTS Automatic Content Summary Extraction](http://sdarts.cs.columbia.edu/documentation/sdarts-cse.html)
-* [SDARTS Web Client (with Collection Selection)](http://sdarts.cs.columbia.edu/documentation/oai-sdarts.html)
-* [OAI-SDARTS Suite]
+ * [SDARTS Server](https://github.com/ipeirotis/SDARTS/blob/master/documentation/sdarts-server/sdarts-server.md)
+ * [SDARTS Web Client](https://github.com/ipeirotis/SDARTS/blob/master/documentation/sdarts-webclient/sdarts-webclient.md)
+ * [SDARTS Web Client (with Collection Selection)](https://github.com/ipeirotis/SDARTS/blob/master/documentation/sdarts-webclient-dbsel/sdarts-webclient-dbsel.md)
+ * [DBSelection module](https://github.com/ipeirotis/SDARTS/blob/master/documentation/dbselection/dbselection.md)
+ * [SDARTS Automatic Content Summary Extraction](https://github.com/ipeirotis/SDARTS/blob/master/documentation/sdarts-cse/sdarts-cse.md)
+ * [OAI-SDARTS Suite](https://github.com/ipeirotis/SDARTS/blob/master/documentation/oai-sdarts/oai-sdarts.md)
 
-## Source code documentation
+Source code documentation
 
-* [SDARTS documentation (in javadoc format)](http://sdarts.cs.columbia.edu/javadocs/index.html)
+ * [SDARTS documentation (in javadoc format)](http://sdarts.cs.columbia.edu/javadocs/index.html)
 
-## Wrapper Configuration
+Wrapper Configuration
 
 SDARTS supports three types of collections: text "doc" wrapper, xml "doc" wrapper, and "www" wrapper, which is for local plain text documents, local xml documents and remote web-based collections fronted by CGI-based search engine, respectively.
 
-* [Local Text Collections](http://sdarts.cs.columbia.edu/documentation/wrapper_text.html)
-* [Local XML Collections](http://sdarts.cs.columbia.edu/documentation/wrapper_xml.html)
-* [Remote Web Collections](http://sdarts.cs.columbia.edu/documentation/wrapper_www.html)
+ * [Local Text Collections](https://github.com/ipeirotis/SDARTS/blob/master/documentation/wrapper_text/wrapper_text.md)
+ * [Local XML Collections](https://github.com/ipeirotis/SDARTS/blob/master/documentation/wrapper_xml/wrapper_xml.md)
+ * [Remote Web Collections](https://github.com/ipeirotis/SDARTS/blob/master/documentation/wrapper_www/wrapper_www.md)
 
 -----
 
@@ -48,23 +48,23 @@ SDARTS supports three types of collections: text "doc" wrapper, xml "doc" wrappe
 
 ## SDARTS Server Executables and Source
 
-* [SDARTS Server 3.0](http://sdarts.cs.columbia.edu/download/sdarts.zip) (last updated on: Apr 2004)
-* [SDARTS SOAP API](http://sdarts.cs.columbia.edu/soapsdarts_server.zip) (last updated on: Apr 2004)
+* [SDARTS Server 3.0](https://github.com/downloads/ipeirotis/SDARTS/sdarts.zip) (last updated on: Apr 2004)
+* [SDARTS SOAP API](https://github.com/downloads/ipeirotis/SDARTS/soapsdarts_server.zip) (last updated on: Apr 2004)
 * Optional Component:
-    * [OAI Harvester 2.0 for SDARTS](http://sdarts.cs.columbia.edu/download/oaistart.zip) (last updated on: May 2003)
-    * [SDARTS Indexer and Database Selection](http://sdarts.cs.columbia.edu/download/sdartsindex.zip) (last updated on: May 2004)
+    * [OAI Harvester 2.0 for SDARTS](https://github.com/downloads/ipeirotis/SDARTS/oaistart.zip) (last updated on: May 2003)
+    * [SDARTS Indexer and Database Selection](https://github.com/downloads/ipeirotis/SDARTS/sdartsindex.zip) (last updated on: May 2004)
 
 ## SDARTS Clients Executables and Source
 
-* [SDARTS Web Client 3.0](http://sdarts.cs.columbia.edu/download/sdartsclient.zip) (last updated on: April 2004)
-* [SOAP API client Java classes](http://sdarts.cs.columbia.edu/download/sdartsclient.zip) (last updated on: April 2004)
+* [SDARTS Web Client 3.0](https://github.com/downloads/ipeirotis/SDARTS/sdartsclient.zip) (last updated on: April 2004)
+* [SOAP API client Java classes](https://github.com/downloads/ipeirotis/SDARTS/soapsdarts_client.zip) (last updated on: April 2004)
 
 ## Sample Local Document Collections
 
 (Note: These are the document collections themselves; the wrapping files are in the distribution)
 
-* 20groups [(.tar.gz)](http://sdarts.cs.columbia.edu/download/collections/20groups.tar.gz) [(.zip)](http://sdarts.cs.columbia.edu/download/collections/20groups.zip) (2,000 newsgroup articles; free text with structured headers)
-* Aides [(.tar.gz)](http://sdarts.cs.columbia.edu/download/collections/aides.tar.gz) [(.zip)](http://sdarts.cs.columbia.edu/download/collections/aides.zip) (66 XML documents)
+* 20groups [(.tar.gz)](https://github.com/downloads/ipeirotis/SDARTS/20groups.tar.gz) [(.zip)](https://github.com/downloads/ipeirotis/SDARTS/20groups.zip) (2,000 newsgroup articles; free text with structured headers)
+* Aides [(.tar.gz)](https://github.com/downloads/ipeirotis/SDARTS/aides.tar.gz) [(.zip)](https://github.com/downloads/ipeirotis/SDARTS/aides.zip) (66 XML documents)
 
 -----
 

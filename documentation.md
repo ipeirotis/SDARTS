@@ -10,23 +10,23 @@
 Installation Instructions
 
  * [SDARTS Server](https://github.com/ipeirotis/SDARTS/edit/master/SDARTS_Server.md)
- * SDARTS Web Client
- * SDARTS Web Client (with Collection Selection)
- * DBSelection module
- * SDARTS Automatic Content Summary Extraction
- * OAI-SDARTS Suite
+ * [SDARTS Web Client](https://github.com/ipeirotis/SDARTS/edit/master/SDARTS_Web.md)
+ * [SDARTS Web Client (with Collection Selection)](https://github.com/ipeirotis/SDARTS/edit/master/SDARTS_Web_Col.md)
+ * [DBSelection module](https://github.com/ipeirotis/SDARTS/edit/master/DBSelection.md)
+ * [SDARTS Automatic Content Summary Extraction](https://github.com/ipeirotis/SDARTS/edit/master/SDARTS_Auto.md)
+ * [OAI-SDARTS Suite](https://github.com/ipeirotis/SDARTS/edit/master/OAI_SDARTS.md)
 
 Source code documentation
 
- * SDARTS documentation (in javadoc format)
+ * [SDARTS documentation (in javadoc format)](http://sdarts.cs.columbia.edu/javadocs/index.html)
 
 Wrapper Configuration
 
 SDARTS supports three types of collections: text "doc" wrapper, xml "doc" wrapper, and "www" wrapper, which is for local plain text documents, local xml documents and remote web-based collections fronted by CGI-based search engine, respectively.
 
- * Local Text Collections
- * Local XML Collections
- * Remote Web Collections
+ * [Local Text Collections](https://github.com/ipeirotis/SDARTS/edit/master/LocalText.md)
+ * [Local XML Collections](https://github.com/ipeirotis/SDARTS/edit/master/LoaclXML.md)
+ * [Remote Web Collections](https://github.com/ipeirotis/SDARTS/edit/master/RemoteWeb.md)
 
 ***
 

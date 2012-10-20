@@ -18,7 +18,7 @@ To install the sdarts server, copy sdarts-server.tar.gz to the destination direc
    PS: If you want to run the server on the background, use "javaw" instead of "java"
 
  * The server at this point has the no subcollections, but with the following subcollections included in the configuration file but commentted out.
-     aides
+    * aides
      20groups
      pubmed
      cardio

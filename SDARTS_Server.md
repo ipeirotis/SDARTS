@@ -24,7 +24,11 @@ To install the sdarts server, copy sdarts-server.tar.gz to the destination direc
     * cardio
     * noah
     * harrisons
+<<<<<<< HEAD
 	
+=======
+
+>>>>>>> a0afc2c325c0bddbe3e97423225c6a75bff0e299
 3. TESTING SDARTS SERVER USING TESTCLIENT
 
 To check that your server is running, you can use our web-accessible SDARTS client at

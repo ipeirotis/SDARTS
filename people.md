@@ -8,16 +8,12 @@
 
 * * *
 
-* [Jiangcheng Bao](mailto:jb605@cs.columbia.edu)
-* [Tom Barry](mailto:tjbarry@earthlink.net)
-* [Alexander Besidski](mailto:ab2012@columbia.edu)
-* [Yan Besidski](mailto:yb2005@columbia.edu)
-* [Luis Gravano](mailto:gravano@cs.columbia.edu)
-* [Noah Green](mailto:ngreen@cs.columbia.edu)
-* [Panagiotis G. Ipeirotis (contact)](mailto:pirot@cs.columbia.edu)
-* [Boyle M Lee](mailto:bml13@columbia.edu)
-* [Mike Medric](mailto:mfm18@columbia.edu)
-* [Sergey Sigelman](mailto:ss1792@cs.columbia.edu)
+SDARTS is a protocol for metasearching over document collections. You may consider using SDARTS if:
+
+You want to search (one or multiple) text or XML collections that you have from a single search interface.
+You want to search remote document collections that export their metadata under the Open Archives protocol.
+You want to search multiple web-based document collections from one, single search interface.
+SDARTS is available for use and we expand its capabilities continuously! A small-scale deployment is already in place and can be accessed through a web client.
 
 * * *
-Last updated: 12/12/2003
+Last updated: 04/14/2004

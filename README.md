@@ -76,7 +76,7 @@ To use the SDARTS API, developers can either:
 
 * Download the [WSDL](http://sdarts.cs.columbia.edu:8080/axis/services/SdartsSearchService?wsdl) description of the service (and use for example [SOAP::Lite](http://www.soaplite.com/) for Perl, or Visual Studio .NET, or any other language that supports web services), or
 
-* Download the necessary proxy files for Java from the "[Download](http://sdarts.cs.columbia.edu/download.html)" section.
+* Download the necessary proxy files for Java from the "[Download](https://github.com/ipeirotis/SDARTS/blob/master/download.md)" section.
 
 -----
 
@@ -96,10 +96,10 @@ To use the SDARTS API, developers can either:
 
 ## Presentations
 
-* [Distributed Search over the Hidden WebHierarchical Database Sampling and Selection (.ppt)](http://sdarts.cs.columbia.edu/publications/sdarts-vldb2002.ppt) (VLDB 2002)
-* [Extending SDARTS: Extracting Metadata from Web Databasesnd Interfacing with Open Archives Initiative (.ppt)](http://sdarts.cs.columbia.edu/publications/sdarts-jcdl2002.ppt) (JCDL 2002)
-* [SDLIP + STARTS = SDARTS: Protocol and Toolkit for Metasearching (.ppt)](http://sdarts.cs.columbia.edu/publications/sdarts-jcdl2001.ppt) (JCDL 2001)
-* [SDARTS - A Metasearching Protocol and Architecture for Digital Libraries (.ppt)](http://sdarts.cs.columbia.edu/publications/sdarts-dli2meeting.ppt) (internal DLI2-PERSIVAL meeting at Columbia)
+* [Distributed Search over the Hidden WebHierarchical Database Sampling and Selection (.ppt)](https://github.com/downloads/ipeirotis/SDARTS/sdarts-vldb2002.ppt) (VLDB 2002)
+* [Extending SDARTS: Extracting Metadata from Web Databasesnd Interfacing with Open Archives Initiative (.ppt)](https://github.com/downloads/ipeirotis/SDARTS/sdarts-jcdl2002.ppt) (JCDL 2002)
+* [SDLIP + STARTS = SDARTS: Protocol and Toolkit for Metasearching (.ppt)](https://github.com/downloads/ipeirotis/SDARTS/sdarts-jcdl2001.ppt) (JCDL 2001)
+* [SDARTS - A Metasearching Protocol and Architecture for Digital Libraries (.ppt)](https://github.com/downloads/ipeirotis/SDARTS/sdarts-dli2meeting.ppt) (internal DLI2-PERSIVAL meeting at Columbia)
 
 
 

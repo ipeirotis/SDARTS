@@ -9,7 +9,7 @@
 * * *
 Installation Instructions
 
- * SDARTS Server
+ * [SDARTS Server](https://github.com/ipeirotis/SDARTS/edit/master/SDARTS_Server.md)
  * SDARTS Web Client
  * SDARTS Web Client (with Collection Selection)
  * DBSelection module

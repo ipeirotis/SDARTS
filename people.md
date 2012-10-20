@@ -8,16 +8,16 @@
 
 * * *
 
- * Jiangcheng Bao
- * Tom Barry
- * Alexander Besidski
- * Yan Besidski
- * Luis Gravano
- * Noah Green
- * Panagiotis G. Ipeirotis (contact)
- * Boyle M Lee
- * Mike Medric
- * Sergey Sigelman
+ * [Jiangcheng Bao](mailto:jb605@cs.columbia.edu)
+ * [Tom Barry](mailto:tjbarry@earthlink.net)
+ * [Alexander Besidski](mailto:ab2012@columbia.edu)
+ * [Yan Besidski](mailto:yb2005@columbia.edu)
+ * [Luis Gravano](mailto:gravano@cs.columbia.edu)
+ * [Noah Green](mailto:ngreen@cs.columbia.edu)
+ * [Panagiotis G. Ipeirotis (contact)](mailto:pirot@cs.columbia.edu)
+ * [Boyle M Lee](mailto:bml13@columbia.edu)
+ * [Mike Medric](mailto:mfm18@columbia.edu)
+ * [Sergey Sigelman](mailto:ss1792@cs.columbia.edu)
  
 * * *
 

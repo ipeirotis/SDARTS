@@ -4,7 +4,7 @@
 ->A Protocol and Toolkit for Metasearching<-
   ----------------------------------------
 
-->[Introduction](https://github.com/ipeirotis/SDARTS/edit/master/introduction.md) [Details](https://github.com/ipeirotis/SDARTS/edit/master/details.md) [SDARTS API](http://sdarts.cs.columbia.edu/sdartsapi.html) [Publications & Presentations](http://sdarts.cs.columbia.edu/publications.html) Download [Documentation](http://sdarts.cs.columbia.edu/documentation.html) [People](http://sdarts.cs.columbia.edu/people.html)<-
+->[Introduction](https://github.com/ipeirotis/SDARTS/edit/master/introduction.md) [Details](https://github.com/ipeirotis/SDARTS/blob/master/details.md) [SDARTS API](https://github.com/ipeirotis/SDARTS/blob/master/sdartsapi.md) [Publications & Presentations](https://github.com/ipeirotis/SDARTS/blob/master/publications.md) Download [Documentation](https://github.com/ipeirotis/SDARTS/blob/master/documentation.md) [People](https://github.com/ipeirotis/SDARTS/blob/master/people.md)<-
 
 * * *
 

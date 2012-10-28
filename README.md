@@ -32,7 +32,7 @@ The SDARTS toolkit also contains two optional sets of applications: The [OAI SDA
 
 Source code documentation
 
- * [SDARTS documentation (in javadoc format)](http://sdarts.cs.columbia.edu/javadocs/index.html)
+ * [SDARTS documentation (in javadoc format)](https://github.com/ipeirotis/SDARTS/tree/master/javadocs)
 
 Wrapper Configuration
 

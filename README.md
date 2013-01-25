@@ -96,10 +96,9 @@ To use the SDARTS API, developers can either:
 
 ## Presentations
 
-* [Distributed Search over the Hidden WebHierarchical Database Sampling and Selection (.ppt)](https://github.com/downloads/ipeirotis/SDARTS/sdarts-vldb2002.ppt) (VLDB 2002)
-* [Extending SDARTS: Extracting Metadata from Web Databasesnd Interfacing with Open Archives Initiative (.ppt)](https://github.com/downloads/ipeirotis/SDARTS/sdarts-jcdl2002.ppt) (JCDL 2002)
-* [SDLIP + STARTS = SDARTS: Protocol and Toolkit for Metasearching (.ppt)](https://github.com/downloads/ipeirotis/SDARTS/sdarts-jcdl2001.ppt) (JCDL 2001)
-* [SDARTS - A Metasearching Protocol and Architecture for Digital Libraries (.ppt)](https://github.com/downloads/ipeirotis/SDARTS/sdarts-dli2meeting.ppt) (internal DLI2-PERSIVAL meeting at Columbia)
+* [Distributed Search over the Hidden WebHierarchical Database Sampling and Selection (.ppt)](http://www.ipeirotis.com/wp-content/uploads/2012/12/vldb20021.ppt) (VLDB 2002)
+* [Extending SDARTS: Extracting Metadata from Web Databasesnd Interfacing with Open Archives Initiative (.ppt)](http://www.ipeirotis.com/wp-content/uploads/2012/12/jcdl2002.ppt) (JCDL 2002)
+* [SDLIP + STARTS = SDARTS: Protocol and Toolkit for Metasearching (.ppt)](http://www.ipeirotis.com/wp-content/uploads/2012/01/jcdl2001.ppt) (JCDL 2001)
 
 
 
@@ -115,7 +114,7 @@ To use the SDARTS API, developers can either:
 * [Yan Besidski](mailto:yb2005@columbia.edu)
 * [Luis Gravano](mailto:gravano@cs.columbia.edu)
 * [Noah Green](mailto:ngreen@cs.columbia.edu)
-* [Panagiotis G. Ipeirotis (contact)](mailto:pirot@cs.columbia.edu)
+* [Panagiotis G. Ipeirotis (contact)](mailto:panos@stern.nyu.edu)
 * [Boyle M Lee](mailto:bml13@columbia.edu)
 * [Mike Medric](mailto:mfm18@columbia.edu)
 * [Sergey Sigelman](mailto:ss1792@cs.columbia.edu)
